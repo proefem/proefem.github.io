@@ -14,7 +14,8 @@ https://new.cache-stream.workers.dev/stream/EmdtE7sRMSY/live.m3u8
 #https://airvuz-dronetv-1-eu.xiaomi.wurl.tv:443/4300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️★ » AɴᴅʀᴏɪᴅSystem »★🛡️",🔴☞ DELUX LOUNGE  🎼 🎶★▬
 #https://hvh-hv.otteravision.com:443/hvh/dl_hd/dl_hd_1080p.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️★ » AɴᴅʀᴏɪᴅSystem »★🛡️",🔴☞ MEGA LOUNGE  🎼 🎶★▬
+#http://iptv.prosto.tv:7000/ch328/video.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="ULUSAL",TRT4K ⁴ᴷ⁺™
@@ -1197,32 +1198,14 @@ https://ipv4.bozztv.com/dvrfl07/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ TIVIBU ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title=" TR ✦ SINEMA",✦●✦ SINEMA ✦●✦
 #http://arastv.org:8080/dost3678/3678d/213861
 
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,İşler Güçler Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/56.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Güldür Güldür Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/10.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Konuşanlar Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/21.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Yeşilçam Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/42.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Yeşilçam2 Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/49.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Kemal Sunal Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/9.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Recep Ivedik Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/6.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,Cüneyt Arkın Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/45.ts
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,İbrahim Tatlıses Anonym TV 
-http://82.197.195.127:7080/live/947nxg5lw4/1lx1keg46n/44.ts
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON1 BOX HD
+https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-1.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON2 BOX HD
+https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-2.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON3 BOX HD
+https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-3.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON4 BOX HD
+https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-4.m3u8
 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)

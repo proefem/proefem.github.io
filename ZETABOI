@@ -18,6 +18,8 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1844&extensi
 
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
 http://bozztv.com:80/gin-36bay4/gt-atv-tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
+http://195.142.1.211:4022/udp/224.2.2.19:10001
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://laurakaren.serv00.net/Giniko.php?ID=732&e=.m3u8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -31,12 +33,16 @@ http://laurakaren.serv00.net/Giniko.php?ID=735&e=.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://195.142.1.211:4022/udp/224.2.2.01:10001
+#EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://laurakaren.serv00.net/Giniko.php?ID=723&e=.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
 http://bozztv.com:80/gin-trn09/gt-kanald/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://195.142.1.211:4022/udp/224.2.2.9:10001
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://laurakaren.serv00.net/Giniko.php?ID=734&e=.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ test
@@ -44,6 +50,8 @@ http://laurakaren.serv00.net/KanalD.php?ID=canli-yayin
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
 http://149.13.0.66:4002/tv8hd
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://195.142.1.211:4022/udp/224.2.2.33:10001
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://bozztv.com/gin-36bay4/gt-tv8tv-3/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -54,10 +62,14 @@ http://laurakaren.serv00.net/Giniko.php?ID=818&e=.ts
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺™
 http://bozztv.com:80/gin-dvrfl05/gin-sekizbucuk/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://195.142.1.211:4022/udp/224.2.2.34:10001
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://laurakaren.serv00.net/Giniko.php?ID=733&e=.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL", NOW TV ᵁᴴᴰ⁺™
 http://bozztv.com:80/gin-trn09/gin-turkfoxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://195.142.1.211:4022/udp/224.2.2.25:10001
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://laurakaren.serv00.net/Giniko.php?ID=718&e=.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -1921,19 +1933,25 @@ http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/bs1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ꜰʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://tv.anystreamrectv20.xyz/live/bs11/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ꜰʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
-https://tv.anystreamrectv20.xyz/live/bs11/index.m3u8?|user-agent=Dart&Mozilla/5.0  
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  1 ꜰʜᴅ
-#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/bs2/index.m3u8index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
@@ -1945,6 +1963,9 @@ http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FLASH_TV_HD_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/bs3/index.m3u8index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs3/index.m3u8?|user-agent=Dart&Mozilla/5.0  
@@ -1959,6 +1980,9 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti3/AKILLI_TR/mono.m3u8?token=bWV
 
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/bs4/index.m3u8index.m3u8?|user-agent=Dart&Mozilla/5.0  
+#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs4/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
@@ -1968,6 +1992,9 @@ http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/YENI_KOCAELI_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="REC ➾ SPORT" , BeIN Sports  5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/bs5/index.m3u8index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="REC ➾ SPORT" , BeIN Sports  5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0  
@@ -1981,6 +2008,7 @@ https://tv.anystreamrectv20.xyz/live/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0
 https://tv.anystreamrectv20.xyz/live/bsmax1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="REC ➾ SPORT", BeIN Max  2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bsmax2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
 

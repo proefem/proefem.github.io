@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml"
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
 
 
@@ -97,7 +97,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="YEDEK ➾ ULUSAL",360 TV ᵁᴴᴰ⁺™
 http://laurakaren.serv00.net/Giniko.php?ID=742&e=.m3u8
 
-#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-tr.png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺™
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-tr.png" group-title="YEDEK ➾ ULUSAL",TV 4 ᵁᴴᴰ⁺™
 http://laurakaren.serv00.net/Giniko.php?ID=917&e=.m3u8
@@ -128,16 +128,16 @@ https://tre.2b4a9bb526bd2acb.shop/i/56dHxgg4KHGHmwotoE/4011/playlist.m3u8?|user-
 #EXTINF:-1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",BaBaLa tv ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=143114&extension=m3u8&live=true
 
-#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1873&extension=m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 
-#EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
+#EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
 
-#EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI  ᴴᴰ
+#EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI  ᴴᴰ
 
 #EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL tv ᴴᴰ⁺™
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
@@ -145,13 +145,13 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKIT tv ᵁᴴᴰ⁺™
 https://anka@akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
-#EXTINF:1 tvg-id="BenguturkTV.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK tv ᵁᴴᴰ⁺™
+#EXTINF:1 tvg-id="BenguturkTV.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="ULUSAL",BENGUTURK tv ᵁᴴᴰ⁺™
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
 #EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/balkan-turk-tv.png" group-title="ULUSAL",BALKAN TURK tv ᴴᴰ⁺™
 https://panel4.euromediacenter.com:3298/live/balkanturklive.m3u8
 
-#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᵁᴴᴰ⁺™
 http://bozztv.com:80/gin-dvrfl05/gin-tgrteu/playlist.m3u8
 #https://tgrt-live.ercdn.net/tgrteu/tgrteu_576p.m3u8
 ##https://canli.tgrteu.com/tgrteu.m3u8
@@ -1949,17 +1949,17 @@ http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://cdn.srectv1.xyz/live/bs2/index.m3u8index.m3u8?|user-agent=Dart&Mozilla/5.0  
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="REC ➾ SPORT", BeIN Sports  2 ꜰʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="REC ➾ SPORT", BeIN Sports  2 ꜰʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FLASH_TV_HD_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
@@ -2014,6 +2014,9 @@ https://tv.anystreamrectv20.xyz/live/bsmax2/index.m3u8?|user-agent=Dart&Mozilla/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="REC ➾ SPORT", Tâbii Sport + HD
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
+https://cdn.srectv1.xyz/live/tabi/index.m3u8?|user-agent=Dart&Mozilla/5.0  
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="REC ➾ SPORT", Tâbii Sport + HD
+#EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://tv.anystreamrectv20.xyz/live/tabi/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="REC ➾ SPORT", Tâbii Sport 1  HD
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
@@ -2051,7 +2054,7 @@ https://lives.anystreamrectv3.live/live/tivi4.m3u8?|user-agent=Dart&Mozilla/5.0
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="REC ➾ SPORT", S Sport 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://lives.anystreamrectv3.live/live/ssport.m3u8?|user-agent=Dart&Mozilla/5.0  
-
+#https://cdn.srectv1.xyz/live/ss1/index.m3u8?
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="REC ➾ SPORT", S Sport 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://lives.anystreamrectv3.live/live/ssport2.m3u8?|user-agent=Dart&Mozilla/5.0  
@@ -2064,16 +2067,16 @@ https://lives.anystreamrectv3.live/live/smart1.m3u8?|user-agent=Dart&Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 http://lives.anystreamrectv3.live/live/smart2.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="REC ➾ SPORT" , EUROSPORT1 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="REC ➾ SPORT" , EUROSPORT1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://lives.anystreamrectv3.live/live/euro1.m3u8?|user-agent=Dart&Mozilla/5.0  
-#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="REC ➾ SPORT" , EUROSPORT1 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="REC ➾ SPORT" , EUROSPORT1 ʜᴅ
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="REC ➾ SPORT" , EUROSPORT2 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="REC ➾ SPORT" , EUROSPORT2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart&Mozilla/5.0  
 https://lives.anystreamrectv3.live/live/euro2.m3u8?|user-agent=Dart&Mozilla/5.0  
-#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="REC ➾ SPORT" , EUROSPORT2 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="REC ➾ SPORT" , EUROSPORT2 ʜᴅ
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 
 #EXTINF:0  tvg-id="3792"   tvg-name="FightBox TR" tvg-logo="http://streaming-elbrus.su/img/logos/turk/fightbox.png" group-title="REC ➾ SPORT" , FightBox TR
@@ -2217,6 +2220,21 @@ https://lives.anystreamrectv3.live/live/disneyjunior.m3u8?user-agent=Dart&Mozill
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="GOOL ➾ SPORT",▬ GOL TV ▬
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="GOOL ➾ SPORT",TRT1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu55.serv00.net/taraftarium24.m3u8/?id=yayintrt1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="GOOL ➾ SPORT",ATV ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu55.serv00.net/taraftarium24.m3u8/?id=yayinatv.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="GOOL ➾ SPORT",TV8 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu55.serv00.net/taraftarium24.m3u8/?id=yayintv8.m3u8?|referer=https://google.com
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="GOOL ➾ SPORT",TRT SPOR YILDIZ ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -2428,6 +2446,199 @@ http://mehmetey.serv00.net/huhumetv.php?id=154583314
 http://mehmetey.serv00.net/huhumetv.php?id=2966231802
 
 
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="SKORSKY ➾ SPORT",▬ GOL TV ▬
+https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
+
+
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="SKORSKY ➾ SPORT",TRT1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayintrt1.m3u8?|referer=https://google.com
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="SKORSKY ➾ SPORT",ATV ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinatv.m3u8?|referer=https://google.com
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="SKORSKY ➾ SPORT",TV8 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayintv8.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SKORSKY ➾ SPORT",TRT SPOR YILDIZ ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayintrtspor2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="SKORSKY ➾ SPORT",TRT SPOR ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayintrtspor.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="SKORSKY ➾ SPORT",A SPOR ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinas.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="TV 8'5" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="SKORSKY ➾ SPORT",TV 8'5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://google.com
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayintv85.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SKORSKY ➾ SPORT",7/24 SPOR ʜᴅ
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+
+#EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SKORSKY ➾ SPORT", beiN Sport 1& HABER ʜᴅ
+http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SKORSKY ➾ SPORT",BeIN SPORTS 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinzirve.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SKORSKY ➾ SPORT",BeIN SPORTS 1 ʜᴅ | A
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayininat.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SKORSKY ➾ SPORT",BeIN SPORTS 1 ʜᴅ | B
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinstar.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SKORSKY ➾ SPORT",BeIN SPORTS 1 ʜᴅ | C
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayin1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="SKORSKY ➾ SPORT" , BeIN Sports  2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinb2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SKORSKY ➾ SPORT", BeIN Sports  3 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinb3.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SKORSKY ➾ SPORT", BeIN Sports  4 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinb4.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"  group-title="SKORSKY ➾ SPORT" , BeIN Sports  5 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinb5.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="SKORSKY ➾ SPORT" , BeIN Sports max 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinbm1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.2.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="SKORSKY ➾ SPORT", BeIN Sports max 2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinbm2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="Spor.Smart.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SKORSKY ➾ SPORT", Smart Spor 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinsmarts.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="Spor.Smart.2.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SKORSKY ➾ SPORT", Smart Spor 2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinsms2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="S.Sport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SKORSKY ➾ SPORT", S Sport 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinss.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="S.Sport.2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SKORSKY ➾ SPORT", S Sport 2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinss2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="SKORSKY ➾ SPORT", TiviBU SPOR 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayint1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="SKORSKY ➾ SPORT", TiviBU SPOR 2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayint2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="SKORSKY ➾ SPORT", TiviBU SPOR 3 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayint3.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="SKORSKY ➾ SPORT", TiviBU SPOR 4 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayint4.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="Sky Sport F1 UHD" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="SKORSKY ➾ SPORT", Sky Sport F1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinf1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SKORSKY ➾ SPORT", NBA TV ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinnbatv.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="Eurosport.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="SKORSKY ➾ SPORT" , EUROSPORT 1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayineu1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="Eurosport.2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="SKORSKY ➾ SPORT" , EUROSPORT 2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayineu2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  1 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex1.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  2 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex2.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  3 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex3.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  4 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex4.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  5 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex5.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  6 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex6.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  7 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex7.m3u8?|referer=https://google.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SKORSKY ➾ SPORT", EXXEN Spor  8 ʜᴅ
+#EXTVLCOPT:http-referer=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+https://koprulu.global.ssl.fastly.net/spor.m3u8/?id=yayinex8.m3u8?|referer=https://google.com
+
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="TARAFTARYUM ➾ SPORT",▬ GOL TV ▬
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
@@ -2492,42 +2703,42 @@ http://laurakaren.serv00.net/TRGoals.php?ID=yayinzirve&e=.m3u8?|referer=https://
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayininat&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 1 ʜᴅ | B
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 1 ʜᴅ | B
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinstar&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 1 ʜᴅ | C
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 1 ʜᴅ | C
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayin1&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 2 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 2 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinb2&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 3 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="https://picon-13398.kxcdn.com/beinsport3hd.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 3 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinb3&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 4 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 4 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinb4&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 5 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS 5 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinb5&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-1-hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS MAX 1 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS MAX 1 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinbm1&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-2-hd.png" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS MAX 2 ʜᴅ
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="TARAFTARYUM ➾ SPORT",BeIN SPORTS MAX 2 ʜᴅ
 #EXTVLCOPT:http-referer=https://bit.ly/m/taraftarium24hd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 http://laurakaren.serv00.net/TRGoals.php?ID=yayinbm2&e=.m3u8?|referer=https://bit.ly/m/taraftarium24hd 

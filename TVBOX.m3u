@@ -1,9 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
 
 
-
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="ULUSAL",TRT ⁴ᴷ⁺™
+https://trn03.tulix.tv/gt-trt4k/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
+https://trn03.tulix.tv/gt-trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-https://helga.iptv2022.com/sh/trt_1/index.m3u8
+https://helga.iptv2022.com/trt_1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
+https://helga.iptv2022.com/sh/trt_1/index.m3u8?filter.tracks=a1v1v2v3v4
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://194.156.236.33:4000/play/a004
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
@@ -28,6 +33,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺™
+https://trn03.tulix.tv/gt-startv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/STARTV_TR/playlist.m3u8
@@ -35,6 +42,8 @@ http://116.202.238.88/STARTV_TR/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
+https://trn03.tulix.tv/gt-kanald/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://c.fulltvizle.com/kanald/playlist.m3u8
@@ -42,6 +51,8 @@ https://c.fulltvizle.com/kanald/playlist.m3u8
 http://116.202.238.88/KANALD_TR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
+https://trn03.tulix.tv/gt-tv8-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/TV8_TR/index.m3u8
@@ -49,6 +60,10 @@ http://116.202.238.88/TV8_TR/index.m3u8
 https://c.fulltvizle.com/tv8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᴴᴰ⁺™
+https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",TV8'5 ᴴᴰ⁺™ʏᴇᴅᴇᴋ
+http://162.212.179.34:80/dvrfl05/gin-sekizbucuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",TV8'5 ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",TV8'5 ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/TV8.5_TR/playlist.m3u8
@@ -845,8 +860,6 @@ http://mehmetey.serv00.net/huhumetv.php?id=2576216897
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://mehmetey.serv00.net/huhumetv.php?id=2403425031
 
-
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg"  group-title="KLON ➾ SPORT", 0.-BEIN SPORTS 1 HD
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDExMzM5NGM1NGQ1MDg4MjVjOQ==
 
@@ -1123,13 +1136,13 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MY ➾ SPORT", TRT ☆ Spor ʜᴅ php
-http://bozztv.com:80/gin-dvrfl05/gin-trtspor2/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MY ➾ SPORT", TRT Spor ʜᴅ php
-http://bozztv.com:80/gin-dvrfl05/gin-trtspor/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-trtspor/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="a Spor" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MY ➾ SPORT", a Spor ʜᴅ php
-http://bozztv.com:80/gin-dvrfl05/gin-aspor/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-aspor/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="MY ➾ SPORT",TV8'5 ʜᴅ php
-http://bozztv.com:80/gin-dvrfl05/gin-sekizbucuk/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="MY ➾ SPORT",7/24 SPOR ʜᴅ
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" auth=aspect-ratio="16:9" group-title="MY ➾ SPORT", TiviBU SPOR ʜᴅ
@@ -1139,7 +1152,7 @@ https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="MY ➾ SPORT", FB tv ʜᴅ
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MY ➾ SPORT", beiN Sport 1& HABER ʜᴅ
-http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="MY ➾ SPORT",TRT SPOR YILDIZ FHD
@@ -1313,14 +1326,14 @@ http://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
 
 #EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SELÇUK ➾ SPORT"  ,CBC Sport  ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
-http://bozztv.com/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+https://dvrfl05.tulix.tv/gin-cbc-sport/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ExxenTV.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="SELÇUK ➾ SPORT",EXXEN TV ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://yayincorsproxy.loyefnbyf3.workers.dev/https://nove.33db90cb61d9f6de.shop/i/www.selcuksportshd1373.xyz/4011/playlist.m3u8
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SELÇUK ➾ SPORT", beiN Sport 1& HABER ʜᴅ
-https://bozztv.com/dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SELÇUK ➾ SPORT", beiN Sport HABER  ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://yayincorsproxy.loyefnbyf3.workers.dev/https://cinque.7485a56a493cbfc3.click/i/www.selcuksportshd1393.xyz/1/playlist.m3u8
@@ -1571,7 +1584,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #https://canlitvulusal.xyz/live/fbtv/index.m3u8
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="RADAR ➾ SPORT", beiN Sport 1& HABER ʜᴅ
-http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="RADAR ➾ SPORT", beiN Sport 1& HABER  ʜᴅ
 http://162.212.179.32:80/dvrfl05/gin-beinsportshaber/playlist.m3u8
 
@@ -4963,6 +4976,98 @@ https://ia801300.us.archive.org/35/items/turkcefilmler/Mahser-Gunu.mp4
 https://ia801300.us.archive.org/35/items/turkcefilmler/Rehber-heeb-2014.MP4
 #EXTINF:-1 tvg-logo="https://archive.org/download/BattalGaziDestan1971/BattalGaziDestan1971.thumbs/Battal Gazi Destanı - 1971_000114.jpg" group-title="*TÜRK_FILMLER",BATTAL GAZI DESTANI
 https://ia803102.us.archive.org/1/items/BattalGaziDestan1971/Battal%20Gazi%20Destan%C4%B1%20-%201971.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22223/cover.jpg" group-title="Dublaj Film",Asi 13 - The Shadow Strays (2024)
+https://cdn6.video.az/storage/movie/22/22223/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22142/cover.jpg" group-title="Dublaj Film",Atatürk 1881 – 1919 (2023)
+https://cdn8.video.az/storage/movie/22/22142/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22090/cover.jpg" group-title="Dublaj Film",Birlik - The Union (2024)
+https://cdn8.video.az/storage/movie/22/22090/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22152/cover.jpg" group-title="Dublaj Film",Boksör - Boxer (2024)
+https://cdn6.video.az/storage/movie/22/22152/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22028/cover.jpg" group-title="Dublaj Film",Casusum 2: Ebedi Şehir - My Spy: The Eternal City (2024)
+https://cdn8.video.az/storage/movie/22/22028/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22154/cover.jpg" group-title="Dublaj Film",Çirkinler - Uglies (2024)
+https://cdn6.video.az/storage/movie/22/22154/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22151/cover.jpg" group-title="Dublaj Film",Dublör - The Fall Guy (2024)
+https://cdn8.video.az/storage/movie/22/22151/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22054/cover.jpg" group-title="Dublaj Film",Erdal ile Ece (2024)
+https://cdn8.video.az/storage/movie/22/22054/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22196/cover.jpg" group-title="Dublaj Film",Ganimet Evi - House of Spoils (2024)
+https://cdn8.video.az/storage/movie/22/22196/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22042/cover.jpg" group-title="Dublaj Film",Gayribeyefendi Savaş Dairesi - The Ministry of Ungentlemanly Warfare (2024)
+https://cdn8.video.az/storage/movie/22/22042/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22056/cover.jpg" group-title="Dublaj Film",Gece Yüzüşü - Night Swim (2024)
+https://cdn8.video.az/storage/movie/22/22056/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22173/cover.jpg" group-title="Dublaj Film",Godzilla ve Kong: Yeni İmparatorluk - Godzilla x Kong: The New Empire (2024)
+https://cdn8.video.az/storage/movie/22/22173/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22221/cover.jpg" group-title="Dublaj Film",Hayali Arkadaşlar - IF (2024)
+https://cdn6.video.az/storage/movie/22/22221/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22138/cover.jpg" group-title="Dublaj Film",Hep Yek 7: Aşiret (2024)
+https://cdn8.video.az/storage/movie/22/22138/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22214/cover.jpg" group-title="Dublaj Film",Hepsini Öldür 2 - Kill'em All 2 (2024)
+https://cdn8.video.az/storage/movie/22/22214/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22174/cover.jpg" group-title="Dublaj Film",İç Savaş - Civil War (2024)
+https://cdn6.video.az/storage/movie/22/22174/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22205/cover.jpg" group-title="Dublaj Film",İçinde Kim Var? - It's What's Inside (2024)
+https://cdn6.video.az/storage/movie/22/22205/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22088/cover.jpg" group-title="Dublaj Film",İkramiye! - Jackpot! (2024)
+https://cdn8.video.az/storage/movie/22/22088/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22224/cover.jpg" group-title="Dublaj Film",Kardeşler - Brothers (2024)
+https://cdn8.video.az/storage/movie/22/22224/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22187/cover.jpg" group-title="Dublaj Film",Kral Artur - Arthur the King (2024)
+https://cdn6.video.az/storage/movie/22/22187/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22099/cover.jpg" group-title="Dublaj Film",Kung Fu Panda 4 (2024)
+https://cdn8.video.az/storage/movie/22/22099/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22119/cover.jpg" group-title="Dublaj Film",Kurtuluş - The Deliverance (2024)
+https://cdn8.video.az/storage/movie/22/22119/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22100/cover.jpg" group-title="Dublaj Film",Maymun Adam - Monkey Man (2024)
+https://cdn8.video.az/storage/movie/22/22100/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22061/cover.jpg" group-title="Dublaj Film",Maymunlar Cehennemi 4: Yeni Krallık - Kingdom of the Planet of the Apes (2024)
+https://cdn8.video.az/storage/movie/22/22061/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22197/cover.jpg" group-title="Dublaj Film",Nefesini Tut - Hold Your Breath (2024)
+https://cdn8.video.az/storage/movie/22/22197/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22121/cover.jpg" group-title="Dublaj Film",Nişancı - Gunner (2024)
+https://cdn8.video.az/storage/movie/22/22121/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22183/cover.jpg" group-title="Dublaj Film",Ölümcül Ateş - Killer Heat (2024)
+https://cdn6.video.az/storage/movie/22/22183/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22168/cover.jpg" group-title="Dublaj Film",Omen: İlk Kehanet - The First Omen (2024)
+https://cdn6.video.az/storage/movie/22/22168/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22055/cover.jpg" group-title="Dublaj Film",Puslu Sınır - Borderless Fog (2024)
+https://cdn8.video.az/storage/movie/22/22055/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22141/cover.jpg" group-title="Dublaj Film",Rebel Ridge (2024)
+https://cdn8.video.az/storage/movie/22/22141/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22222/cover.jpg" group-title="Dublaj Film",Saldırı - Justice (2024)
+https://cdn8.video.az/storage/movie/22/22222/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22104/cover.jpg" group-title="Dublaj Film",Sevmek Yüzünden (2024)
+https://cdn8.video.az/storage/movie/22/22104/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22155/cover.jpg" group-title="Dublaj Film",Siyah Kuşaklı Memur - Officer Black Belt (2024)
+Omen: İlk Kehanet - The First Omen (2024)
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22153/cover.jpg" group-title="Dublaj Film",Suç Kraliçesi - Bandida: A Número Um (2024)
+https://cdn8.video.az/storage/movie/22/22153/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22114/cover.jpg" group-title="Dublaj Film",Suçlu ve Güçlü - Príncipes salvajes (2024)
+https://cdn8.video.az/storage/movie/22/22114/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22216/cover.jpg" group-title="Dublaj Film",Suyun Üstü (2023)
+https://cdn8.video.az/storage/movie/22/22216/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22050/cover.jpg" group-title="Dublaj Film",Tarot (2024)
+https://cdn8.video.az/storage/movie/22/22050/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22184/cover.jpg" group-title="Dublaj Film",Ters Yüz 2 - Inside Out 2 (2024)
+https://cdn8.video.az/storage/movie/22/22184/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22049/cover.jpg" group-title="Dublaj Film",The Garfield Movie (2024)
+https://cdn8.video.az/storage/movie/22/22049/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22199/cover.jpg" group-title="Dublaj Film",The Platform 2 - El hoyo 2 (2024)
+https://cdn6.video.az/storage/movie/22/22199/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22137/cover.jpg" group-title="Dublaj Film",Tutsak - Abigail (2024)
+https://cdn8.video.az/storage/movie/22/22137/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22215/cover.jpg" group-title="Dublaj Film",Uprising - Jeon Ran (2024)
+https://cdn6.video.az/storage/movie/22/22215/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn6.video.az/storage/movie/22/22213/cover.jpg" group-title="Dublaj Film",Yalnız Gezegen - Lonely Planet (2024)
+https://cdn6.video.az/storage/movie/22/22213/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22033/cover.jpg" group-title="Dublaj Film",Young Woman and the Sea (2024)
+https://cdn8.video.az/storage/movie/22/22033/video.mp4
+#EXTINF:-1 tvg-logo="https://cdn8.video.az/storage/movie/22/22029/cover.jpg" group-title="Dublaj Film",Zaferin Rengi (2024)
+https://cdn8.video.az/storage/movie/22/22029/video.mp4
 #EXTINF:-1 tvg-logo="http://cdn6.video.az/storage/movie/7/7215/cover.jpg" group-title="*Türkçe Dublaj geç açılır",Arınma Gecesi: Anarşi
 http://cdn6.video.az/storage/movie/7/7215/video.mp4
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Global Star tv.png" group-title="*Türkçe Dublaj geç açılır",Star Trek: Sonsuzluk (2016)

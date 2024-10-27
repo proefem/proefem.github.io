@@ -1,14 +1,18 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+#EXTM3U x-url-tvg="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ GÜNCEL PAYLAŞIMLAR TV 🎼 🎶
 https://new.cache-stream.workers.dev/stream/EmdtE7sRMSY/live.m3u8
 
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="ULUSAL",TRT ⁴ᴷ⁺™
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://picon-13398.kxcdn.com/trt4ktr.jpg" group-title="ULUSAL",TRT ⁴ᴷ⁺™
 https://trn03.tulix.tv/gt-trt4k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 https://trn03.tulix.tv/gt-trt1eu/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺™
 https://helga.iptv2022.com/trt_1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://194.156.236.33:4000/play/a004
@@ -76,11 +80,15 @@ https://c.fulltvizle.com/tv85/playlist.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺™
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+https://trn03.tulix.tv/gt-beyaztv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSALʏᴇᴅᴇᴋ",BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/BEYAZTV_TR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif"group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
+https://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif"group-title="ULUSALʏᴇᴅᴇᴋ",NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif"group-title="ULUSALʏᴇᴅᴇᴋ",NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://c.fulltvizle.com/fox/playlist.m3u8
@@ -120,7 +128,7 @@ http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:0 tvg-id=""tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV ᴴᴰ⁺
-http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8  
+#http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8  
 
 #EXTINF: -1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN  ᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -280,19 +288,19 @@ https://live.euromediacenter.com/anadolunettv/chunks.m3u8?autoplay=1
 
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
-https://helga.iptv2022.com/sh/trt_haber/index.m3u8
+https://tv.ensonhaber.com/trthaber/trthaber.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
 http://hw1.jemtv.com/app/AHaber/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
-http://hw1.jemtv.com/app/cnnturk/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-cnnturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺
-http://hw1.jemtv.com/app/ulketv/playlist.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-d="Kanal24.TR" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᵁᴴᴰ⁺
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
@@ -313,7 +321,7 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-ntvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name=" TR" tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="HABER",LİDER HABER ᴴᴰ⁺™
 https://ip252.ozelip.com:22524/lidertv/lidertv/playlist.m3u8

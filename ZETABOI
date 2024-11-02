@@ -87,7 +87,7 @@ http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue
 http://195.142.1.211:4022/udp/224.2.2.01:10001/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -100,6 +100,8 @@ http://162.212.179.34:80/trn09/gin-startv/playlist.m3u8
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="YEDEK ➾ ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
@@ -653,7 +655,7 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="BENGUTURK TV" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="YEDEK ➾ HABER",BENGU TURK ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UChNgvcVZ_ggDdZ0zCcuuzFw.m3u8
 
-#EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name="LiderTV.tr"  tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2023/03/lider-logo.svg" group-title="ULUSAL ➾ HABER",LİDER HABER ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name="LiderTV.tr"  tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="ULUSAL ➾ HABER",LİDER HABER ᴴᴰ⁺™
 https://ip252.ozelip.com:22524/lidertv/lidertv/playlist.m3u8
 #EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name="LiderTV.tr"  tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2023/03/lider-logo.svg" group-title="YEDEK ➾ HABER",LİDER HABER ᴴᴰ⁺™
 http://195.142.1.211:4002/udp/224.2.2.13:10001/playlist.m3u8
@@ -743,7 +745,8 @@ https://ythls.armelin.one/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="ULUSAL ➾ HABER",FINANSTURK ᴴᴰ⁺™
 http://51.68.154.158:1935/live/finansturk/finansturk_1080p.m3u8
-#https://tv.digitalbox.xyz:19360/finansturktv/finansturktv.m3u8
+#EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="YEDEK ➾ HABER",FINANSTURK ᴴᴰ⁺™
+http://51.68.154.158:1935/live/finansturk/finansturk_720p.m3u8
 
 #EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://canlitv.center/channels/cadde-tv.png" group-title="ULUSAL ➾ HABER",CADDE TVᵁᴴᴰ⁺™
 ##http://185.234.111.229:8000/play/a00x

@@ -265,7 +265,7 @@ http://93.119.105.62:80/play/live.php?mac=00:1A:79:4D:54:E5&stream=143114&extens
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
-http://65.21.85.175:8000/play/a02d/index.m3u8?|token=livetv
+http://65.21.85.175:8000/play/a02d/index.m3u8?&token=livetv
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="YEDEK ➾ ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1873&extension=m3u8&live=true
 
@@ -5895,29 +5895,28 @@ https://ie.sonyrepairs.com/laliga/index.m3u8
 #EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 (m3u-ip.tv 2.2.4)
 https://lives.anystreamrectv3.live/live/trtbelgesel.m3u8?|user-agent=Dart/Mozilla/5.0 (m3u-ip.tv 2.2.4)
 #EXTINF:-1  tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"  group-title="TR ➾ BELGESEL"     ,TRT BELGESEL ʜᴅ
-http://laurakaren.serv00.net/Giniko.php?ID=762&e=.m3u8
+https://helga.iptv2022.com/trt_belgesel/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id"tgrtbelgesel.tr" tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png" group-title="TR ➾ BELGESEL" ,TGRT BELGESEL ʜᴅ
-https://bozztv.com/inim03/live1/tgrtbelgesel/playlist.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id"tgrtbelgesel.tr" tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png" group-title="TR ➾ BELGESEL" ,TGRT BELGESEL ʜᴅ
-http://162.212.179.32/gin-dvrfl05/gin-tgrtbelgesel/playlist.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="TR ➾ BELGESEL"     ,TLC ʜᴅ
-http://laurakaren.serv00.net/Giniko.php?ID=745&e=.ts
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="TR ➾ BELGESEL"     ,TLC ʜᴅ
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8?
+http://hw1.jemtv.com/app/tlchd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
-#EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 (m3u-ip.tv 2.2.4)
-https://lives.anystreamrectv3.live/live/dmax.m3u8?|user-agent=Dart/Mozilla/5.0 (m3u-ip.tv 2.2.4)
-#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
-http://laurakaren.serv00.net/Giniko.php?ID=746&e=.ts
+#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
+http://hw1.jemtv.com/app/Dmax/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" group-title="TR ➾ BELGESEL"  ,YABAN TV ʜᴅ
-http://laurakaren.serv00.net/Giniko.php?ID=761&e=.ts
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&e=.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" group-title="TR ➾ BELGESEL"  ,YABAN TV ʜᴅ
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.ts
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&e=.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://silkwaytv.kz/img/silknew.png" group-title="TR ➾ BELGESEL", IPEK YOLU/SİLKWAY/ ʜᴅ
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/silkway.m3u8

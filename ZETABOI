@@ -34,7 +34,9 @@ http://tgn.bozztv.com/trn03/gt-trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://162.212.179.34/dvrfl05/gin-trt1eu/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
-#http://194.156.236.33:4000/play/a004
+http://garaveli.serv00.net/Gledai?ID=trt1&e=.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
+http://194.156.236.33:4000/play/a004
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://185.234.111.229:8000/play/a00c
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
@@ -121,10 +123,6 @@ http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 https://c.fulltvizle.com/kanald/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/KANALD_TR/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://laurakaren.serv00.net/Giniko.php?ID=734&e=.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ test
-http://laurakaren.serv00.net/KanalD.php?ID=canli-yayin
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ ()
 https://helga.iptv2022.com/kanal_d/index.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ ()
@@ -196,8 +194,6 @@ http://trn03.tulix.tv/gt-kanal7/playlist.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="YEDEK ➾ ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
 http://149.13.0.66:4003/kanal7
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="YEDEK ➾ ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=740&e=.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺™
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
@@ -640,8 +636,6 @@ http://195.142.1.211:4022/udp/224.2.2.2:10001/playlist.m3u8
 http://trn03.tulix.tv/gt-ntvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="YEDEK ➾ HABER",NTV ᵁᴴᴰ⁺™
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/ntv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="YEDEK ➾ HABER",NTV ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=769&e=.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="YEDEK ➾ HABER",NTV ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -684,17 +678,15 @@ http://trn03.tulix.tv/gt-sozcutv/playlist.m3u8
 http://tgn.bozztv.com/trn03/gt-sozcutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="YEDEK ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™
 https://szctv.blutv.com/blutv_szctv/live.m3u8
-#EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="YEDEK ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=872&e=.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="YEDEK ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="ULUSAL ➾ HABER",KRT TV ᵁᴴᴰ⁺™
-https://krttv-live.daioncdn.net/krttv/krttv_1080p.m3u8
-#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
 http://trn03.tulix.tv/gt-krttv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=773&e=.m3u8
+https://krttv-live.daioncdn.net/krttv/krttv_1080p.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
 
@@ -716,8 +708,6 @@ https://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="YEDEK ➾ HABER",HALK TV ᵁᴴᴰ⁺™
 http://trn03.tulix.tv/gt-halktv/playlist.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="YEDEK ➾ HABER",HALK TV ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=802&e=.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="YEDEK ➾ HABER",HALK TV ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
@@ -730,8 +720,6 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=3003&extension
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="ULUSAL ➾ HABER",BLOOMBERG HT ᵁᴴᴰ⁺™
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="YEDEK ➾ HABER",BLOOMBERG HT ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=922&e=.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="YEDEK ➾ HABER",BLOOMBERG HT ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
 
@@ -745,8 +733,6 @@ https://ythls.armelin.one/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="ULUSAL ➾ HABER",EKOTURK ᵁᴴᴰ⁺™
 https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="YEDEK ➾ HABER",EKOTURK ᵁᴴᴰ⁺™
-http://laurakaren.serv00.net/Giniko.php?ID=776&e=.ts
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="YEDEK ➾ HABER",EKOTURK ᵁᴴᴰ⁺™@
 https://ythls.armelin.one/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 

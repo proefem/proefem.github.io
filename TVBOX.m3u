@@ -215,7 +215,8 @@ https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
 #https://anka@tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
-http://195.142.3.105/artidijital_birtv/birtv/chunks.m3u8?autoplay=1
+https://ht-144-76-157-47.socialsmart.tv/birtv/bant1/chunks.m3u8
+#http://195.142.3.105/artidijital_birtv/birtv/chunks.m3u8?autoplay=1
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"group-title="ULUSAL"    ,LIFE TV ᴴᴰ⁺
 http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
@@ -2840,6 +2841,9 @@ http://edge02.odtv.az/o3/natgeo/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv
 https://lives.anystreamrectv3.live/live/natgeowild.m3u8?|user-agent=Dart/Mozilla/5.0 (m3u-ip.tv 2.2.4)
 #EXTINF:-1 tvg-id"NatGeoWild.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg"  group-title="TR ➾ BELGESEL"    ,NATIONAL GEOGRAPHIC WILD  ʜᴅ
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
+
+#EXTINF:0  tvg-id="" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="TR ➾ BELGESEL",SDM TV BELGESEL ᴴᴰ
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ BELGESEL",Kültür Sanat TV ʜᴅ
 http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8

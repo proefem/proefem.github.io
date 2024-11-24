@@ -3164,17 +3164,25 @@ https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ TIVIBU ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title=" TR ✦ SINEMA",✦●✦ SINEMA ✦●✦
 #http://arastv.org:8080/dost3678/3678d/213861
 
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , YEŞİLÇAM MEGATV HD
+https://Megayesilcam.justhost.online:3889/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , ŞABAN MEGATV HD
+https://Sabantv.justhost.online:3264/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , SİNEMA MEGATV HD
+https://tivi208.radyotelekom.com.tr:3578/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , RETRO SİNEMA MEGATV HD
+https://tivi208.radyotelekom.com.tr:3698/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA"  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,SDM TV Sinema ᴴᴰ
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 1 BOX HD
-https://cdn8.video.az/storage/movie/22/22054/video.mp4
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 2 BOX HD
-https://cdn8.video.az/storage/movie/22/22061/video.mp4
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 3 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-1.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 4 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 2 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-2.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 5 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 3 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-3.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 6 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 4 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-4.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ✦ SINEMA",FX ʜᴅ

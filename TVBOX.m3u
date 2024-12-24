@@ -180,7 +180,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 https://tre.2b4a9bb526bd2acb.shop/i/56dHxgg4KHGHmwotoE/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/330px-Just_For_Laughs_Gags.png" aspect-ratio="16:9" group-title="ULUSAL", Gags Network ⁺™   
-http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
+#http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
 
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
@@ -304,7 +304,7 @@ https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL  
-http://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/playlist.m3u8
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV ᴴᴰ⁺™
 https://live.euromediacenter.com/anadolunettv/chunks.m3u8?autoplay=1
@@ -3269,246 +3269,6 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718118?play_token=
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718117?play_token=
 #EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME ANIMASYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="▎CINETIME",TR ▎CINETIME ANIMASYON 3 FHD
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718116?play_token=
-
-
-
-
-#EXTINF:-1 group-title="Kemal Sunal",YUZ NUMARALI ADAM (Kemal Sunal)
-https://vod02.cdn.web.tv/iz/rb/izrblgef74o_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",KILIBIK (Kemal Sunal)
-https://vod02.cdn.web.tv/yy/pb/yypbdmuleie_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",TOSUN PASA (Kemal Sunal)
-https://vod02.cdn.web.tv/ib/xs/ibxshxgbedu_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",COPCULER KRALI (Kemal Sunal)
-https://vod02.cdn.web.tv/ah/f5/ahf5sfsoylq_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",TOKATCI (Kemal Sunal)
-https://vod02.cdn.web.tv/gk/pq/gkpqhziop3c_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",ATLA GEL SABAN (Kemal Sunal)
-#https://ia600508.us.archive.org/3/items/AtlaGelaban1984720pSanssrsrzH2641280x720/Atla%20Gel%20%C5%9Eaban%20%281984%29%20%5B720p%20-%20Sans%C3%BCrs%C3%BCz%5D_H264-1280x720.mp4
-#EXTINF:-1 group-title="Kemal Sunal",SOSYETE SABAN (Kemal Sunal)
-https://vod02.cdn.web.tv/du/ni/dunimgqxpdu_,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",KEMAL SUNAL- KÖYDEN İNDİM ŞEHİRE HD
-http://vod02.cdn.web.tv/yv/um/yvumaob39ba_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - FIRTINA KEMAL HD
-https://vod02.cdn.web.tv/hx/iw/hxiwwdjrfca_,360,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - HAYATİMİZİN EN GÜZEL YİLLARİ HD
-https://vod02.cdn.web.tv/ry/v8/ryv8gcnbuuu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN -  ASK MABUDESI HD
-https://vod02.cdn.web.tv/wf/ds/wfdso3ysfno_720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - ARİM BALIM PETEĞIM HD
-http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - BABANİN OĞLU HD
-https://vod02.cdn.web.tv/4k/me/4kmeosnomua_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - KÜÇÜK SEVGİLİM HD
-http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - OYUN BİTTİ HD
-http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - SATIN ALINAN KOCA HD
-http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN -  KIN HD
-https://vod02.cdn.web.tv/1m/sm/1msm0r3vr86_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - KUŞCU HD
-https://vod02.cdn.web.tv/4u/a4/4ua4oxvzkns_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - ÇARESİZLER HD
-https://vod02.cdn.web.tv/je/em/jeem0n5tm76_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - İSTASYON HD
-http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKIN- KÜSKÜN ÇİÇEK HD
-http://vod02.cdn.web.tv/gu/yi/guyi2dlk5x6_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - KOPUK HD
-https://vod02.cdn.web.tv/vu/gq/vugqgg4ab3o_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - ÜÇ ARKADAŞ HD
-https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,1080,.mp4.urlset/master.m3u8
-#https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,240,360,480,720,1080,.mp4.urlset/master.m3u8
-#https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,240,360,480,720,1080,.mp4.urlset/master.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - TOPHANELİ MURAT HD
-https://vod02.cdn.web.tv/pi/fl/piflwwsxfka_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - VUKAAT VAR HD
-https://vod02.cdn.web.tv/k9/qu/k9qumh1yomw_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - SENLİK VAR HD
-https://vod02.cdn.web.tv/7z/gr/7zgrgwmwloq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - GELİN ÇİÇEĞİ HD
-https://vod02.cdn.web.tv/3z/2h/3z2har9oyna_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - ACELE KOCA ARANIYOR
-https://vod02.cdn.web.tv/ae/g6/aeg6luszrck_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- ATEŞ PARCASI HD
-https://vod02.cdn.web.tv/bi/ih/biihyjr8l3q_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- KADIN DEĞİL BAŞ BELASİ
-https://vod02.cdn.web.tv/ju/fe/jufeohghvoe_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- BÜLBÜL YUVASİ HD
-https://vod02.cdn.web.tv/pq/xn/pqxnrutu2se_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKSAN ŞORAY - TATLİ MELEĞİM HD
-https://vod02.cdn.web.tv/qi/jm/qijmwa4fwug_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY-  SANA DÖNMEYECEĞİM HD
-https://vod02.cdn.web.tv/2n/oy/2noyzhuw87w_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="ŞENER ŞEN",ŞENER ŞEN- NAMUSLU HD
-http://vod02.cdn.web.tv/bn/2z/bn2zvu3xi2s_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MURAT SOYDAN",MURAT SOYDAN- EVLAT HD
-https://vod02.cdn.web.tv/mw/rv/mwrvmz1dxne_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="EDİZ HUN",EDİZ HUN-  BÜTÜN ANNELER MELEKTİR
-http://vod02.cdn.web.tv/a0/wu/a0wuaonenok_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- HUZURUM KALMADİ
-https://vod02.cdn.web.tv/vr/1t/vr1tqky1jvc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDİ TAYFUR- ÇEŞME HD
-https://vod02.cdn.web.tv/pa/z0/paz0aefhjk2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- YADELLER HD
-https://vod02.cdn.web.tv/bq/gl/bqglza25zp2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- DERBEDER HD
-https://vod02.cdn.web.tv/yr/he/yrhekknxoye_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BENİM GİBİ SEVENLER HD
-https://vod02.cdn.web.tv/4c/jw/4cjwzig9mia_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDİ TAYFUR - HARAM OLDU HD
-https://vod02.cdn.web.tv/lq/qy/lqqyutrppco_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- HASRET SANCISI
-https://vod02.cdn.web.tv/nb/su/nbsuhiojwty_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BENDE ÖZLEDİM BENDE HD
-https://vod02.cdn.web.tv/yq/i1/yqi13bav9am_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- YA BENİMSİN YA TOPRAGİN HD
-https://vod02.cdn.web.tv/8c/37/8c37sdhoqvm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BOYNU BÜKÜK HD
-https://vod02.cdn.web.tv/nz/ng/nzngp5ucyoi_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- ELVEDA MUTLULUKLAR HD
-https://vod02.cdn.web.tv/xn/ga/xngaayeukpc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- KALBİMDEKİ ACI
-https://vod02.cdn.web.tv/2r/6e/2r6ef84dgou_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- SON SABAH
-https://vod02.cdn.web.tv/c1/1o/c11oshiuxai_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- SENDEMİ LEYLA
-https://vod02.cdn.web.tv/mw/ty/mwtyduw5iys_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- ALLAHİM SEN BİLİRSİN
-https://vod02.cdn.web.tv/zb/rt/zbrtbfqftbc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- AH BİR COCUK OLSAYDIM
-https://vod02.cdn.web.tv/xu/sn/xusn7hzd84u_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BU TALIHIMIN CANINA OKUYACAGIM
-https://vod02.cdn.web.tv/do/2r/do2rwkptski_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- OLMAZ OLSUN
-https://vod02.cdn.web.tv/mk/iq/mkiq1cuodbk_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- AFET ALLAHIM
-https://vod02.cdn.web.tv/w6/f5/w6f5fagykfc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- GÜNAHA GİRME
-https://vod02.cdn.web.tv/wu/hp/wuhpor71fek_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNERY- MELEK YÜZLÜM
-https://vod02.cdn.web.tv/uo/oe/uooejhp0wcu_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - TUTSAK HD
-https://vod02.cdn.web.tv/bg/dz/bgdztqqgeko_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - NAMUS SÖZÜ HD
-https://vod02.cdn.web.tv/ia/it/iaitqp6bebc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - CANDAN SEVMELİ HD
-https://vod02.cdn.web.tv/bu/0i/bu0ihpavchi_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",BÜLET KARABAŞ - MİNİK CADİ HD
-https://vod02.cdn.web.tv/ks/yh/ksyhtljlnsc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - SANA CAN DAYANMAZ HD
-https://vod02.cdn.web.tv/wd/ca/wdca1aeklwy_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - GÜNAH DEFTERİ HD
-https://vod02.cdn.web.tv/ge/c3/gec3w2xaoei_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - TALİH KUŞU HD
-https://vod02.cdn.web.tv/0o/ou/0oouasqgtok_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="UMİT BESEN",UMİT BESEN - YİKİLAN GURUR HD
-http://vod02.cdn.web.tv/ve/3p/ve3plrj3tcy_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="UMİT BESEN",ÜMİT BESEN - SEVDA RÜZGARİ HD
-http://vod02.cdn.web.tv/fu/a2/fua2yxu1wg6_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - CAN KURBAN HD
-http://vod02.cdn.web.tv/i8/pi/i8pi3seutzg_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - İKİMİZDE SEVDİK HD
-http://vod02.cdn.web.tv/r4/ei/r4ei1wyqidu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TUNCER- ÜÇ GÜZEL GÜVERCİN HD
-http://vod02.cdn.web.tv/9d/q7/9dq7eh4vube_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - YETER HD
-http://vod02.cdn.web.tv/6r/hq/6rhq2grajqw_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH - ACILARIN COCUĞU HD
-https://vod02.cdn.web.tv/dg/py/dgpyqrqd97u_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ACI LOKMA
-https://vod02.cdn.web.tv/r9/hs/r9hsjy4ft2s_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH-  ZAVALLILAR HD
-https://vod02.cdn.web.tv/tx/su/txsu2ku74pi_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- AYRILLAMAM HD
-https://vod02.cdn.web.tv/92/4n/924n4bcswcu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ÖKSÜZLER HD
-https://vod02.cdn.web.tv/nt/te/ntte6rdw0x2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- VURMAYIN HD
-https://vod02.cdn.web.tv/cs/t4/cst4nydcxyy_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- SEFILLER HD
-https://vod02.cdn.web.tv/zf/zy/zfzyjr2043o_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- CAN EVİMDEN VURDULAR
-https://vod02.cdn.web.tv/ft/ci/ftciavwafyq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ES DELİ RÜZGAR
-https://vod02.cdn.web.tv/ws/cd/wscdchbcmia_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="ARIF SUSAM" tvg-logo="",ARIF SUSAM- KADER UTANSIN
-http://vod02.cdn.web.tv/l7/yw/l7ywnfzizds_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",BEBEK GİBİ MASALLAH HD
-https://vod02.cdn.web.tv/md/9v/md9v4chkuei_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",ZAMPARA SEYFETTİN HD
-http://vod02.cdn.web.tv/cm/ie/cmieel3fqmu_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",HZ. RABİA
-https://vod02.cdn.web.tv/4x/c7/4xc7ycljxpq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",NASREDDİN HOCA`NIN ÇARPICI HAYAT HİKAYESİ
-http://vod02.cdn.web.tv/zw/qf/zwqffgkwhrm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",NASRETTİN HOCA - YA TUTARSA HD
-http://vod02.cdn.web.tv/xx/hw/xxhwziqisic_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E01" group-title="Konuşanlar",Konuşanlar S04 E01
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E02" group-title="Konuşanlar",Konuşanlar S04 E02
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3919552587&type=M3U8_AUTO_1080&fid=588394640707038&sign=5c16725ad20dc1e41456d6786c29b1daa056e911&timestamp=1705774182&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E04" group-title="Konuşanlar",Konuşanlar S04 E04
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3325710656&type=M3U8_AUTO_1080&fid=777990062168709&sign=e9338ac08a0b7e56d40f7b15d25fc9c6120cacab&timestamp=1705783893&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E05" group-title="Konuşanlar",Konuşanlar S04 E05
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1592747934&type=M3U8_AUTO_1080&fid=325381662797105&sign=39fc05d86cef1942b5a5e12e957a7381e57393a2&timestamp=1705784009&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E06" group-title="Konuşanlar",Konuşanlar S04 E06
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3978730202&type=M3U8_AUTO_1080&fid=67338793856212&sign=ad96c5abf61a6fe6cd9258ecd0c44d4ef4545b36&timestamp=1705784135&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E07" group-title="Konuşanlar",Konuşanlar S04 E07
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=490107767&type=M3U8_AUTO_1080&fid=406279574187884&sign=2db813f7ebbbe1039ecfeb6f026fcfe741e6a77b&timestamp=1705784644&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E08" group-title="Konuşanlar",Konuşanlar S04 E08
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2959473649&type=M3U8_AUTO_1080&fid=865218785367389&sign=6ff7f6646fc66a8282d3d3fa990c9981219eea64&timestamp=1705784773&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E09" group-title="Konuşanlar",Konuşanlar S04 E09
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=693341146&type=M3U8_AUTO_1080&fid=979053591005831&sign=6fb3eeb4f6388161b2207f9140604b93cae78003&timestamp=1705784939&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E10" group-title="Konuşanlar",Konuşanlar S04 E10
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=160631463&type=M3U8_AUTO_1080&fid=199134936567106&sign=88f9d131b34bf7b116a0e1fdf6e2f39df72ab775&timestamp=1705785064&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E11" group-title="Konuşanlar",Konuşanlar S04 E11
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3302523523&type=M3U8_AUTO_1080&fid=666920015112773&sign=6764826bc6d797f1dcf177526a5c8add3eefd315&timestamp=1705785169&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E12" group-title="Konuşanlar",Konuşanlar S04 E12
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2594149209&type=M3U8_AUTO_1080&fid=1001351250506154&sign=02d5265295063120d5557f92a28d46622dca27d4&timestamp=1705785256&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E13" group-title="Konuşanlar",Konuşanlar S04 E13
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1075793569&type=M3U8_AUTO_1080&fid=815368836251773&sign=8f5a98dbca75b9236ff10a6f766b03dfd2caa96a&timestamp=1705599962&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E14" group-title="Konuşanlar",Konuşanlar S04 E14
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3566911913&type=M3U8_AUTO_1080&fid=184090517090837&sign=b55c9342029cef6f4062a1c9d9f31801a6e23714&timestamp=1705599919&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E15" group-title="Konuşanlar",Konuşanlar S04 E15
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=488309651&type=M3U8_AUTO_1080&fid=739429632835976&sign=f365fea13267f34dca882ad79b3ac2cd13388f06&timestamp=1705599874&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E16" group-title="Konuşanlar",Konuşanlar S04 E16
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=178693071&type=M3U8_AUTO_1080&fid=613361682774985&sign=f2d50ee6b65043341c0c22ad2d77a2a68590b845&timestamp=1705582792&jsToken=DF7F8D0591E248AE2B7BEF21F9B84819010F53007BBA0AF20819556C58AE5444260404DF8DF9F739C89595AF247C4E985B8724C1BF2AC8D1C28DB8648E4057D10D9B7497DB5C9D44667F58C7512EFEC541233901A1E9FA44C6AA88A517BBBF7F&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E17" group-title="Konuşanlar",Konuşanlar S04 E17
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2175910318&type=M3U8_AUTO_1080&fid=839643931012060&sign=09e31fbc3817271969c0320c2a4b92708284721b&timestamp=1705789754&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E18" group-title="Konuşanlar",Konuşanlar S04 E18
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=328849865&type=M3U8_AUTO_1080&fid=737716449775285&sign=e16a8200ae3f5d65adfa825193b3624977f729ad&timestamp=1705789799&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E19" group-title="Konuşanlar",Konuşanlar S04 E19
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&type=M3U8_AUTO_1080&fid=780280474552555&sign=dd07f8eae36534cd5c741c51ec61bcb387742db8&timestamp=1706391227&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E20" group-title="Konuşanlar",Konuşanlar S04 E20
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E03" group-title="Konuşanlar",Konuşanlar S04 E03
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3614733653&type=M3U8_AUTO_1080&fid=1056598732275138&sign=d701b1fb009734b84496f45108d3a47d2426e01e&timestamp=1705783801&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 
 
 
@@ -16128,7 +15888,7 @@ http://yayin1.yayindakiler.com:3024/;
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DOKSANLAR
 http://46.20.4.34/radyoland/doksanlar.stream/playlist.m3u8
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", DOST FM Ankara
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DOST FM Ankara
 http://yayin.dostfm.com:8920/;
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DUY FM
@@ -17485,7 +17245,7 @@ https://anadolu.liderhost.com.tr:10924/;
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YILDIZ FM
 http://radyo.yayin.com.tr:5940/;
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YOLCU FM
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", YOLCU FM
 https://ssl123.ozelip.com/8046/stream
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YOZ DUYGUSAL FM

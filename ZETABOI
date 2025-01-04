@@ -57,7 +57,7 @@ http://tgn.bozztv.com/trn03/gt-trt4k/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
-http://89.187.191.41:80/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
+http://89.187.191.41:80/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
 http://trn03.tulix.tv:80/gt-trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
@@ -101,7 +101,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://trn03.tulix.tv/gt-atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue
 http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84494&t=live&f=ts?live=true
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
@@ -164,23 +164,27 @@ http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011
 http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84495&t=live&f=ts?live=true
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋturk
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ@
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ@vid
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ@vid
+http://89.187.191.41/Kanal-D-HD-TR/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ@live
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ@live
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://garaveli.serv00.net/Gledai?ID=kanald&e=.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://89.187.191.41/Kanal-D-HD-TR/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://tgn.bozztv.com/trn03/gt-kanald/tracks-v1a1/mono.m3u8
+http://tgn.bozztv.com/trn03/gt-kanald/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://162.212.179.34:80/gin-trn09/gt-kanald/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://162.212.179.34/gin-36bay4/gt-kanald-2/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://tgn.bozztv.com/trn03/gt-kanald/tracks-v1a1/mono.m3u8
+http://tgn.bozztv.com/trn03/gt-kanald/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://x.canlitvapp.com/kanald/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ
+https://x.canlitvapp.com/kanald/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᴴᴰ⁺™ʏᴇᴅᴇᴋ%
 http://116.202.238.88/KANALD_TR/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ ()
 https://helga.iptv2022.com/kanal_d/index.m3u8
@@ -190,7 +194,7 @@ https://helga.iptv2022.com/kanal_d/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
-http://89.187.191.41/TV8-HD-TR/tracks-v1a1/mono.ts.m3u8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
 http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue2
@@ -221,13 +225,13 @@ http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://tgn.bozztv.com/dvrfl05/gin-sekizbucuk/tracks-v1a1/mono.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-sekizbucuk/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://162.212.179.34:80/dvrfl05/gin-sekizbucuk/tracks-v1a1/mono.m3u8
+http://162.212.179.34:80/dvrfl05/gin-sekizbucuk/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://194.156.236.33:4000/play/a00i
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://116.202.238.88/TV8.5_TR/tracks-v1a1/mono.m3u8
+http://116.202.238.88/TV8.5_TR/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://c.fulltvizle.com/tv85/playlist.m3u8
 
@@ -244,9 +248,9 @@ http://135.181.115.81:8000/play/a02j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
+https://x.canlitvapp.com/fox/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://tgn.bozztv.com/trn03/gt-foxturktv/tracks-v1a1/mono.m3u8
+https://tgn.bozztv.com/trn03/gt-foxturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="YEDEK ➾ ULUSAL", NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/FOXTV_TR/playlist.m3u8
 
@@ -257,12 +261,12 @@ http://195.142.1.211:4022/udp/224.2.2.73:10001|User-Agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://trn03.tulix.tv/gt-beyaztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-http://tgn.bozztv.com/trn03/gt-beyaztv/tracks-v1a1/mono.m3u8
+http://tgn.bozztv.com/trn03/gt-beyaztv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="YEDEK ➾ ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
-http://tgn.bozztv.com/trn03/gt-kanal7/tracks-v1a1/mono.m3u8
+http://tgn.bozztv.com/trn03/gt-kanal7/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="YEDEK ➾ ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
 http://trn03.tulix.tv/gt-kanal7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="YEDEK ➾ ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
@@ -284,7 +288,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="YEDEK ➾ ULUSAL",360 TV ᵁᴴᴰ⁺™
 http://garaveli.serv00.net/GinikoHD?ID=742&e=.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="YEDEK ➾ ULUSAL",360 TV ᵁᴴᴰ⁺™
-http://trn03.tulix.tv/gt-sky360/tracks-v1a1/mono.m3u8
+http://trn03.tulix.tv/gt-sky360/playlist.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="YEDEK ➾ ULUSAL",360 TV ᵁᴴᴰ⁺™
 http://185.234.111.229:8000/play/a05a
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="YEDEK ➾ ULUSAL",360 TV ᵁᴴᴰ⁺™
@@ -304,7 +308,7 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:-1 tvg-id="A2.tr" tvg-name="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="A2.tr" tvg-name="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="YEDEK ➾ ULUSAL",A2 ᵁᴴᴰ⁺™
-http://trn03.tulix.tv/gt-atva2/tracks-v1a1/mono.m3u8
+http://trn03.tulix.tv/gt-atva2/playlist.m3u8
 #EXTINF:-1 tvg-id="A2.tr" tvg-name="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="YEDEK ➾ ULUSAL",A2 ᵁᴴᴰ⁺™
 http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="A2.tr" tvg-name="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="YEDEK ➾ ULUSAL",A2 ᵁᴴᴰ⁺™
@@ -339,7 +343,7 @@ http://195.142.3.105/artidijital_tivi6/tivi6/chunks.m3u8?autoplay=1
 http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=1
 
 #EXTINF:-1  type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL",CİNE5 tv ᴴᴰ
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1  type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="YEDEK ➾ ULUSAL",CİNE5 tv ᴴᴰʏᴇᴅᴇᴋ
 http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 
@@ -380,10 +384,10 @@ http://yktv2828.ozelip.com:30838/palatv/palatv/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="EXXEN TV" tvg-name="EXXEN TV" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",BaBaLa tv ᵁᴴᴰ⁺™
-#http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=143114&extension=m3u8&live=true
+#http://185.180.222.123/play/live.php?mac=00:1A:79:BF:BE:E1&stream=143114&extension=m3u8&live=true
 #EXTINF:-1 tvg-id="EXXEN TV" tvg-name="EXXEN TV" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="YEDEK ➾ ULUSAL",BaBaLa tv ᵁᴴᴰ⁺™
-#http://93.119.105.62:80/play/live.php?mac=00:1A:79:4D:54:E5&stream=143114&extension=ts&live=true
-
+#http://93.119.105.62:80/play/live.php?mac=00:1A:79:BF:BE:E1&stream=143114&extension=ts&live=true
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3054&extension=m3u8
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
 #https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NTA1MDcwODM3YTk2ZjlkOTI4ZWQ==
 
@@ -784,12 +788,12 @@ https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="YEDEK ➾ HABER",ULUSAL KANAL ᵁᴴᴰ⁺™
 http://dvrfl05.tulix.tv/gin-ulusalkanal/playlist.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="YEDEK ➾ HABER",ULUSAL KANAL ᵁᴴᴰ⁺™
-https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/playlist.m3u8
+#https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/playlist.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="YEDEK ➾ HABER",ULUSAL KANAL ᵁᴴᴰ⁺™
 http://laurakaren.serv00.net/Giniko.php?ID=774&e=.m3u8
 
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="ULUSAL ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™
-http://tgn.bozztv.com/trn03/gt-sozcutv/playlist.m3u8
+https://tgn.bozztv.com/trn03/gt-sozcutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="YEDEK ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™
 https://szctv.blutv.com/blutv_szctv/live.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="YEDEK ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™@
@@ -804,30 +808,30 @@ http://trn03.tulix.tv/gt-halktv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="ULUSAL ➾ HABER",KRT TV ᵁᴴᴰ⁺™
-http://trn03.tulix.tv/gt-krttv/playlist.m3u8
-#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
-http://tgn.bozztv.com/trn03/gt-krttv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
+https://tgn.bozztv.com/trn03/gt-krttv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™
+https://trn03.tulix.tv/gt-krttv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="YEDEK ➾ HABER",KRT TV ᵁᴴᴰ⁺™@
 http://tgn.bozztv.com/trn03/gt-krttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="ULUSAL ➾ HABER",TELE 1 ᵁᴴᴰ⁺™
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="YEDEK ➾ HABER",TELE 1 ᵁᴴᴰ⁺™@
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="YEDEK ➾ HABER",TELE 1 ᵁᴴᴰ⁺™@
-http://tgn.bozztv.com/dvrfl05/gin-tele1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="YEDEK ➾ HABER",TELE 1 ᵁᴴᴰ⁺™@
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-tele1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="ULUSAL ➾ HABER",FLASH TV ᵁᴴᴰ⁺™
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="YEDEK ➾ HABER",FLASH TV ᵁᴴᴰ⁺™
 https://internettv.guventechnology.com:19360/flashhabertv/720p.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="YEDEK ➾ HABER",FLASH TV ᵁᴴᴰ⁺™
-https://flashtv.blutv.com/blutv_flashtv/live.m3u8
+https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="YEDEK ➾ HABER",FLASH TV ᵁᴴᴰ⁺™
-http://tgn.bozztv.com/dvrfl05/gin-flashtv/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-flashtv/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="YEDEK ➾ HABER",FLASH TV ᵁᴴᴰ⁺™@
 #https://new.cache-stream.workers.dev/stream//UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8
 
@@ -1376,7 +1380,7 @@ https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-5-turkey/212
 
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ғʜᴅ 
-https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
+https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ {A}
 #EXTVLCOPT:http-referer=https://livecdn.xyz/
@@ -4274,6 +4278,77 @@ https://aaa.cdn.saintcdn.live/e/8888886.m3u8|referrer=https://390307c602253fe877
 
 
 
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg"group-title="BOSSSporT",TRT Spor ʜᴅ
+https://aaa.cdn.saintcdn.live/e/157.m3u8|user-agent=Mozilla/5.0 
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="BOSSSporT",A Spor ʜᴅ
+https://aaa.cdn.saintcdn.live/e/158.m3u8|user-agent=Mozilla/5.0 
+#EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="NET ➾ SPORT", beiN Sport 1& HABER ʜᴅ
+https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="BOSSSporT" ,BeIN Sports 1 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="BOSSSporT",BeIN Sports 2 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_2_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="BOSSSporT",BeIN Sports 3 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_3_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 4 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_4_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 5 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_5_hd/main.m3u8
+#EXTINF:-1, tvg-logo="https://bit.ly/2X3QhNt" group-title="BOSSSporT",BEIN MAX 1 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_max_1_hd/main.m3u8
+#EXTINF:-1,  tvg-logo="https://bit.ly/3175vmj" group-title="BOSSSporT",BEIN MAX 2 ʜᴅ
+https://jtvdhh.site/cdn/bein_sports_max_2_hd/main.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 1 ʜᴅ
+https://aaa.cdn.saintcdn.live/e/155.m3u8|user-agent=Mozilla/5.0 
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 2 ʜᴅ
+https://aaa.cdn.saintcdn.live/e/156.m3u8|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 1 ʜᴅ
+https://aaa.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
+#https://jtvdhh.site/cdn/s_sport_1_hd/main.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 2 ʜᴅ
+https://aaa.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
+#https://jtvdhh.site/cdn/s_sport_2_hd/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 1 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_1_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 2 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_2_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 3 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_3_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 4 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_4_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 5 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_5_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 6 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_6_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 7 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_7_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 8 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_8_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 9 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_9_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 10 ʜᴅ
+https://jtvdhh.site/cdn/s_sport_plus_10_hd/main.m3u8?_dc=
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 1 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_1_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 2 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_2_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 3 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_3_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 4 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_4_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 5 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_5_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 6 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_6_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 7 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_7_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 8 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_8_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 9 ʜᴅ
+https://jtvdhh.site/cdn/exxen_sports_9_hd/main.m3u8?_dc=
+
 
 #EXTINF:0 group-title="SPOR ➾ Türk" tvg-id="2598" tvg-logo="https://i.hizliresim.com/cq8jwt3.png" tvg-rec="3" , Türkiye - Turkey
 http://rtmp://5.182.231.251:1935//2021
@@ -4812,6 +4887,213 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=117201&exten
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=117199&extension=m3u8&live=true
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 HD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ☪ TABII / EXXEN SPORT",TR | EXXEN SPOR 8 HD
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=117200&extension=m3u8&live=true
+
+
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="(TR) A Spor 4K+" group-title="TR - BEİN SPORTS",(TR) A Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3069&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="(TR) Trt Spor 4K+" group-title="TR - BEİN SPORTS",(TR) Trt Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2824&extension=m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSHABERHD.tr" tvg-name="(TR) Bein Sports Haber 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3027&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 60 FPS" group-title="TR - BEİN SPORTS",(TR) Bein Sports 60 FPS
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=34936&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 50 FPS" group-title="TR - BEİN SPORTS",(TR) Bein Sports 50 FPS
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174901&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3033&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=34937&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=34938&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3030&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=136248&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=35701&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3032&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3022&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3028&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 HD" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=136249&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports Yedek 1" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=52636&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports Yedek 2" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3024&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports Yedek 3" group-title="TR - BEİN SPORTS",(TR) Bein Sports Yedek 3
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=119875&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTMAX.TR" tvg-name="(TR) Bein Sports Max 1 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=7555&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 1 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174902&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 2 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174903&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 3 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174904&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174905&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174906&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 1 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174907&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 2 4K+" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=174908&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTMAX2.TR" tvg-name="(TR) Bein Sports Max 2 4K" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=7556&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 2 4K+" group-title="TR - SPOR",(TR) Trt Spor 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=45485&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor Yildiz 4K+" group-title="TR - SPOR",(TR) Trt Spor Yildiz 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=129198&extension=m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="(TR) A Spor 4K+" group-title="TR - SPOR",(TR) A Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=3069&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="(TR) Trt Spor 4K+" group-title="TR - SPOR",(TR) Trt Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2824&extension=m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 3 4K+" group-title="TR - SPOR",(TR) Trt Spor 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=77263&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) HT Spor 4K" group-title="TR - SPOR",(TR) HT Spor 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175117&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 4K" group-title="TR - SPOR",(TR) Tabii Spor 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175071&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 1 4K" group-title="TR - SPOR",(TR) Tabii Spor 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175666&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 2 4K" group-title="TR - SPOR",(TR) Tabii Spor 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175072&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 3 4K" group-title="TR - SPOR",(TR) Tabii Spor 3 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175073&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 4 4K" group-title="TR - SPOR",(TR) Tabii Spor 4 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175442&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 4 HD" group-title="TR - SPOR",(TR) TABii SPOR 4 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175441&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 5 4K" group-title="TR - SPOR",(TR) Tabii Spor 5 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175440&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 5 HD" group-title="TR - SPOR",(TR) TABii SPOR 5 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175439&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 6 4K" group-title="TR - SPOR",(TR) Tabii Spor 6 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175438&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 6 HD" group-title="TR - SPOR",(TR) TABii SPOR 6 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175437&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="(TR) Smart Spor 4K+" group-title="TR - SPOR",(TR) Smart Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2860&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 1 4K+" group-title="TR - SPOR",(TR) S Sport 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=80320&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 2 4K+" group-title="TR - SPOR",(TR) S Sport 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=80321&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Sport 1 4K+" group-title="TR - SPOR",(TR) Saran Sport 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2881&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Sport 2 4K+" group-title="TR - SPOR",(TR) Saran Sport 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=52533&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 1 4K+" group-title="TR - SPOR",(TR) S Sport+ 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135190&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 2 4K+" group-title="TR - SPOR",(TR) S Sport+ 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135189&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 3 4K+" group-title="TR - SPOR",(TR) S Sport+ 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135188&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 4 4K+" group-title="TR - SPOR",(TR) S Sport+ 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135187&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 5 4K+" group-title="TR - SPOR",(TR) S Sport+ 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135186&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 6 4K+" group-title="TR - SPOR",(TR) S Sport+ 6 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=135185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 7 4K" group-title="TR - SPOR",(TR) S Sport+ 7 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175343&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 8 4K" group-title="TR - SPOR",(TR) S Sport+ 8 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175344&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 9 4K" group-title="TR - SPOR",(TR) S Sport+ 9 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175345&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 10 4K" group-title="TR - SPOR",(TR) S Sport+ 10 4K
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=175346&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=39472&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 2 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2844&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="TR - SPOR",(TR) Tivibu Spor 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2845&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nba Tv 4K+" group-title="TR - SPOR",(TR) Nba Tv 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=7427&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tay Tv 4K+" group-title="TR - SPOR",(TR) Tay Tv 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2853&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦" group-title="TR - SPOR",✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=1449&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Smart Spor HD" group-title="TR - SPOR",(TR) Smart Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=114630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A Spor HD" group-title="TR - SPOR",(TR) A Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137441&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport HD Yedek" group-title="TR - SPOR",(TR) S Sport HD Yedek
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2880&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 HD" group-title="TR - SPOR",(TR) Tivibu Spor 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=7559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 HD" group-title="TR - SPOR",(TR) Tivibu Spor 3 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=7561&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport TR" tvg-name="(TR) EuroSport 1 HD" group-title="TR - SPOR",(TR) EuroSport 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2989&extension=m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD TR" tvg-name="(TR) EuroSport 2 HD" group-title="TR - SPOR",(TR) EuroSport 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2988&extension=m3u8
+#EXTINF:-1 tvg-id="TRT Spor HD TR" tvg-name="(TR) Trt Spor HD" group-title="TR - SPOR",(TR) Trt Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2825&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sports TV" group-title="TR - SPOR",(TR) Sports TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2857&extension=m3u8
+#EXTINF:-1 tvg-id="TRT SPOR TR" tvg-name="(TR) Trt Spor" group-title="TR - SPOR",(TR) Trt Spor
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2826&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Fb TV" group-title="TR - SPOR",(TR) Fb TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2985&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gs TV" group-title="TR - SPOR",(TR) Gs TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2972&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tjk TV" group-title="TR - SPOR",(TR) Tjk TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=2841&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen Tv" group-title="TR - EXXEN  & FUCHS",(TR) Exxen Tv
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=161405&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=117576&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=117577&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=117578&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=118876&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=118877&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 6 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=118878&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 7 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 7 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=177543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 8 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 8 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=177544&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 9 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 9 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=177545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 10 4K+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 10 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=177546&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137813&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 2 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 3 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137815&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 4 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137816&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 5 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137817&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 HD+" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 6 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=137818&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 1 4k+ (Mac Saati)" group-title="TR - EXXEN  & FUCHS",Fuchs Sports 1 4k+ (Mac Saati)
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=150194&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 2 4k+ (Mac Saati)" group-title="TR - EXXEN  & FUCHS",Fuchs Sports 2 4k+ (Mac Saati)
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=150195&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 3 4k+ (Mac Saati)" group-title="TR - EXXEN  & FUCHS",Fuchs Sports 3 4k+ (Mac Saati)
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=150196&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 4 4k+ (Mac Saati)" group-title="TR - EXXEN  & FUCHS",Fuchs Sports 4 4k+ (Mac Saati)
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=150197&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 5 4k+ (Mac Saati)" group-title="TR - EXXEN  & FUCHS",Fuchs Sports 5 4k+ (Mac Saati)
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:bf:be:e1&stream=150198&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="trt spor yildiz" tvg-name="TRT Spor Yıldız HD" tvg-logo="http://liveata.win:8080/images/2f9a08f1e910aa66d75531500e7e8b99.png" group-title="TR | BeIN SPORTS",TRT Spor Yıldız HD

@@ -517,14 +517,20 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1   tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png" group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="wmtv.tr"https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,Nora tv
+http://195.142.3.105/artidijital_noratv/noratv/chunks.m3u8?autoplay=1
+
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,gurmetv ᴴᴰ
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN  TV ᴴᴰ
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",VRT TV ᴴᴰ
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 
 #EXTINF:-1   tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", TV A ᴴᴰ
 http://195.142.3.105/artidijital_tva/tva/chunks.m3u8?autoplay=1
-
-#EXTINF:-1   tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", ADA NET TV ᴴᴰ
-https://edge1.socialsmart.tv/adatv/bant1/playlist.m3u8
 
 #EXTINF:-1   tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?
@@ -4278,11 +4284,11 @@ https://aaa.cdn.saintcdn.live/e/8888886.m3u8|referrer=https://390307c602253fe877
 
 
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg"group-title="BOSSSporT",TRT Spor ʜᴅ
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="BOSSSporT",TRT Spor ʜᴅ
 https://aaa.cdn.saintcdn.live/e/157.m3u8|user-agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="BOSSSporT",A Spor ʜᴅ
 https://aaa.cdn.saintcdn.live/e/158.m3u8|user-agent=Mozilla/5.0 
-#EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="NET ➾ SPORT", beiN Sport 1& HABER ʜᴅ
+#EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="BOSSSporT", beiN Sport 1& HABER ʜᴅ
 https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="BOSSSporT" ,BeIN Sports 1 ʜᴅ
 https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
@@ -7505,6 +7511,42 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/06/2.png" group-title="ALMANYA", ARD
+https://s6.hopslan.com:443/ard1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/5.png" group-title="ALMANYA", ZDF
+https://s6.hopslan.com:443/zdf1111/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1-logo.png" group-title="ALMANYA", KABEL 1
+https://s6.hopslan.com:443/kabel1x1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="ALMANYA", Sat 1
+https://s6.hopslan.com/sat1x1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" group-title="ALMANYA", PRO7
+https://s6.hopslan.com:443/pro7x1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="ALMANYA", RTL
+https://s6.hopslan.com:443/rtlq222/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="ALMANYA", RTL 2
+https://s6.hopslan.com:443/rtl2x1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" group-title="ALMANYA", SIXX
+https://s6.hopslan.com:443/sixx1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" group-title="ALMANYA", VOXX
+https://s6.hopslan.com:443/voxx1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="ALMANYA", PROSIEBENMAX
+https://s6.hopslan.com:443/pro7maxx1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" group-title="ALMANYA", RTL Nitro
+https://s6.hopslan.com:443/nitrox1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png" group-title="ALMANYA", SAT1 GOLD
+https://s6.hopslan.com:443/goldx1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/4.png" group-title="ALMANYA", ARTE
+https://s6.hopslan.com:443/arte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/7.png" group-title="ALMANYA", ZDF NEO
+https://s6.hopslan.com:443/zdfneox1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/6.png" group-title="ALMANYA", ZDF INFO
+https://s6.hopslan.com:443/zdfinfox1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" group-title="ALMANYA", NTV
+https://s6.hopslan.com:443/ntvx1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title="ALMANYA", DW
+https://s6.hopslan.com:443/dw/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ALMANYA",TRT Türk

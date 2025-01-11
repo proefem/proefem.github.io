@@ -28,16 +28,12 @@ https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DRON TV 7🎼 🎶
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://picon-13398.kxcdn.com/trt4ktr.jpg" group-title="ULUSAL",TRT ⁴ᴷ⁺™
-http://garaveli.serv00.net/GinikoHD?ID=786&e=.m3u8
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="YEDEK ➾ ULUSAL",TRT ⁴ᴷ⁺™
-https://trn03.tulix.tv/gt-trt4k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="YEDEK ➾ ULUSAL",TRT ⁴ᴷ⁺™
-http://tgn.bozztv.com/trn03/gt-trt4k/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
+#EXTINF:-1  group-title="ULUSAL" tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="http://troya.one/images/chIcons/1455.png" timeshift="0",TRT 4K UHD
+http://5.troya.info:34000/ch1455/mono.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 http://trn03.tulix.tv:80/gt-trt1eu/playlist.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="http://troya.one/images/chIcons/1419.png" timeshift="0",TRT 1 ᵁᴴᴰ
+http://5.troya.info:34000/ch1419/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://89.187.191.41:80/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
@@ -4649,6 +4645,7 @@ http://5.troya.info:34000/ch1416/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0M
 http://5.troya.info:34000/ch1354/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MMqtIsTW-TJBmwcFkumCRuADNt_GbyuX4HU7YSPvej07==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: TV 8.5 HD" tvg-logo="http://troya.tv/images/chIcons/1348.png" tvg-rec="0", TR: TV 8'5 HD
 http://5.troya.info:34000/ch1348/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MBcnRSsKKvo3xTWFDGlXkrVLOR6Q9pV0sPGEMoeu5m1T==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Bein Sports Haber HD" tvg-logo="http://troya.tv/images/chIcons/1351.png" tvg-rec="0", TR: Bein Sports Haber HD
 http://5.troya.info:34000/ch1351/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0ME1qpQoy_elSOhen6vJebGeCjGuhLvOgLJt2UwcMfmq4==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://troya.tv/images/chIcons/1424.png" tvg-rec="0", TR: Bein Sports 1 HD
@@ -4663,20 +4660,37 @@ http://5.troya.info:34000/ch1448/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0M
 http://5.troya.info:34000/ch1449/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MNn6FrZtSf0atGl0RbtBgJli6wW-aMtnU_CAXmIEnUhh==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Bein Sports MAX 2 HD" tvg-logo="http://troya.tv/images/chIcons/1450.png" tvg-rec="0", TR: Bein Sports MAX 2 HD
 http://5.troya.info:34000/ch1450/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MJEo1q4B7dlKlwfxqELzOJSevWNxUFRcbtSRVhUjH4XX==
+
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3043"  tvg-logo="http://troya.tv/images/chIcons/3043.png"  timeshift="0", TR: Tabii Spor 1 HD
+http://5.troya.info:34000/ch3043/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOX9hdfVYJ2wyFvaOmM6nBCkUjmlwhWa9Ni2xgdC5IZwn==
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3044"  tvg-logo="http://troya.tv/images/chIcons/3044.png"  timeshift="0", TR: Tabii Spor 2 HD
+http://5.troya.info:34000/ch3044/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOQl8gSeNgY0cXPJTQSmd--iCHbqeQldTqg_rLjMVoeOZ==
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3045"  tvg-logo="http://troya.tv/images/chIcons/3045.png"  timeshift="0", TR: Tabii Spor 3 HD
+http://5.troya.info:34000/ch3045/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOQnC6d233nUQN7ySETcZgyvAbR8n0xmN5Rng_Z55KHIq==
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3046"  tvg-logo="http://troya.tv/images/chIcons/3046.png"  timeshift="0", TR: Tabii Spor 4 HD
+http://5.troya.info:34000/ch3046/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwORYRTQQAnGLOk8_xjj94pwUeO_EqlFdQBHczyg0foEj_==
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3047"  tvg-logo="http://troya.tv/images/chIcons/3047.png"  timeshift="0", TR: Tabii Spor 5 HD
+http://5.troya.info:34000/ch3047/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOS1v4-UTkm0CdLzYXeUW10002rdL6gTChPvEuXdAyniJ==
+#EXTINF:0  group-title="TR_SPOR" tvg-name="ch3048"  tvg-logo="http://troya.tv/images/chIcons/3048.png"  timeshift="0", TR: Tabii Spor 6 HD
+http://5.troya.info:34000/ch3048/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOQYS1HNNczQ7BtACfxzAb1xmPD397qth4Y5P-IBSuGps==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: S Sport HD" tvg-logo="http://troya.tv/images/chIcons/1397.png" tvg-rec="0", TR: S Sport HD
 http://5.troya.info:34000/ch1397/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MAKWOkmNp_-zvAARevfNR5d4BKt0GY-K99744ajaz4Bs==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: S Sport 2 HD" tvg-logo="http://troya.tv/images/chIcons/1398.png" tvg-rec="0", TR: S Sport 2 HD
 http://5.troya.info:34000/ch1398/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MNUkpngzSlUmMjrEWa5XeKf-KfbZVar073IPM9Ftbhsd==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Spor Smart HD" tvg-logo="http://troya.tv/images/chIcons/1408.png" tvg-rec="0", TR: Spor Smart HD
 http://5.troya.info:34000/ch1408/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MAh3Fk5Qmto96gYsebM9V-cewSpkgrJ_fxqcnwpOuJG4==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Spor Smart 2 HD" tvg-logo="http://troya.tv/images/chIcons/1784.png" tvg-rec="0", TR: Spor Smart 2 HD
 http://5.troya.info:34000/ch1784/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFLPWMX0zoE0HpPlKPcdEuqDy7Tjv6_hgAlB0Px3Gm05==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="http://troya.tv/images/chIcons/1451.png" tvg-rec="0", TR: Tivibu Spor 1 HD
 http://5.troya.info:34000/ch1451/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MARL-MOfu6xfOOt21zNJIB0nOWCW_jHZvaIzZSZK83sZ==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="http://troya.tv/images/chIcons/1452.png" tvg-rec="0", TR: Tivibu Spor 2 HD
 http://5.troya.info:34000/ch1452/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MD2EE1qtDyE-rDlWZe3EkMzxLTVXHQR5cBC3pUN0XFIv==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="http://troya.tv/images/chIcons/1453.png" tvg-rec="0", TR: Tivibu Spor 3 HD
 http://5.troya.info:34000/ch1453/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MC45ACH5sWgidWU2uJzc1X7emTxC-4uvg_fp0NONYyKD==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Exxen 1 HD" tvg-logo="http://troya.tv/images/chIcons/1994.png" tvg-rec="0", TR: Exxen 1 HD
 http://5.troya.info:34000/ch1994/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFmJuxY3rbP9NAHKSCd5uVnTlzrOE1AwWp4Jwmv7D1A-==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Exxen 2 HD" tvg-logo="http://troya.tv/images/chIcons/1995.png" tvg-rec="0", TR: Exxen 2 HD
@@ -4693,12 +4707,20 @@ http://5.troya.info:34000/ch1999/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0M
 http://5.troya.info:34000/ch1998/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MKwU-MvhgbR0YPQs-iHe7EELSgSPwD43v6ejruIbGZ4k==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Exxen 8 HD" tvg-logo="http://troya.tv/images/chIcons/2001.png" tvg-rec="0", TR: Exxen 8 HD
 http://5.troya.info:34000/ch1999/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MKwU-MvhgbR0YPQs-iHe7EELSgSPwD43v6ejruIbGZ4k==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://troya.tv/images/chIcons/2481.png" tvg-rec="0", TR: Eurosport 1 HD
 http://5.troya.info:34000/ch2481/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MHe39aPadCCUYZzgDrXsOVT2OyYnfiBAqBGZaol1QuPM==
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://troya.tv/images/chIcons/2482.png" tvg-rec="0", TR: Eurosport 2 HD
 http://5.troya.info:34000/ch2482/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MHeLFtnUXNxgnj3sa8PfdtvxSIGCIaNm8Cwwov4jxwEx==
+
 #EXTINF:0  group-title="TR_SPOR" tvg-name="TR: NBA TV HD" tvg-logo="http://troya.tv/images/chIcons/1395.png" tvg-rec="0", TR: NBA TV HD
 http://5.troya.info:34000/ch1395/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFHQVOoVgvMsLD0AyZ4Sye8cJ7lnnVu1tuV30UyYztHC==
+
+#EXTINF:0  group-title="TR_SPOR" tvg-logo="http://troya.one/images/chIcons/1536.png" timeshift="0", AZ: Idman
+http://5.troya.info:34000/ch1536/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLOTcQ3I8JChHcojIE3C7ku4k4JfM-burwwzaNW4Zj1V==
+
+#EXTINF:0  group-title="TR_SPOR" tvg-logo="http://troya.one/images/chIcons/1534.png" timeshift="0", AZ: CBC Sport HD
+http://5.troya.info:34000/ch1534/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPre9HJ08qjbvZAVptpHxS9nQ5KUzFpvw7trDi5r2wKO==
 
 
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/86.png" tvg-name="ch086" timeshift="3" group-title="14. Deutschland",Dazn 1 Bar HD
@@ -4931,6 +4953,60 @@ http://5.troya.info:34000/ch1876/mono.m3u8?token=g5a.hI3L9KO8TXdDJTt0lGH4i5FiNS-
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1877.png" tvg-name="ch1877" timeshift="3" group-title="14. Deutschland",Sky Sport Tennis HD
 http://5.troya.info:34000/ch1877/mono.m3u8?token=g5a.hI3L9KO8TXdDJTt0lGH4i7MsPxYEDI5rnFjVQ5EYjNpKtN1ZZZjwlGV6FXIoxa-V==
 
+#EXTINF:0 tvg-name="ch188"  tvg-logo="http://troya.tv/images/chIcons/188.png"  timeshift="0", myTeamTV 1 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch188/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwObjB_5xbAv8BNL32x7WneUV5hkTvMKbX4sCUAl1QRywR==
+#EXTINF:0 tvg-name="ch189"  tvg-logo="http://troya.tv/images/chIcons/189.png"  timeshift="0", myTeamTV 2 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch189/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOeIercAsJmev-4p3lQpfZtk2_s7fVIIQqlT2LalI6_io==
+#EXTINF:0 tvg-name="ch190"  tvg-logo="http://troya.tv/images/chIcons/190.png"  timeshift="0", myTeamTV 3 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch190/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOf5xGQGelwWCBSJ38Hq8byde7Hn0MwEmNza_SxoAVGU6==
+#EXTINF:0 tvg-name="ch191"  tvg-logo="http://troya.tv/images/chIcons/191.png"  timeshift="0", myTeamTV 4 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch191/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOe4szerRQcRLV54foif2hAO32mljiTWSaUsb-m2W4cID==
+#EXTINF:0 tvg-name="ch192"  tvg-logo="http://troya.tv/images/chIcons/192.png"  timeshift="0", myTeamTV 5 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch192/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOUYy5ohdJL4z7kZZxblC1xyiXGS9NTdH4Jx2W1QAJeEg==
+#EXTINF:0 tvg-name="ch193"  tvg-logo="http://troya.tv/images/chIcons/193.png"  timeshift="0", myTeamTV 6 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch193/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOZetphw3djCKWDpFDVuHQXMUEq3r503epzodSGWBT-C_==
+#EXTINF:0 tvg-name="ch212"  tvg-logo="http://troya.tv/images/chIcons/212.png"  timeshift="0", myTeamTV 7 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch212/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOaB9O_m5OD_QIpdklTKD6svxTDGPLXyrtaKxrFyAg55F==
+#EXTINF:0 tvg-name="ch1882"  tvg-logo="http://troya.tv/images/chIcons/1882.png"  timeshift="0", myTeamTV 8 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1882/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOUrY4B0uHNDv7rQEiIJtPTh1ecRHIk-asG0vdei-ZZ63==
+#EXTINF:0 tvg-name="ch1883"  tvg-logo="http://troya.tv/images/chIcons/1883.png"  timeshift="0", myTeamTV 9 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1883/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOXKAU92EeuoL-oIL3mpziGg55O-BitYTbWLg11pP_yFR==
+#EXTINF:0 tvg-name="ch1884"  tvg-logo="http://troya.tv/images/chIcons/1884.png"  timeshift="0", myTeamTV 10 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1884/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOZBtMcPt1XGem33wG4IZvCBwxHVkFsTQtw5EH0jBUXvu==
+#EXTINF:0 tvg-name="ch1885"  tvg-logo="http://troya.tv/images/chIcons/1885.png"  timeshift="0", myTeamTV 11 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1885/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOboTmschtl_Ni-43WgpbszgSOtBUh8rYLQT9MuaLK5fB==
+#EXTINF:0 tvg-name="ch1886"  tvg-logo="http://troya.tv/images/chIcons/1886.png"  timeshift="0", myTeamTV 12 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1886/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOerxOoJpw9Jum3zY6JCttdh52HbzN9Q2vKnkD5kvW4ao==
+#EXTINF:0 tvg-name="ch1887"  tvg-logo="http://troya.tv/images/chIcons/1887.png"  timeshift="0", myTeamTV 13 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1887/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOY4jKjfSgCq4woy3AKHUPf-459plFgWV6VJPpWQCrJsa==
+#EXTINF:0 tvg-name="ch1888"  tvg-logo="http://troya.tv/images/chIcons/1888.png"  timeshift="0", myTeamTV 14 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1888/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOa8Vz9fB3FY6xtc1Mzlz2pKqzA8dW_0ZKWb3_u8Wj4Ld==
+#EXTINF:0 tvg-name="ch1889"  tvg-logo="http://troya.tv/images/chIcons/1889.png"  timeshift="0", myTeamTV 15 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1889/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOcerYiNh6v_ilLmZI7XtlvcifEGUtVzpuM95_lv-izhg==
+#EXTINF:0 tvg-name="ch1890"  tvg-logo="http://troya.tv/images/chIcons/1890.png"  timeshift="0", myTeamTV 16 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1890/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOaaG9x_896pgCrmfrZjZBtCqxPinS7w7pNX9RJwE9TIw==
+#EXTINF:0 tvg-name="ch1891"  tvg-logo="http://troya.tv/images/chIcons/1891.png"  timeshift="0", myTeamTV 17 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1891/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOcbyNEHTNAuzZ6KZrQlDhZaesY8HvTh95W2TaZcSoCtW==
+#EXTINF:0 tvg-name="ch1892"  tvg-logo="http://troya.tv/images/chIcons/1892.png"  timeshift="0", myTeamTV 18 HD
+#EXTGRP:14. Deutschland
+http://5.troya.info:34000/ch1892/mono.m3u8?token=pushkinec.l4SOtIFRRkCndlrwoEDwOV3RjJkmtaLBlvFpJBXrg1Tec1tr9qoqTo78uFiMF36l==
 
 
 
@@ -4998,6 +5074,51 @@ https://ie.sonyrepairs.com/laliga/index.m3u8
 
 
 
+#EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-logo="http://troya.one/images/chIcons/1412.png" timeshift="0", TR: TRT Belgesel HD
+#EXTGRP:30. Türkiye
+http://5.troya.info:34000/ch1412/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPnR5N1Yo5I3w3tUWL-egaSTeyRXed1_2RjpFwcjieEb
+#EXTINF:0 tvg-id="TurkmaxGurme.tr" tvg-logo="http://troya.one/images/chIcons/1358.png" timeshift="0", TR: Bein Gurme HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1358/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOmGZdzuU_ViQ4MFPzqrejFPy_qIlwpv0Yr09BbA9i9V
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1360.png" timeshift="0", TR: Bein IZ HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1360/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJDqWVeef75mf-8RqTaEZLD14igSbvz-epdSOEfWH3AW
+#EXTINF:0 tvg-id="DMAX.tr" tvg-logo="http://troya.one/images/chIcons/1378.png" timeshift="0", TR: Dmax HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1378/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJeV4EgnelMBvS7gbqXoWIGgzpsAZcN0nnny0uLlo8op
+#EXTINF:0 tvg-id="TLC.tr" tvg-logo="http://troya.one/images/chIcons/1411.png" timeshift="0", TR: TLC HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1411/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKeJRaX1I21CmPsTq3M_agj78cvK3hEu8Am8Av-vTXX0
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2476.png" timeshift="0", TR: Bizim Ev TV
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch2476/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPd5kigo-SZbSe0x-Gbjp2j7TzwvQe6k62qVvcZvzGiR
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1547.png" timeshift="0", TR: Love Nature 4K HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1547/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKcRh_ScX0qCg34ddpn2SpxBRv5RXBGva7OLbe7mZlz9
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1783.png" timeshift="0", TR: History HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1783/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAX5Q0Z_qBFkjxiy_Q9vmS-QPcQO0939_-yAW54d_N2g
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1379.png" timeshift="0", TR: DocuBox HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1379/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8lM8NSOYPtyPfFetk_nc278lIxgO8wNaADueaASEVo
+#EXTINF:0 tvg-id="NatGeoHD.tr" tvg-logo="http://troya.one/images/chIcons/1350.png" timeshift="0", TR: Nat Geo HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1350/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOI-jS8e68Wt0t-H9Wuv_Y31wQuAfTxSvgUH1nn21h6D
+#EXTINF:0 tvg-id="NatGeoWild.tr" tvg-logo="http://troya.one/images/chIcons/1462.png" timeshift="0", TR: Nat Geo Wild HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1462/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCEboJs_HsgB8no2r7BK7SQn0mPlc_i8CqsAhdb6jx4p
+#EXTINF:0 tvg-id="Discovery.tr" tvg-logo="http://troya.one/images/chIcons/1373.png" timeshift="0", TR: Discovery Channel HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1373/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHRiWl2QF0bNnKOUoP7D-qRXJlvyL0kpuPNPq4e0CXxf
+#EXTINF:0 tvg-id="DiscoveryScience.tr" tvg-logo="http://troya.one/images/chIcons/1374.png" timeshift="0", TR: Discovery Science HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1374/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBU1MGO38w9Z-uhqPEdNyPiCLRbBI9IkxldcmoiizYVP
+#EXTINF:0 tvg-id="DiscoveryID.tr" tvg-logo="http://troya.one/images/chIcons/1463.png" timeshift="0", TR: Discovery ID
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1463/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKJ9AA5knisDOxjtdNbnUgy9SkmPp7HwV45flQklVaU2
+#EXTINF:0 tvg-id="BBCEarth.tr" tvg-logo="http://troya.one/images/chIcons/1357.png" timeshift="0", TR: BBC Earth HD
+#EXTGRP:TR ➾ BELGESEL
+http://5.troya.info:34000/ch1357/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDzFhOjcf8K79zl2GVlCgvdQvMs-BaEavsOFZeBuYo68
 
 #EXTINF:-1  tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"  group-title="TR ➾ BELGESEL"     ,TRT BELGESEL ʜᴅ
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -6274,6 +6395,110 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718116?play_token=
 
 
 
+#EXTINF:0 tvg-id="Salon1.tr" tvg-logo="http://troya.one/images/chIcons/1393.png" timeshift="0", TR: Bein Box Office 1 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1393/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFOjoiDnAz_KVFAI3A_QzFYUM8m-o4xLk-7TzaU7GarP
+#EXTINF:0 tvg-id="Salon2.tr" tvg-logo="http://troya.one/images/chIcons/1392.png" timeshift="0", TR: Bein Box Office 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1392/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNvUmj7mL4nH_9xQBJnTTJwg6gBcR7g5_okJTWqxxc1r
+#EXTINF:0 tvg-id="Salon3.tr" tvg-logo="http://troya.one/images/chIcons/1447.png" timeshift="0", TR: Bein Box Office 3 HD
+#EXTGRP:30. Türkiye
+http://5.troya.info:34000/ch1447/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKc5aYGdMNpEQ4VRtSbMtQ_VkhYCApEMFI1Ksuh6YFYM
+
+#EXTINF:0 tvg-id="MoviemaxAction.tr" tvg-logo="http://troya.one/images/chIcons/1352.png" timeshift="0", TR: Bein Movies Action  HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1352/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1GpwE_5cbsSfQ6cpDfL2VwI7KLGy4rn52ktqldpmRh
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" tvg-logo="http://troya.one/images/chIcons/1361.png" timeshift="0", TR: Bein Movies Action 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1361/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN83O2peOsGwDpmn6s4nH9kMpovd8J7-Q77jo8OpK0a0
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" tvg-logo="http://troya.one/images/chIcons/1365.png" timeshift="0", TR: Bein Movies Premiere HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1365/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCEatLRqVtW7dKKL3jgUsLsZHwnH9TcjLDof5J3NYx4_
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" tvg-logo="http://troya.one/images/chIcons/1364.png" timeshift="0", TR: Bein Movies Premiere 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1364/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNPl6ziUQmn6wiD5h_WMTfd2VD_SBasHv5C9xgMXZgsC
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" tvg-logo="http://troya.one/images/chIcons/1363.png" timeshift="0", TR: Bein Movies Family HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1363/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHIe3Qmheeplu71QO6vJDTAK92bK2740ox_b-r7GQSnu
+#EXTINF:0 tvg-id="MoviemaxStars.tr" tvg-logo="http://troya.one/images/chIcons/1366.png" timeshift="0", TR: Bein Movies Stars HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1366/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM2-UFvxq403Rtcu60IU4gvmpC1ZjHZzBSErB8uyIq5-
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" tvg-logo="http://troya.one/images/chIcons/1367.png" timeshift="0", TR: Bein Movies Turk HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1367/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4TTn_Hf4pFk_PROtFBxcxvENQQFJEUdwhQ2GisY4SN
+#EXTINF:0 tvg-id="MovieSmartTurk.tr" tvg-logo="http://troya.one/images/chIcons/1394.png" timeshift="0", TR: Movie Smart Turk HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1394/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDuKCw4a3pO2i5DPjvkpL2mMp2ZZo1LxBYI-HnLfyrkY
+#EXTINF:0 tvg-id="MovieSmartClassic.tr" tvg-logo="http://troya.one/images/chIcons/1529.png" timeshift="0", TR: Movie Smart Classic HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1529/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iExybFf2ZD1t0-kxpiuzMQ25COJkTLvEhXN3gbfFoj23
+
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1526.png" timeshift="0", TR: Sinema TV HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1526/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMpTYsfNnZajIIoV0M6rL0uCbUXmfqKiYSMn_VF7gRhV
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1527.png" timeshift="0", TR: Sinema TV 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1527/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ3RzNm__kEQXgvC1njSnR92KGb4QoF8nX3BBA0583Qo
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1401.png" timeshift="0", TR: Sinema 1001 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1401/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAQnnZMweSmiNphhC8So0gFDUut1iEjrNfONpokIoGQI
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1402.png" timeshift="0", TR: Sinema 1002 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1402/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJoC_UrSF9VCsRJfXOPx5UrJtWEl_P0SR1i5-nI5ZNPJ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1404.png" timeshift="0", TR: Sinema Aile HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1404/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBJmtil4QXkBISKhSgM5bqIIREBFGoBjnQOm7kJ-rfe8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1403.png" timeshift="0", TR: Sinema Aile 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1403/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDPjwz79xpWDHBUCWut870d8_Rhr9uc3RtpcIFX23Djy
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1459.png" timeshift="0", TR: Sinema Aksion HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1459/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlBNevcRIdVrVXQ1JDM9ySaq23FeMR4umsJtth3aMkY
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1405.png" timeshift="0", TR: Sinema Aksion 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1405/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKMLVTykA6DbTQTQSn_5D6WXDzYOj4ygGWMb2S6jMs48
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1407.png" timeshift="0", TR: Sinema Komedi HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1407/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD39BxKCi6WcKTv8_DZjn-IB1zB1TiMIWrrIGZ1Yd0EX
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1406.png" timeshift="0", TR: Sinema Komedi 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1406/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC2Xpn1YtieEbd4Kp0CjjcFt2err5O7rQ8KspjpBxp7U
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1457.png" timeshift="0", TR: Sinema Yerli
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1457/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iErd_MEpIOEc3ntI4OKnykbDr-JQHo_NqlcFU_TJjHhG
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1458.png" timeshift="0", TR: Sinema Yerli 2
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1458/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP3LzW319mvYjd41KZIKtbNdyCeV6jalGAtn3iGekwnJ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1384.png" timeshift="0", TR: FilmBox HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1384/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMMlNj_7FvZhhc93kfMr_8vlClEntP-AQb8CmL2H9ZIY
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1460.png" timeshift="0", TR: BluTV Play 1
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1460/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHacY5htGD3Kg5KJHrxx9nP6eSt_XQdNK38d--ahU2B6
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1461.png" timeshift="0", TR: BluTV Play 2
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1461/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEwM5zaabpZA9hHY20eNDz3H7G_M0H6GYlpMFb-mZiSY
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1468.png" timeshift="0", TR: FX HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1468/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMZwjMIcc6-tfZrbfbj15qRzIgn2U-7AjkGQlOiW3cXV
+#EXTINF:0 tvg-id="DizimaxComedy.tr" tvg-logo="http://troya.one/images/chIcons/1362.png" timeshift="0", TR: Bein Series 1 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1362/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDBolm09c5CnErbCGpXwJF-iFT0U1HF4zQtDAFK9EN8b
+#EXTINF:0 tvg-id="DizimaxSci-fi.tr" tvg-logo="http://troya.one/images/chIcons/1369.png" timeshift="0", TR: Bein Series 2 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1369/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOZCaUHGCYqQeH7mjPfJQqQLIjDIagTh8as5ZXWndQOB
+#EXTINF:0 tvg-id="DizimaxDrama.tr" tvg-logo="http://troya.one/images/chIcons/1368.png" timeshift="0", TR: Bein Series 3 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1368/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFlteHM6iH1-TkHnAoHIgqlpzOd2asOyuJwOprHdqfgw
+#EXTINF:0 tvg-id="DizimaxVice.tr" tvg-logo="http://troya.one/images/chIcons/1372.png" timeshift="0", TR: Bein Series 4 HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1372/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPQKi_NJjwqLHb7-H3dPUkqFNbkEZOpF8xd8zKaKMGtf
+#EXTINF:0 tvg-id="MaxSmartPremium.tr" tvg-logo="http://troya.one/images/chIcons/1377.png" timeshift="0", TR: Dizi Smart Max HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1377/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOOghfLioVJWk7jIKm_VN5FAP-YKtPcUCsMoMQa4womz
+#EXTINF:0 tvg-id="DiziPremiumHD.tr" tvg-logo="http://troya.one/images/chIcons/1782.png" timeshift="0", TR: Dizi Smart Premium HD
+#EXTGRP:TR ➾ SINEMA
+http://5.troya.info:34000/ch1782/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAazuPykBIXVGMY89z-omMZ9LME7lOtuuwEeIMBJnKJT
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="TR ➾ SINEMA",Kemal Sunal  1ᴴᴰ

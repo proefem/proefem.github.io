@@ -32,8 +32,6 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 http://5.troya.info:34000/ch1455/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 http://trn03.tulix.tv:80/gt-trt1eu/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="http://troya.one/images/chIcons/1419.png" timeshift="0",TRT 1 ᵁᴴᴰ
-http://5.troya.info:34000/ch1419/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://89.187.191.41:80/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
@@ -1114,7 +1112,7 @@ https://sc.id-tv.kz/TuranTV.m3u8
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.open-epg.com/img/flags/Sports@2x.svg" group-title="TODAY ➾ SPORT",RADYO GOL
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 
-##EXTINF:-1 tvg-id=""  tvg-name=""  tvg-logo="https://www.radio.de/300/radyo-gol.png?version=71fb272c9d02624b30b4b26299bed045" group-title="TODAY ➾ SPORT", RADYO GOL ғʜᴅ 
+##EXTINF:-1 tvg-id=""  tvg-name=""  tvg-logo="https://www.radio.de/300/radyo-gol.png?version=71fb272c9d02624b30b4b26299bed045" group-title="TODAY ➾ SPORT", RADYO GOL ғʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-accept=*/*
@@ -1124,7 +1122,7 @@ https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr"  tvg-name="TRT SPOR YILDIZ.tr"  tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="TODAY ➾ SPORT", TRT Spor ☆ ғʜᴅ 
 https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr"  tvg-name="TRT SPOR YILDIZ.tr"  tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="TODAY ➾ SPORT", TRT Spor ☆ ʜᴅ 
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr"  tvg-name="TRT SPOR YILDIZ.tr"  tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="TODAY ➾ SPORT", TRT Spor ☆ ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1136,20 +1134,20 @@ https://helga.iptv2022.com/trt_spor/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr"  tvg-name="TRT SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT  Spor ғʜᴅ 
 https://trn03.tulix.tv/gt-trtspor1/playlist.m3u8
 
-##EXTINF:-1 tvg-id="TRTSpor.tr"  tvg-name="TRT SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT  Spor ʜᴅ 
+##EXTINF:-1 tvg-id="TRTSpor.tr"  tvg-name="TRT SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT  Spor ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 ##https://tr-cdn-0001.gurbetstream.cfd/trtspor/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
-#EXTINF:-1 tvg-id="ATV.tr"  tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="TODAY ➾ SPORT",ATV ғʜᴅ
+#EXTINF:-1 tvg-id="ATV.tr"  tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="TODAY ➾ SPORT",ATV ғʜᴅ@
 https://tr-cdn-0001.gurbetstream.cfd/600/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz//
 
 #EXTINF:-1 tvg-id="ASpor.tr"  tvg-name="A SPOR TR"  tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr"  tvg-name="A SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ 
 https://trn03.tulix.tv/gt-aspor/playlist.m3u8
-##EXTINF:-1 tvg-id="ASpor.tr"  tvg-name="A SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ 
+##EXTINF:-1 tvg-id="ASpor.tr"  tvg-name="A SPOR.tr"  tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1161,30 +1159,30 @@ https://trn03.tulix.tv/gt-aspor/playlist.m3u8
 ##https://tr-cdn-0001.gurbetstream.cfd/aspor/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
 #EXTINF:-1 tvg-id="TV85.tr"  tvg-name="TV8,5 TR"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TODAY ➾ SPORT", TV 8'5 ʜᴅ 
+https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
+
+##EXTINF:-1 tvg-id="TV85.tr"  tvg-name="TV8,5.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TODAY ➾ SPORT", TV 8'5 ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
-
-##EXTINF:-1 tvg-id="TV85.tr"  tvg-name="TV8,5.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TODAY ➾ SPORT", TV 8'5 ʜᴅ 
 #https://tr-cdn-0001.gurbetstream.cfd/tv85/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
 #EXTINF:-1 tvg-id="tivibuspor"  tvg-name="tivibuspor.tr"  tvg-name="" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" auth=aspect-ratio="16:9" group-title="TODAY ➾ SPORT", TiviBU SPOR ʜᴅ
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 
-#EXTINF:-1 tvg-id="HT SPOR.tr"  tvg-name="HT SPOR TR"  tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="TODAY ➾ SPORT", HT Spor ʜᴅ 
+#EXTINF:-1 tvg-id="HT SPOR.tr"  tvg-name="HT SPOR TR"  tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="TODAY ➾ SPORT", HT Spor ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://tr-cdn-0001.gurbetstream.cfd/htspor/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
-#EXTINF:-1 tvg-id="GSTV.tr"  tvg-name="GS TV TR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png" group-title="TODAY ➾ SPORT", GSTV ʜᴅ 
+#EXTINF:-1 tvg-id="GSTV.tr"  tvg-name="GS TV TR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png" group-title="TODAY ➾ SPORT", GSTV ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://tr-cdn-0001.gurbetstream.cfd/gstv/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
-#EXTINF:-1 tvg-id="FBTV.tr"  tvg-name="FB TV TR"  tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="TODAY ➾ SPORT", FBTV ʜᴅ 
+#EXTINF:-1 tvg-id="FBTV.tr"  tvg-name="FB TV TR"  tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="TODAY ➾ SPORT", FBTV ʜᴅ @
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1262,9 +1260,14 @@ https://kirca.com/sportsmac.php?ID=bein/212
 #EXTINF:-1 tvg-id="beINSports5.tr" tvg-name="beIN SPORTS 5 TR"  tvg-logo="https://logos.streamsites.eu/3047_lig-tv_overview.png" group-title="TODAY ➾ SPORT" ,BeIN Sports 5 ʜᴅ {B}
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-5-turkey/212
 
-
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ғʜᴅ 
 https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ғʜᴅ 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://p09ow1rkanxmo3axqcd8rywcdrmxylct.zortstream.shop/601/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ {A}
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
@@ -1289,7 +1292,7 @@ https://tr-cdn-0001.gurbetstream.cfd/601/tracks-v1a1/mono.m3u8|referer=https://c
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://tr-cdn-0001.gurbetstream.cfd/601/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
-
+https://tr-cdn-0001.varsportscdn.site/601/index.m3u8|referer=https://cdn.datapack.xyz/
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 2 ʜᴅ 
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
@@ -1374,51 +1377,72 @@ https://de-cdn-0001.gurbetstream.cfd/703/tracks-v1a1/mono.m3u8|referer=https://c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://de-cdn-0001.gurbetstream.cfd/704/tracks-v1a1/mono.m3u8|referer=https://cdn.datapack.xyz/
 
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor+ (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 1 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii1/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 2 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 2 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii2/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 3 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 3 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii3/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 4 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 4 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii4/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 5 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 5 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii5/index.m3u8|referer=https://cdn.datapack.xyz/
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tabiispor 6 (Maçta Açık): 
+#EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://75dzykvszk9qd4hrvx8i4p32i3zrwsk6.zonemarketing3.xyz/tabii6/index.m3u8|referer=https://cdn.datapack.xyz/
+
+
+
+
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDc3MDg1MjI5ZmQ4Y2M4Y2M2NmY=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NjU5MTQ3NjMyYTA2NzgzNGZjODk=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor1.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 1 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTk0ODAwODdiZGNmZmJiNDFkNGY=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor1.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 1 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMjIxNDgxNzUzMmI1Y2VlMjM0MGQ=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor1.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 1 ʜᴅ 
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NDUyNDcxNzUzNjgyNmZhOTIwOTE=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii1/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor2.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 2 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0OTAxNjUzNzI3OGIxZGYzMGZiYmU=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor2.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 2 uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNTk0NjkyMzFjOWY4MzgzYjhkZmM=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii2/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor3.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 3 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0ODk0MzA3NTQ0YWY3ODQwYmM1NWU=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor3.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 3 uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NDY4NTc3MDgxNTkxZjYzNzlhZTA=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii3/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor4.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 4 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNzU5ODYxNzFlYmYyMTdmZTA5ZmE=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor4.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 4 uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwODgxNzUzOTdmNDljMDVlZTdlMjY=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii4/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor5.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 5 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjE5MzM0MTNmNWUxNWUyOTNmYTc=
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor5.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 5 uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzkzMzIxOTgyY2YyMjVjNTM4MjI=
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii5/index.m3u8
 
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor6.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 6 ʜᴅ
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MDk4NDgzOGIyZDQxZmYwODBkMg==
-
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-name="tabii spor6.tr" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Spor 6 uhd
-https://metvmetvmetv7.serv00.net/metvs3/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTM3MDg5NjNlNzhhYjA3Y2M4ZmQ=
-
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/tabii6/index.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport + ʜᴅ
 #EXTVLCOPT:http-referer=https://cdn.datapack.xyz/
@@ -1829,7 +1853,7 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664863?play_token=&live=true
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664864?play_token=&live=true
 
 
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="TARAFTARYUM ➾ SPORT",▬ GOL TV ▬
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="TARAFTAR ➾ SPORT",▬ GOL TV ▬
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="TARAFTAR ➾ SPORT",TRT1 ʜᴅ
@@ -1946,13 +1970,13 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinbm2.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TARAFTAR ➾ SPORT",SaraN SPORT 1 ʜᴅ
+#EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="TARAFTAR ➾ SPORT",SaraN SPORT 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinss.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TARAFTAR ➾ SPORT",SaraN SPORT 2 ʜᴅ
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="TARAFTAR ➾ SPORT",SaraN SPORT 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
@@ -1970,25 +1994,25 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinsms2.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 1 ʜᴅ
+#EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayint1.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 2 ʜᴅ
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayint2.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 3 ʜᴅ
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 3 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayint3.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 4 ʜᴅ
+#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TARAFTAR ➾ SPORT",TIVIBU SPOR 4 ʜᴅ
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
@@ -2009,49 +2033,49 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="TARAFTAR ➾ SPORT",SPORTS TV ʜᴅ
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  2 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  2 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  3 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  3 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport 4 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport 4 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  5 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  5 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  6 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  6 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d10.cfd/yayinex6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  7 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="TARAFTAR ➾ SPORT",Tâbii Sport  7 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://trgoals1092.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1092.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
@@ -4140,25 +4164,25 @@ https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/200.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/200.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="NET ➾ SPORT",ATV ʜᴅ 
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/160.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/160.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="NET ➾ SPORT",TRT spor ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/157.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/157.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="NET ➾ SPORT",A spor ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/158.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/158.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="NET ➾ SPORT", beiN Sport 1& HABER ʜᴅ
 https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
@@ -4167,126 +4191,126 @@ https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/2219.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/2219.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://aaa.cdn.saintcdn.live/e/99.m3u8
 
 #EXTINF: -1 tvg-id="beINSports1.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="NET ➾ SPORT",BeIN Sport 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#https://aaa.cdn.saintcdn.live/e/10.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#https://aasa1.cdn.saintcdn.live/e/10.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 
 #EXTINF: -1 tvg-id="beINSports2.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="NET ➾ SPORT",BeIN Sport 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/2218.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
-#https://aaa.cdn.saintcdn.live/e/793.m3u8
+https://aasa1.cdn.saintcdn.live/e/2218.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#https://aasa1.cdn.saintcdn.live/e/6541.m3u8?|referer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/ 
 
 #EXTINF: -1 tvg-id="beINSports3.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="NET ➾ SPORT",BeIN Sport 3 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/152.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/152.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/13.m3u8
 
 #EXTINF: -1 tvg-id="beINSports4.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="NET ➾ SPORT",BeIN Sport 4 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/151.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/151.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/14.m3u8
 
 #EXTINF: -1 tvg-id="beINSports5.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="NET ➾ SPORT",BeIN Sport 5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/15.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/15.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/15.m3u8
 
 #EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="NET ➾ SPORT",SaraN Sport 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/3030.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/3030.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/3030.m3u8
 
 #EXTINF: -1 tvg-id="SSport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="NET ➾ SPORT",SaraN Sport 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/3031.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/3031.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/3031.m3u8
 
 #EXTINF: -1 tvg-id="SporSmart.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="NET ➾ SPORT",Smart Spor 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/155.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/155.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888882.m3u8
 
 #EXTINF: -1 tvg-id="SporSmart2.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="NET ➾ SPORT",Smart Spor  2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/156.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/156.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888881.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="NET ➾ SPORT",FB ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/159.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/159.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888891.m3u8
 
 #EXTINF:-1 tvg-id="TAYTV.tr"  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="NET ➾ SPORT",TAY ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/201.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/201.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888885.m3u8
 
 #EXTINF: -1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="NET ➾ SPORT",Euro Sport 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/8888889.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/8888889.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888889.m3u8
 
 #EXTINF: -1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="NET ➾ SPORT",Euro Sport 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/8888890.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/8888890.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888890.m3u8
 
 #EXTINF:0  tvg-id="3792"   tvg-name="FightBox TR" tvg-logo="http://streaming-elbrus.su/img/logos/turk/fightbox.png" group-title="NET ➾ SPORT",FightBox ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/8888887.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/8888887.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888887.m3u8
 
 #EXTINF:-1 tvg-id="EDGETV.us" tvg-logo="https://m.rectv1240.xyz/uploads/cache/channel_thumb/uploads/png/8a761a4bafa75df9317e78baa2210221.png" group-title="NET ➾ SPORT",EDGE Sport ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/3032.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/3032.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/3032.m3u8
 
 #EXTINF:-1  tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="NET ➾ SPORT",NBATV ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/8888886.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+https://aasa1.cdn.saintcdn.live/e/8888886.m3u8|referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #https://ded0web.b-cdn.net/live/8888886.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="BOSSSporT",TRT Spor ʜᴅ
-https://aaa.cdn.saintcdn.live/e/157.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/157.m3u8|user-agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="BOSSSporT",A Spor ʜᴅ
-https://aaa.cdn.saintcdn.live/e/158.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/158.m3u8|user-agent=Mozilla/5.0 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="BOSSSporT", beiN Sport 1& HABER ʜᴅ
 https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="BOSSSporT" ,BeIN Sports 1 ʜᴅ
@@ -4304,15 +4328,15 @@ https://jtvdhh.site/cdn/bein_sports_max_1_hd/main.m3u8
 #EXTINF:-1,  tvg-logo="https://bit.ly/3175vmj" group-title="BOSSSporT",BEIN MAX 2 ʜᴅ
 https://jtvdhh.site/cdn/bein_sports_max_2_hd/main.m3u8
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 1 ʜᴅ
-https://aaa.cdn.saintcdn.live/e/155.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/155.m3u8|user-agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 2 ʜᴅ
-https://aaa.cdn.saintcdn.live/e/156.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/156.m3u8|user-agent=Mozilla/5.0 
 
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 1 ʜᴅ
-https://aaa.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
 #https://jtvdhh.site/cdn/s_sport_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 2 ʜᴅ
-https://aaa.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
+https://aasa1.cdn.saintcdn.live/e/3031.m3u8|user-agent=Mozilla/5.0 
 #https://jtvdhh.site/cdn/s_sport_2_hd/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 1 ʜᴅ
 https://jtvdhh.site/cdn/s_sport_plus_1_hd/main.m3u8?_dc=

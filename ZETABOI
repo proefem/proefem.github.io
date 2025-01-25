@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url=",https://www.open-epg.com/files/turkey.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz,https://www.open-epg.com/files/turkeypremium1.xml.gz,https://www.open-epg.com/files/turkeypremium2.xml.gz,https://www.open-epg.com/files/turkeypremium3.xml.gz,https://www.open-epg.com/files/germany3.xml.gz,https://bit.ly/ddy-epg1-gz"
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 23th Jan 2025
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 25th Jan 2025
+http://live.admuspeh.my/8822/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴🟡🔴❫❫❫ GÜNCEL PAYLAŞIMLAR TV 🎼 🎶💫 ☀️✔
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ Loupe TV 🎼 🎶
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ RELAXON 🎼 🎶
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DELUX LOUNGE  🎼 🎶
@@ -31,9 +31,11 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="ULUSAL" tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="http://troya.one/images/chIcons/1455.png" timeshift="0",TRT 4K UHD
 #http://5.troya.info:34000/ch1455/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
-http://trn03.tulix.tv:80/gt-trt1eu/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://89.187.191.41:80/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@1
+https://tatatam.trt1sultanfatihss.workers.dev/https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6uwbv4vor0sf&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@2
+https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://raalbatros.serv00.net/Gledai.php?ID=trt1
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
@@ -57,10 +59,8 @@ https://x.canlitvapp.com/trt1/playlist.m3u8
 #EXTVLCOPT:http-origin=https://turkcanli.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://helga.iptv2022.com/trt_1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@1
-https://tatatam.trt1sultanfatihss.workers.dev/https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6uwbv4vor0sf&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@2
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
+http://trn03.tulix.tv:80/gt-trt1eu/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™

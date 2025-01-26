@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url=",https://www.open-epg.com/files/turkey.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz,https://www.open-epg.com/files/turkeypremium1.xml.gz,https://www.open-epg.com/files/turkeypremium2.xml.gz,https://www.open-epg.com/files/turkeypremium3.xml.gz,https://www.open-epg.com/files/germany3.xml.gz,https://bit.ly/ddy-epg1-gz"
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 23th Jan 2025
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 26th Jan 2025
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 26th Jan 2025
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DRON TV 1🎼 🎶💫
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
@@ -78,6 +80,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="Tabii Sport HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="ULUSAL",Tabii TV ᴴᴰ⁺™
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=aCXyNwo7u-4/live.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺™
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8

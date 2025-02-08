@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=",https://www.open-epg.com/files/turkey.xml,https://www.open-epg.com/files/turkey4.xml,https://www.open-epg.com/files/turkeypremium1.xml,https://www.open-epg.com/files/turkeypremium2.xml,https://www.open-epg.com/files/turkeypremium3.xml,https://www.open-epg.com/files/germany3.xml,https://bit.ly/ddy-epg1-gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 29th Jan 2025
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️" , 🔺 INFO 🔺🔄 Update: 8th feb 2025
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DRON TV 1🎼 🎶💫
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
@@ -26,9 +26,9 @@ http://162.212.179.34/dvrfl05/gin-trt1eu/playlist.m3u8
 https://tatatam.trt1sultanfatihss.workers.dev/https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6uwbv4vor0sf&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+http://89.187.191.41:80/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᴴᴰ⁺™
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8 
@@ -373,7 +373,6 @@ https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://assets.tvcdn.net/6feda6ce-a6e0-40db-acf4-9620a7e4dde5.png" group-title="ULUSAL ➾ int",Aktif TV ʜᴅ
 #https://ip252.ozelip.com:22524/aktif/aktif/chunklist_w2077847687.m3u8
 
-
 #EXTINF: -1 tvg-id="" tvg-logo="https://silkwaytv.kz/img/silknew.png" group-title="ULUSAL ➾ int", IPEK YOLU/SİLKWAY/ ʜᴅ
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/silkway.m3u8
 
@@ -399,114 +398,19 @@ http://217.174.225.146/legacyhls/ch006_720/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="İNAT ➾ SPORT",▬ GOL TV ▬
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE.m3u8
-
-#EXTINF:-1 tvg-id="TRT1.tr"  tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="İNAT ➾ SPORT",TRT 1 ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trt1&e=.m3u8
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="İNAT ➾ SPORT",ATV ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv&e=.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="İNAT ➾ SPORT",SHOW ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=showtv&e=.m3u8
-
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="İNAT ➾ SPORT",TRT spor ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trtspor&e=.m3u8
-
-#EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="İNAT ➾ SPORT", beiN Sport 1& HABER ʜᴅ
-https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
-
-#EXTINF:-1   tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="İNAT ➾ SPORT",BeIN Sports 1 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
-
-#EXTINF:-1   tvg-id="beINSports2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="İNAT ➾ SPORT",BeIN Sports 2 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b2&e=.m3u8
-
-#EXTINF:-1   tvg-id="beINSports3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="İNAT ➾ SPORT",BeIN Sports 3 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b3&e=.m3u8
-
-#EXTINF:-1    tvg-id="beINSports4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="İNAT ➾ SPORT",BeIN Sports 4 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b4&e=.m3u8
-
-#EXTINF:-1   tvg-id="beINSports5.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="İNAT ➾ SPORT" ,BeIN Sports 5 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5&e=.m3u8
-
-#EXTINF:-1   tvg-id="beINSportsMax1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="İNAT ➾ SPORT" ,BeIN max 1 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1max&e=.m3u8
-
-#EXTINF:-1  tvg-id="beINSportsMax2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="İNAT ➾ SPORT",BeIN max 2 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b2max&e=.m3u8
-
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="İNAT ➾ SPORT",TiviBU SPOR 1 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi1&e=.m3u8
-
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="İNAT ➾ SPORT",TiviBU SPOR 2 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi2&e=.m3u8
-
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="İNAT ➾ SPORT",TiviBU SPOR 3 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi3&e=.m3u8
-
-#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="İNAT ➾ SPORT",TiviBU SPOR 4 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi4&e=.m3u8
-
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="İNAT ➾ SPORT",SaraN Sport 1 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport1&e=.m3u8
-
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="İNAT ➾ SPORT",SaraN Sport 2 ʜᴅ   
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport2&e=.m3u8
-
-#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="İNAT ➾ SPORT",Smart Sport 1 ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart&e=.m3u8
-
-#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="İNAT ➾ SPORT",Smart Sport 2 ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart2&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="İNAT ➾ SPORT",Tâbii Sport  HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_10.png" group-title="İNAT ➾ SPORT",Tâbii Sport 1 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii1&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_11.png" group-title="İNAT ➾ SPORT",Tâbii Sport 2 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii2&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_12.png" group-title="İNAT ➾ SPORT",Tâbii Sport 3 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii3&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_13.png" group-title="İNAT ➾ SPORT",Tâbii Sport 4 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii4&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_14.png" group-title="İNAT ➾ SPORT",Tâbii Sport 5 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii5&e=.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_15.png" group-title="İNAT ➾ SPORT",Tâbii Sport 6 HD
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii6&e=.m3u8
-
-#EXTINF: -1 tvg-id="ExxenTV.tr" tvg-name="EXXEN TV" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9" group-title="İNAT ➾ SPORT",EXXEN 1 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen1&e=.m3u8
-
-#EXTINF: -1 tvg-id="ExxenTV.tr" tvg-name="EXXEN TV" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9" group-title="İNAT ➾ SPORT",EXXEN 2 ʜᴅ 
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen2&e=.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/EUROSPORT-1.png" group-title="İNAT ➾ SPORT",TR: EUROSPORT 1 ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=eu1&e=.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/EUROSPORT2.png" group-title="İNAT ➾ SPORT",TR: EUROSPORT 2 ʜᴅ
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=eu2&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="TODAY ➾ SPORT",▬ GOL TV ▬
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 
 #EXTINF: -1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT SPOR ☆ʜᴅ
-https://dvrfl05.tulix.tv/gin-trtspor2/playlist.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-trtspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT SPOR ʜᴅ
-https://dvrfl05.tulix.tv/gin-trtspor/playlist.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-trtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", a SPOR ʜᴅ
-https://dvrfl05.tulix.tv/gin-aspor/playlist.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-aspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TODAY ➾ SPORT", tv8'5 ʜᴅ
 https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
@@ -548,19 +452,19 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="TODAY ➾ SPORT",SaraN Sport 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  AppleWebKit/605.1.15 
-https://tprpr.cxn.genwcdn.live/e/3030.m3u8
+https://217.30.11.74/e/3030.m3u8
 
 #EXTINF: -1 tvg-id="SSport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="TODAY ➾ SPORT",SaraN Sport 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  AppleWebKit/605.1.15 
-https://tprpr.cxn.genwcdn.live/e/3031.m3u8
+https://217.30.11.74/e/3031.m3u8
 
 #EXTINF: -1 tvg-id="SporSmart.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TODAY ➾ SPORT",Smart Spor 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  AppleWebKit/605.1.15 
-https://tprpr.cxn.genwcdn.live/e/155.m3u8
+https://217.30.11.74/e/155.m3u8
 
 #EXTINF: -1 tvg-id="SporSmart2.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TODAY ➾ SPORT",Smart Spor  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  AppleWebKit/605.1.15 
-https://tprpr.cxn.genwcdn.live/e/156.m3u8
+https://217.30.11.74/e/156.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tabiispor.tr" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT", Tâbii Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  AppleWebKit/605.1.15   

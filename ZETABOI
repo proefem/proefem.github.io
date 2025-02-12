@@ -1186,18 +1186,21 @@ https://sc.id-tv.kz/TuranTV.m3u8
 https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="KRİTİK ➾ SPORT",TRT SPOR * ʜᴅ
-http://162.212.179.33/gin-dvrfl05/gin-trtspor2/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8
+##http://162.212.179.33/gin-dvrfl05/gin-trtspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="KRİTİK ➾ SPORT",TRT SPOR 3 ʜᴅ
-http://162.212.179.33/gin-dvrfl05/gin-trtspor3/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-trtspor3/playlist.m3u8
+##http://162.212.179.33/gin-dvrfl05/gin-trtspor3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="http://epg.it999.ru/img/6525.png" group-title="KRİTİK ➾ SPORT",TRT SPOR ʜᴅ
-http://162.212.179.33/gin-dvrfl05/gin-trtspor/playlist.m3u8
-#https://tgn.bozztv.com/dvrfl05/gin-trtspor/playlist.m3u8
-#http://149.13.0.66:4000/trtsporhd
+https://tgn.bozztv.com/dvrfl05/gin-trtspor/playlist.m3u8
+##http://162.212.179.33/gin-dvrfl05/gin-trtspor/playlist.m3u8
+##http://149.13.0.66:4000/trtsporhd##
 
 #EXTINF:-1 tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="http://epg.it999.ru/img/6522.png" group-title="KRİTİK ➾ SPORT",A SPOR ʜᴅ
-http://162.212.179.33/gin-dvrfl05/gin-aspor/playlist.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-aspor/playlist.m3u8
+#http://162.212.179.33/gin-dvrfl05/gin-aspor/playlist.m3u8
 #https://tgn.bozztv.com/dvrfl05/gin-aspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="http://epg.it999.ru/img/2614.png" group-title="KRİTİK ➾ SPORT",TV 8.5 ʜᴅ
@@ -1263,24 +1266,29 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="KRİTİK ➾ SPORT",TiviBU SPOR 1 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/708/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="http://72register34.com/logos/tivibuspor2hd.png" group-title="KRİTİK ➾ SPORT",TiviBU SPOR 2 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/711/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="http://72register34.com/logos/tivibuspor3hd.png" group-title="KRİTİK ➾ SPORT",TiviBU SPOR 3 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/712/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="http://72register34.com/logos/tivibuspor4hd.png" group-title="KRİTİK ➾ SPORT",TiviBU SPOR 4 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/713/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="http://72register34.com/logos/tivibuspor4hd.png" group-title="KRİTİK ➾ SPORT",TiviBU SPOR X ʜᴅ
-#EXTVLCOPT:http-referrer=https://122dumantv.com/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 #https://12mumdur.online/722/index.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ + ʜᴅ (Maçta Açılır)🔴❫❫❫
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
+https://10mumdur.shop/tabiisporr/index.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="KRİTİK ➾ SPORT",Tabii Sport + ʜᴅ (Maçta Açılır)🔴❫❫❫
 https://kirca.com/vavoo/2.m3u8
@@ -1410,43 +1418,43 @@ https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
 https://bit.ly/UmitMacyayini
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 1 ʜᴅ FEED
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/717/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 1 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/701/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="http://72register34.com/logos/beins2hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 2 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/702/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="http://72register34.com/logos/bein3hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 3 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/703/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="http://72register34.com/logos/bein4hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 4 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/704/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS M1" tvg-logo="http://72register34.com/logos/beinmax1fhd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS Max 1 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/716/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS M2" tvg-logo="http://72register34.com/logos/beinmax2fhd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS Max 2 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/717/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="S SPORTS " tvg-logo="http://72register34.com/logos/ssport1hd.png" group-title="DUMAN ➾ SPORT",SaraN SPORTS ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/705/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="S SPORTS 2" tvg-logo="http://72register34.com/logos/ssport2hd.png" group-title="DUMAN ➾ SPORT",SaraN SPORTS 2 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/730/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SMART SPOR" tvg-logo="http://72register34.com/logos/sporsmarthd.png" group-title="DUMAN ➾ SPORT",Smart SPOR ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/707/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SMART SPOR" tvg-logo="http://72register34.com/logos/sporsmart2hd.png" group-title="DUMAN ➾ SPORT",Smart SPOR 2 ʜᴅ
@@ -1454,23 +1462,23 @@ https://10mumdur.shop/707/index.m3u8
 https://217.30.11.74/e/156.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 1 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/708/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="http://72register34.com/logos/tivibuspor2hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 2 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/711/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="http://72register34.com/logos/tivibuspor3hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 3 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/712/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="http://72register34.com/logos/tivibuspor4hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 4 ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/713/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="http://72register34.com/logos/tivibuspor4hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR X ʜᴅ
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/taytv.png" group-title="DUMAN ➾ SPORT",TAY TV ʜᴅ
@@ -1479,29 +1487,33 @@ https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=ZTtn95gTLlQ/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tjktv.png" group-title="DUMAN ➾ SPORT",TJK TV ʜᴅ
 https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=g89RQMJtK6E/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",TABİİ
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
+https://10mumdur.shop/tabiisporr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",auttv
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/auttv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",smile-sport
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/smile-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",sport24
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/sport24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",tv888
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/tv888/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",football
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/football/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",orang
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/orang/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",super-sport
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/super-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DUMAN ➾ SPORT",citybet
-#EXTVLCOPT:http-referrer=https://10mumdur.shop/
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
 https://10mumdur.shop/citybet/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="TODAY ➾ SPORT",RADYO GOL

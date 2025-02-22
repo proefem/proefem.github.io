@@ -21,6 +21,8 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
 https://tgn.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
+https://proxy.maxpanel.com.tr/https://tv-trt1.medya.trt.com.tr/master_720.m3u8?hls=1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
 https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺@
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -112,8 +114,10 @@ http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=
 
 
 #EXTINF: -1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN  ᴴᴰ⁺™
+#EXTVLCOPT:http-referrer=https://sporplushd26.live/
+#EXTVLCOPT:http-origin=https://sporplushd26.live/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+https://a.strmrdr-cf-worker-62a04836e9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/4011/a.strmrdr-cf-worker-62a04836e9.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᴴᴰ⁺™
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8

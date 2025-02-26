@@ -18,11 +18,15 @@ https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
-https://tgn.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™@
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://proxy.maxpanel.com.tr/https://tv-trt1.medya.trt.com.tr/master_720.m3u8?hls=1
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™@
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://proxy.maxpanel.com.tr/https://trt.daioncdn.net/trt-1/master_720.m3u8?app=web&
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
+https://tgn.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
 https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺@
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8

@@ -308,6 +308,9 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1873&extensi
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tabii Sport HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="ULUSAL",Tabii TV ᵁᴴᴰ⁺™
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
+#EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FOfFnvKFfeWfRayaH5uJswHaHa%26pid%3DApi&f=1&ipt=590dba94a1feceddf168110d7c54cd578756ca409e33b9cc4574c1abb5afbdc2&ipo=images"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺
+http://cdn4.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR tv ᴴᴰ⁺
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?autoplay=1
 # ?https://canlitvulusal2.xyz/live/birtv/index.m3u8
@@ -317,8 +320,6 @@ http://195.142.3.105/artidijital_cine1/cine1/chunks.m3u8?autoplay=1
 
 #EXTINF:-1  type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL",CİNE 5 tv ᴴᴰ
 http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
-#EXTINF:-1  type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="YEDEK ➾ ULUSAL",CİNE5 tv ᴴᴰʏᴇᴅᴇᴋ
-http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 
 #EXTINF:-1 tvg-name="Cine1.tr" tvg-language="Turkish" tvg-country="" tvg-id="" tvg-logo="https://www.cine6tv.com.tr/uploads/haberler/icthumb/sxk2m3SP_400x400.jpg" group-title="ULUSAL",CİNE 6 tv ᴴᴰ⁺™
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
@@ -331,7 +332,8 @@ http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=
 #https://canlitvulusal2.xyz/live/denizpostasitv/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv?|&=.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
+#https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv?|&=.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",FARO ᴴᴰ
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -1255,8 +1257,7 @@ https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
 #EXTINF:-1 tvg-id="BEIN SPORTS HABER" tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.imgur.com/cGxOMrk.png" group-title="KRİTİK ➾ SPORT",BeIN SPORTS HABER ʜᴅ
-https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
-##https://rpn3.bozztv.com/dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl05/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN SPORTS 1 ʜᴅ ᴠɪᴘ ᴠᴘɴ
 #https://proxy.maxpanel.com.tr/https://plexpan.duckdns.org/xbyte.m3u8/?id=267105889.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN SPORTS 1 ʜᴅ ᴠɪᴘ ᴠᴘɴ
@@ -1274,7 +1275,7 @@ https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT", BEİN Sport 1 ғʜᴅ 
 https://hypertv.duckdns.org:443/play/aQfbAcc3Z2dfTNYrKjqbQBqyjAmhu6X4N4ZrVfWlds8/ts
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN SPORTS 1 ʜᴅ ᴠɪᴘ1
-https://siniryokbebis.tiiny.io/?id=2671058892459103de77a
+https://siniryokbebis.tiiny.io/?id=2671058892459103de77a.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN SPORTS 1 ʜᴅ ᴠɪᴘ2
 https://siniryokbebis.tiiny.io/?id=211346239843ddede8fabc
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN SPORTS 1 ʜᴅ ᴠɪᴘ3
@@ -1317,7 +1318,7 @@ https://siniryokbebis.tiiny.io/?id=40714747432322747e9afb
 https://siniryokbebis.tiiny.io/?id=34079362428b440cbbc0b2
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 TR"  tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT", BEİN Sport 1 ғʜᴅ 
-#https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
+https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="KRİTİK ➾ SPORT",BeIN Sports 1 ʜᴅ 
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r11.1ff05699778444598012.workers.dev/static/yayinstar.m3u8
@@ -5397,15 +5398,15 @@ https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" tvg-name="TR:TRT SPOR HD" group-title="TECHNİCS➾ SPORT",TRT SPOR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=312904614ca77e6998f40
+https://siniryokbebis.tiiny.io/?id=312904614ca77e6998f40
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" tvg-name="TR:A SPOR HD" group-title="TECHNİCS➾ SPORT",A SPOR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=1771137539496e523ffb8e
+https://siniryokbebis.tiiny.io/?id=1771137539496e523ffb8e
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" tvg-name="TR:TV 8.5 HD" group-title="TECHNİCS➾ SPORT",TV 8'5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=1908265816156f71d4dada
+https://siniryokbebis.tiiny.io/?id=1908265816156f71d4dada
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" tvg-name="TR:HT SPOR HD" group-title="TECHNİCS➾ SPORT",HT SPOR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -5421,99 +5422,99 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" tvg-name="TR:BEINSPORTS HABER HD" group-title="TECHNİCS➾ SPORT",BEINSPORTS HABER HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=119733600010e27577a8bb
+https://siniryokbebis.tiiny.io/?id=119733600010e27577a8bb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 1  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=2671058892459103de77a
+https://siniryokbebis.tiiny.io/?id=2671058892459103de77a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 1  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=2671058892459103de77a
+https://siniryokbebis.tiiny.io/?id=2671058892459103de77a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 1  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=1536730627e370a91a8c3f
+https://siniryokbebis.tiiny.io/?id=1536730627e370a91a8c3f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 1  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=3840475653c037787f60c1
+https://siniryokbebis.tiiny.io/?id=3840475653c037787f60c1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 1  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=145369231423771b595289
+https://siniryokbebis.tiiny.io/?id=145369231423771b595289
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 2  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=3694662475655ffcba6b47
+https://siniryokbebis.tiiny.io/?id=3694662475655ffcba6b47
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 3  [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=3410167560fd7b2f4f46bb
+https://siniryokbebis.tiiny.io/?id=3410167560fd7b2f4f46bb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 4 [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=29382683537beedbbc0b4c
+https://siniryokbebis.tiiny.io/?id=29382683537beedbbc0b4c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports 5 [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=40003156012b9398992089
+https://siniryokbebis.tiiny.io/?id=40003156012b9398992089
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN Sports Max 1 [VIP]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=40714747432322747e9afb
+https://siniryokbebis.tiiny.io/?id=40714747432322747e9afb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TECHNİCS➾ SPORT",BeIN SPORTS MAX 2 [ VIP ]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=258968235a0f1c2b7461e
+https://siniryokbebis.tiiny.io/?id=258968235a0f1c2b7461e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" tvg-name="TR:TIVIBUSPOR 1 HD" group-title="TECHNİCS➾ SPORT",TIVIBUSPOR 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=2565972338419dd64d3c1a
+https://siniryokbebis.tiiny.io/?id=2565972338419dd64d3c1a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" tvg-name="TR:TIVIBUSPOR 2 HD" group-title="TECHNİCS➾ SPORT",TIVIBUSPOR 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=3746683810ddb1d9ba7e0d
+https://siniryokbebis.tiiny.io/?id=3746683810ddb1d9ba7e0d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" tvg-name="TR:TIVIBUSPOR 3 HD" group-title="TECHNİCS➾ SPORT",TIVIBUSPOR 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=37949240504a3b054e127e
+https://siniryokbebis.tiiny.io/?id=37949240504a3b054e127e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" tvg-name="TR:TIVIBUSPOR 4 HD" group-title="TECHNİCS➾ SPORT",TIVIBUSPOR 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=134330317027e4c983c326
+https://siniryokbebis.tiiny.io/?id=134330317027e4c983c326
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" tvg-name="TR:SPOR SMART 1 HD" group-title="TECHNİCS➾ SPORT",SPOR SMART 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=13135633500a0fa81faa43
+https://siniryokbebis.tiiny.io/?id=13135633500a0fa81faa43
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" tvg-name="TR:SPOR SMART 2 HD" group-title="TECHNİCS➾ SPORT",SPOR SMART 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=907165095bb0ed77d4841
+https://siniryokbebis.tiiny.io/?id=907165095bb0ed77d4841
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" tvg-name="TR:S SPORTS 1 HD" group-title="TECHNİCS➾ SPORT",S SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=35317621954490a49d4bd5
+https://siniryokbebis.tiiny.io/?id=35317621954490a49d4bd5
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" tvg-name="TR:S SPORTS 2 HD" group-title="TECHNİCS➾ SPORT",S SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=39436510302ddeb4af5fc6
+https://siniryokbebis.tiiny.io/?id=39436510302ddeb4af5fc6
 
 #EXTINF:-1 tvg-name="S SPORT+ 1 HD"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2Qy9hwKbp8arFmJdC2dZwbpBj7TdxayFkJpdEvgZcoFAw-BgJq5FkrGntgd1bFlZCRcTCkxVdw=s900-c-k-c0x00ffffff-no-rj" group-title="TECHNİCS➾ SPORT",S SPORT+ 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=403604621933dd47d7e9a1
+https://siniryokbebis.tiiny.io/?id=403604621933dd47d7e9a1
 
 #EXTINF:-1 tvg-name="S SPORT+ 1 HD"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2Qy9hwKbp8arFmJdC2dZwbpBj7TdxayFkJpdEvgZcoFAw-BgJq5FkrGntgd1bFlZCRcTCkxVdw=s900-c-k-c0x00ffffff-no-rj" group-title="TECHNİCS➾ SPORT",S SPORT+ 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=2559756791bf5a43320a74
+https://siniryokbebis.tiiny.io/?id=2559756791bf5a43320a74
 
 #EXTINF:-1 tvg-name="S SPORT+ 2 HD"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2Qy9hwKbp8arFmJdC2dZwbpBj7TdxayFkJpdEvgZcoFAw-BgJq5FkrGntgd1bFlZCRcTCkxVdw=s900-c-k-c0x00ffffff-no-rj" group-title="TECHNİCS➾ SPORT",S SPORT+ 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=2314183566017ea3e0a97c
+https://siniryokbebis.tiiny.io/?id=2314183566017ea3e0a97c
 
 #EXTINF:-1 tvg-name="S SPORT+ 3 HD"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2Qy9hwKbp8arFmJdC2dZwbpBj7TdxayFkJpdEvgZcoFAw-BgJq5FkrGntgd1bFlZCRcTCkxVdw=s900-c-k-c0x00ffffff-no-rj" group-title="TECHNİCS➾ SPORT",S SPORT+ 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=32693723268ec1667cfc1a
+https://siniryokbebis.tiiny.io/?id=32693723268ec1667cfc1a
 
 #EXTINF:-1 tvg-name="S SPORT+ 4 HD"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2Qy9hwKbp8arFmJdC2dZwbpBj7TdxayFkJpdEvgZcoFAw-BgJq5FkrGntgd1bFlZCRcTCkxVdw=s900-c-k-c0x00ffffff-no-rj" group-title="TECHNİCS➾ SPORT",S SPORT+ 4 HD
 #https://mehmetaslan.serv00.net/Rokr/Live?ID=
@@ -5528,31 +5529,31 @@ http://mehmetaslan.serv00.net/Rokr?ID=32693723268ec1667cfc1a
 
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/TR/filbox.png" group-title="TECHNİCS➾ SPORT", FILBOX SPOR 1 MACZAMANI 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=4076122673219ec5df68a
+https://siniryokbebis.tiiny.io/?id=4076122673219ec5df68a
 
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/TR/filbox.png" group-title="TECHNİCS➾ SPORT", FILBOX SPOR 2 MACZAMANI 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=154583314bf03878e7e38
+https://siniryokbebis.tiiny.io/?id=154583314bf03878e7e38
 
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/TR/filbox.png" group-title="TECHNİCS➾ SPORT", FILBOX SPOR 3 MACZAMANI 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=29662318026139bd704265
+https://siniryokbebis.tiiny.io/?id=29662318026139bd704265
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" tvg-name="TR:EUROSPORT 1 HD" group-title="TECHNİCS➾ SPORT",EUROSPORT 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=3458631461cbe5b580a159
+https://siniryokbebis.tiiny.io/?id=3458631461cbe5b580a159
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" tvg-name="TR:EUROSPORT 2 HD" group-title="TECHNİCS➾ SPORT",EUROSPORT 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=23073254295311af05247b
+https://siniryokbebis.tiiny.io/?id=23073254295311af05247b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/nbatv.png" tvg-name="TR:NBA TV HD" group-title="TECHNİCS➾ SPORT",NBA TV HD
 http://212.102.60.231/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="TECHNİCS➾ SPORT",TRT Spor YILDIZ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://mehmetaslan.serv00.net/Rokr?ID=114501523f58e3a4b8ddd
+https://siniryokbebis.tiiny.io/?id=114501523f58e3a4b8ddd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sportstv.png" tvg-name="TR:SPORTS TV HD" group-title="TECHNİCS➾ SPORT",SPORTS TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -5560,96 +5561,95 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 1 FEED 
-http://mehmetaslan.serv00.net/Rokr?ID=109140391255965ce3cb07
+https://siniryokbebis.tiiny.io/?id=109140391255965ce3cb07
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 1
-http://mehmetaslan.serv00.net/Rokr?ID=38149253718140a4ea2d9a
+https://siniryokbebis.tiiny.io/?id=38149253718140a4ea2d9a
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 2 
-http://mehmetaslan.serv00.net/Rokr?ID=36730370540d7723e28b44
+https://siniryokbebis.tiiny.io/?id=36730370540d7723e28b44
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 3 
-http://mehmetaslan.serv00.net/Rokr?ID=85184106740a3eb80d380
+https://siniryokbebis.tiiny.io/?id=85184106740a3eb80d380
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 4 
-http://mehmetaslan.serv00.net/Rokr?ID=216260921148c12ebe03f0
+https://siniryokbebis.tiiny.io/?id=216260921148c12ebe03f0
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 5 
-http://mehmetaslan.serv00.net/Rokr?ID=31797344113242125e27fb
+https://siniryokbebis.tiiny.io/?id=31797344113242125e27fb
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 6 
-http://mehmetaslan.serv00.net/Rokr?ID=41968351633b5931d43890
+https://siniryokbebis.tiiny.io/?id=41968351633b5931d43890
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 7 
-http://mehmetaslan.serv00.net/Rokr?ID=33433003310b40ae342672
+https://siniryokbebis.tiiny.io/?id=33433003310b40ae342672
 
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TECHNİCS➾ SPORT" ,EXXEN SPOR 8
-http://mehmetaslan.serv00.net/Rokr?ID=1159078202c10336c661d2
+https://siniryokbebis.tiiny.io/?id=1159078202c10336c661d2
 
 #EXTINF:-1 tvg-id="3830691316" tvg-name="TR | TABII SPOR 1 4K (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 1 4K (1)
-https://v.arectv11.sbs/static/tabi.m3u8
-#EXTINF:-1 tvg-id="2259480087" tvg-name="TR | TABII SPOR HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR HD (1)
-#EXTINF:-1 tvg-id="3665914763" tvg-name="TR | TABII SPOR 1 720P (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 1 720P (1)
-#EXTINF:-1 tvg-id="3107708522" tvg-name="TR | TABII SPOR 1 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 1 UHD (1)
-https://v.arectv11.sbs/static/tabi1.m3u8
-#EXTINF:-1 tvg-id="2490165372" tvg-name="TR | TABII SPOR 2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 2 HD (1)
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi.m3u8
+#EXTINF:-1 tvg-id="2490165372" tvg-name="TR | TABII SPOR 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 1 HD (1)
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi1.m3u8
 #EXTINF:-1 tvg-id="2159469231" tvg-name="TR | TABII SPOR 2 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 2 UHD (1)
-https://v.arectv11.sbs/static/tabi2.m3u8
-
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi2.m3u8
 #EXTINF:-1 tvg-id="1489430754" tvg-name="TR | TABII SPOR 3 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 3 HD (1)
-#EXTINF:-1 tvg-id="2546857708" tvg-name="TR | TABII SPOR 3 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 3 UHD (1)
-https://v.arectv11.sbs/static/tabi3.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi3.m3u8
 #EXTINF:-1 tvg-id="1375986171" tvg-name="TR | TABII SPOR 4 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 4 HD (1)
-#EXTINF:-1 tvg-id="4088175397" tvg-name="TR | TABII SPOR 4 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 4 UHD (1)
-https://v.arectv11.sbs/static/tabi4.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi4.m3u8
 #EXTINF:-1 tvg-id="2661933413" tvg-name="TR | TABII SPOR 5 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 5 HD (1)
-#EXTINF:-1 tvg-id="3839332198" tvg-name="TR | TABII SPOR 5 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 5 UHD (1)
-https://v.arectv11.sbs/static/tabi5.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi5.m3u8
 #EXTINF:-1 tvg-id="270984838" tvg-name="TR | TABII SPOR 6 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 6 HD (1)
-#EXTINF:-1 tvg-id="3713708963" tvg-name="TR | TABII SPOR 6 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="TECHNİCS➾ SPORT",TABII SPOR 6 UHD (1)
-https://v.arectv11.sbs/static/tabi6.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://v.arectv13.sbs/static/tabi6.m3u8
 
 
 #EXTINF:-1 tvg-id="3830691316" tvg-name="TABII SPOR 1 4K (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 4K (1)
-https://deathless-iptv-free.tiiny.io/?id=3830691316&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMjIxNDgxNzUzMmI1Y2VlMjM0MGQ=
+#EXTINF:-1 tvg-id="3830691316" tvg-name="TABII SPOR 1 4K (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 4K (1)
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTk0ODAwODdiZGNmZmJiNDFkNGY=
+#EXTINF:-1 tvg-id="3830691316" tvg-name="TABII SPOR 1 4K (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 4K (1)
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzA2OTEzMTY2ZWY3ZjQ4YzE5YmY=
 #EXTINF:-1 tvg-id="3107708522" tvg-name="TABII SPOR 1 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=3107708522&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NjU5MTQ3NjMyYTA2NzgzNGZjODk=
 #EXTINF:-1 tvg-id="451145631" tvg-name="TABII SPOR 1 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=451145631&e=.m3u8
-#EXTINF:-1 tvg-id="3665914763" tvg-name="TABII SPOR 1 720P (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 720P (1)
-https://deathless-iptv-free.tiiny.io/?id=3665914763&e=.m3u8
-#EXTINF:-1 tvg-id="1945247175" tvg-name="TABII SPOR 1 SD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 1 SD (1)
-https://deathless-iptv-free.tiiny.io/?id=1945247175&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDc3MDg1MjI5ZmQ4Y2M4Y2M2NmY=
 #EXTINF:-1 tvg-id="2490165372" tvg-name="TABII SPOR 2 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 2 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=2490165372&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0OTAxNjUzNzI3OGIxZGYzMGZiYmU=
 #EXTINF:-1 tvg-id="2159469231" tvg-name="TABII SPOR 2 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 2 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=2159469231&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNTk0NjkyMzFjOWY4MzgzYjhkZmM=
 #EXTINF:-1 tvg-id="1489430754" tvg-name="TABII SPOR 3 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 3 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=1489430754&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0ODk0MzA3NTQ0YWY3ODQwYmM1NWU=
 #EXTINF:-1 tvg-id="2546857708" tvg-name="TABII SPOR 3 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 3 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=2546857708&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NDY4NTc3MDgxNTkxZjYzNzlhZTA=
 #EXTINF:-1 tvg-id="1375986171" tvg-name="TABII SPOR 4 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 4 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=1375986171&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNzU5ODYxNzFlYmYyMTdmZTA5ZmE=
 #EXTINF:-1 tvg-id="4088175397" tvg-name="TABII SPOR 4 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 4 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=4088175397&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwODgxNzUzOTdmNDljMDVlZTdlMjY=
 #EXTINF:-1 tvg-id="2661933413" tvg-name="TABII SPOR 5 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 5 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=2661933413&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjE5MzM0MTNmNWUxNWUyOTNmYTc=
 #EXTINF:-1 tvg-id="3839332198" tvg-name="TABII SPOR 5 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 5 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=3839332198&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzkzMzIxOTgyY2YyMjVjNTM4MjI=
 #EXTINF:-1 tvg-id="270984838" tvg-name="TABII SPOR 6 HD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 6 HD (1)
-https://deathless-iptv-free.tiiny.io/?id=270984838&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MDk4NDgzOGIyZDQxZmYwODBkMg==
 #EXTINF:-1 tvg-id="3713708963" tvg-name="TABII SPOR 6 UHD (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",TABII SPOR 6 UHD (1)
-https://deathless-iptv-free.tiiny.io/?id=3713708963&e=.m3u8
+http://guldurmebeni2000.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTM3MDg5NjNlNzhhYjA3Y2M4ZmQ=
 #EXTINF:-1 tvg-id="2559756791" tvg-name="S-SPORT+1 MAC SAATI (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",S-SPORT+1 MAC SAATI (1)
-https://deathless-iptv-free.tiiny.io/?id=2559756791&e=.m3u8
+https://deathless-iptv-free.tiiny.io/?id=2559756791bf5a43320a74
 #EXTINF:-1 tvg-id="2314183566" tvg-name="S-SPORT+2 MAC SAATI (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",S-SPORT+2 MAC SAATI (1)
-https://deathless-iptv-free.tiiny.io/?id=2314183566&e=.m3u8
+https://deathless-iptv-free.tiiny.io/?id=2314183566017ea3e0a97c
 #EXTINF:-1 tvg-id="3269372326" tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",S SPORT+3 MAC SAATI (1)
-https://deathless-iptv-free.tiiny.io/?id=3269372326&e=.m3u8
+#https://deathless-iptv-free.tiiny.io/?id=3269372326&e=.m3u8
 #EXTINF:-1 tvg-id="1507829436" tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",S SPORT+4 MAC SAATI (1)
-https://deathless-iptv-free.tiiny.io/?id=1507829436&e=.m3u8
+#https://deathless-iptv-free.tiiny.io/?id=1507829436&e=.m3u8
 #EXTINF:-1 tvg-id="3760487764" tvg-name="S SPORT+5 MAC SAATI (1)" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TECHNİCS➾ SPORT"",S SPORT+5 MAC SAATI (1)
-https://deathless-iptv-free.tiiny.io/?id=3760487764&e=.m3u8
+#https://deathless-iptv-free.tiiny.io/?id=3760487764&e=.m3u8
 
 
 
@@ -7718,7 +7718,7 @@ https://koprulu1.global.ssl.fastly.net/app2/rectv.m3u8/?id=anim3
 
 #EXTINF:1 tvg-copyright="" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Evde Sinema",Tom & Jerry - (2021)
 https://vidrame.pro/vr/get/b090fc2e/480.m3u8
-#EXTINF:1 tvg-copyright="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_FMjpg_UX1000_.jpg" tvg-language="Turkish" group-title="Evde Sinema,Migration - Ördeklerin Göçü (2023)
+#EXTINF:1 tvg-copyright="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_FMjpg_UX1000_.jpg" tvg-language="Turkish" group-title="Evde Sinema",Migration - Ördeklerin Göçü (2023)
 https://cdn6.video.az/storage/movie/21/21923/video.mp4
 #EXTINF:1 tvg-copyright="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVhYTNhMzctNjE3Yi00MTcxLTk3ZTctYWU5OTY4YWZkY2NmXkEyXkFqcGc@._V1_.jpg" tvg-language="Turkish" group-title="Evde Sinema",The Beekeeper Arıcı: Ölüm Kovanı (2024)
 https://cdn8.video.az/storage/movie/21/22011/video.mp4

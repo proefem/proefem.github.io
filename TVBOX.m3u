@@ -20,14 +20,14 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™@
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://proxy.maxpanel.com.tr/https://tv-trt1.medya.trt.com.tr/master_720.m3u8?hls=1
+https://tgn.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™@
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://proxy.maxpanel.com.tr/https://trt.daioncdn.net/trt-1/master_720.m3u8?app=web&
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
-https://tgn.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
 https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
+https://proxy.maxpanel.com.tr/https://tv-trt1.medya.trt.com.tr/master_720.m3u8?hls=1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᴴᴰ⁺™
+https://proxy.maxpanel.com.tr/https://trt.daioncdn.net/trt-1/master_720.m3u8?app=web&
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺@
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSALʏᴇᴅᴇᴋ",TRT1 ᵁᴴᴰ⁺@
@@ -124,7 +124,7 @@ http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=
 #EXTVLCOPT:http-referrer=https://sporplushd26.live/
 #EXTVLCOPT:http-origin=https://sporplushd26.live/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://a.strmrdr-cf-worker-62a04836e9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/4011/a.strmrdr-cf-worker-62a04836e9.workers.dev/chunklist_hd.m3u8
+#https://a.strmrdr-cf-worker-62a04836e9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/4011/a.strmrdr-cf-worker-62a04836e9.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᴴᴰ⁺™
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
@@ -142,7 +142,7 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=ZsbM1G9DW-M.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ZsbM1G9DW-M.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV ᴴᴰ
 https://yayin.santraltr.com/hls/akillitv.m3u8
@@ -1677,35 +1677,112 @@ https://ia801308.us.archive.org/7/items/NasserAlQatamii/%C4%B0hlas%20Suresi%20-%
 
 
 
-#EXTINF:1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR ➾ EĞLENCE",TRT 2 ʜᴅ
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="TR ➾ EĞLENCE",Dizi Film TV ʜᴅ
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ EĞLENCE",Kültür Sanat TV ʜᴅ
-http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="TR ➾ EĞLENCE",Belgesel TV ʜᴅ
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="TR ➾ EĞLENCE",Sağlıklı Günler TV ʜᴅ
-http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ EĞLENCE",Tarih TV ʜᴅ
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",FX ʜᴅ
-#EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 FMP/2.5  
-https://tv.arectv3.xyz/live/fx.m3u8?|User-Agent=Dart/Mozilla/5.0 
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",Epic Drama ʜᴅ
-#EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 FMP/2.5  
-https://tv.arectv3.xyz/live/epicdrama.m3u8?|User-Agent=Dart/Mozilla/5.0 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",TOLGSHOW
-https://new.cache-stream.workers.dev/stream/UCfyPw7vYwIVb6OuDIf7qeOQ/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",ARKADAŞIM HOŞGELDİN
-https://new.cache-stream.workers.dev/stream/UCOYerJedhQqSyhXkev8QRFA/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",KOMEDİ DÜKKANI
-https://new.cache-stream.workers.dev/stream/UCZJXR4VXvJ4GPd4y0GJcUYg/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",GÜLDÜR GÜLDÜR
-https://new.cache-stream.workers.dev/stream/UCdlEXiVLTEvA280oyMvr8Kw/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ EĞLENCE",AVRUPA YAKASI
-https://new.cache-stream.workers.dev/stream/UCgc3VJYdM_R8oKGRuXxUbKQ/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,The World Live - Original Version | earthTV® 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=HfgIFGbdGJ0/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,WORLD CITIES SLOW Piyano 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TZikBxNaaQk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 1/330webcam🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TZikBxNaaQk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 2/150webcam🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=5GC7cpzMUMk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 2/150webcam🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=O_HVCdwZdBo/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR TV 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EmdtE7sRMSY/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR TV PIANO ?? 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=6mowOmy3vcA/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR NEY 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=yFarNR4PGwc/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR NEY & KANUN 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=n5CBQTdLkLA/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,ULUS MÜZİK 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Bto75pRPQNA/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,KARADENİZ AKUSTİK 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fru_Ss-TqgY/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxofón 🎷 Música  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=i9HOymftuNI/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxofón 🎷 Romántica  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=MhZkNYx0KKw/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxophone 🎷 Relaxing Music  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=MY0NnJ8y3gI/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxophone 🎷 SLOW Relaxing Music  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=c3IVTi6TlfE/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Panflute Music  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=JlqKMEPco3E/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,TIBET FLUTE & Music  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=6L5nrkIRLxw/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,HEALİNG FOREST  🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=HhFw2q9921Y/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,ROMANTİK MELODİLER & GİTAR 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3YZWxTDLs_w/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Deep House Music Mix 2025 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xiSElhfn0Po/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Chillout Lounge - Calm & Relaxing Music 2025 🎼 🎶🎼 🎶 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TSEUKikoH2g/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,camerasmile  🎼 🎶🎼 🎶 
+https://bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,gagsnetwork  🎼 🎶🎼 🎶 
+http://91.205.199.3/gagsnetwork/index.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,aweencore  🎼 🎶🎼 🎶
+https://aweencore-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,museum  🎼 🎶🎼 🎶
+https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/cb563419657b60909dc92167d7f262eba65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad66ed77509b5c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db860d8c773789abdd7144220806c3084d86f108f2bdb84240db6bbfb21a5a817910e48644c9d71fa6d4dc0e9a5e8777a442809af38ed60dd1d79662af51e167595c242fab9c13e0a1907292ea0843fe5701047973efad9fff4038f436293eddcabb73e16271b4ef00947238ab05e221ece17c23d8618fe442b3a4b5d44b0348cc51e23355c2b4f8f09c0026ae6ff6a3e8971416fca6442115983f9e4a8359e1c4bcc335a363b8965adf46c202104fc965d1f29796fdbf9d4fd30dcfcbe79133494759c163ec468f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a94424fe29bb8ae92296293383913a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fa3c72094ce5a57b070b1e2b80ae4b023270cf40a4e0cbe7761b09a3a29ea98e006e75547d352d85e6f57f928ab24b4c42bb24540747111a8511d86e9d6c640f2cc012d6ec397c8a08242785f66a05420d76a95f30230aac4323defe41ccedd353c04b3125ff49a4/158/848x480_1249600/index.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,bonappetit  🎼 🎶🎼 🎶
+https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 
+#EXTINF:1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR ➾ YOUTUBE",TRT 2 ʜᴅ
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="TR ➾ YOUTUBE",Dizi Film TV ʜᴅ
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ YOUTUBE",Kültür Sanat TV ʜᴅ
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="TR ➾ YOUTUBE",Belgesel TV ʜᴅ
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="TR ➾ YOUTUBE",Sağlıklı Günler TV ʜᴅ
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ YOUTUBE",Tarih TV ʜᴅ
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",80'LER
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=8-uHZ4CCb-E/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",TOLGSHOW
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wpIXwblLA8I/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ARKADAŞIM HOŞGELDİN
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KOMEDİ DÜKKANI
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=aWfuX57lXis/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜLDÜR GÜLDÜR
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wnWkvgyd0Tw/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÇOK GÜZEL HAREKETLER BUNLAR
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iSs2JX68DZw/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVRUPA YAKASI 1
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EOOrq846o00/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVRUPA YAKASI 2
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EOOrq846o00&pp=ygUNY2FubMSxIHlhecSxbg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÖNÜL DAĞI
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DT2M4h17lGM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",7 NUMARA
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",LEYLA İLE MECNUN
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KEMAL SUNAL FİLMLERİ
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KEMAL SUNAL FİLMLERİ 2
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KEMAL SUNAL FİLMLERİ 3
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7Dyl4qIpfBA/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ZEKİ VE METİN 
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 1
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Hc-2ShK4YHI/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 2
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=LJ-SXasXmc0/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 3
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ftfJHeVJbek/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1250.xyz/uploads/cache/poster_thumb/uploads/jpg/8f525c427729febfee9207cd1559059b.jpg" group-title="DiZi-TRENT_Netflix", Ayak İşleri 1.01
 https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/1.mp4/index.m3u8

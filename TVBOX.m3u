@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/turkey2.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://www.open-epg.com/files/turkeypremium2.xml.gz,https://www.open-epg.com/files/turkeypremium4.xml.gz,https://www.open-epg.com/files/turkeypremium3.xml.gz,https://www.open-epg.com/files/turkeypremium1.xml.gz" | 
-
+#EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", 🔺 INFO 🔺🔄 Update: 08th Marz 2025 🎼 🎶💫 ☀️🌟✔
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DRON TV 1🎼 🎶💫
@@ -105,7 +104,7 @@ http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ⁺™
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv?|&extension=m3u
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv|extension=m3u8
 
 #EXTINF:-1  tvg-id="tivi6.tr" tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ⁺™
 http://195.142.3.105/artidijital_tivi6/tivi6/chunks.m3u8?autoplay=1
@@ -114,12 +113,6 @@ http://195.142.3.105/artidijital_tivi6/tivi6/chunks.m3u8?autoplay=1
 http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=1
 
 
-#EXTINF: -1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN  ᴴᴰ⁺™
-#EXTVLCOPT:http-referrer=https://sporplushd26.live/
-#EXTVLCOPT:http-origin=https://sporplushd26.live/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#https://a.strmrdr-cf-worker-62a04836e9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/4011/a.strmrdr-cf-worker-62a04836e9.workers.dev/chunklist_hd.m3u8
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-62a04836e9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/4011/a.strmrdr-cf-worker-603795b6d2.workers.dev/chunklist_hd.m3u8&referer=https://golvar5489.sbs/&origin=https://golvar5489.sbs/
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᴴᴰ⁺™
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
@@ -252,14 +245,14 @@ https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="HABER",SÖZCÜ TV ᵁᴴᴰ⁺™
 https://szctv.blutv.com/blutv_szctv/live.m3u8
 
-#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="HABER",KRT TV ᵁᴴᴰ⁺
 https://tgn.bozztv.com/trn03/gt-krttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV  ᴴᴰ⁺™
-https://tgn.bozztv.com/dvrfl05/gin-flashtv/playlist.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᵁᴴᴰ⁺
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
@@ -609,83 +602,6 @@ https://taraftariumtr2.site/proxy.php?url=https://k0.b4c8d3e9f1a2b7c5d81.cfd/yay
 
 #EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TURZONE ➾ SPORTS",Tâbii Sport  6
 https://taraftariumtr2.site/proxy.php?url=https://k0.b4c8d3e9f1a2b7c5d81.cfd/yayinex6.m3u8
-
-
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="DUMAN ➾ SPORT",RADYO GOL ʜᴅ
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="https://i.imgur.com/cGr0uYs.png" group-title="DUMAN ➾ SPORT",TRT SPOR ʜᴅ
-#EXTVLCOPT:http-referrer=https://turkcanli.tv/
-#EXTVLCOPT:http-origin=https://turkcanli.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://helga.iptv2022.com/trt_spor/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://i.imgur.com/kdXZVJH.png" group-title="DUMAN ➾ SPORT",A SPOR ʜᴅ
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/j/3s/13867/Thumbnail.png?v=636948472402801171" group-title="DUMAN ➾ SPORT",TV 8.5 ʜᴅ
-http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
-#EXTINF:-1 tvg-id="BEYAZ TV"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="DUMAN ➾ SPORT",BEYAZ TV ᴴᴰ⁺™
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="DUMAN ➾ SPORT",EKOL TV ᴴᴰ⁺™
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
-#EXTINF:-1 tvg-id="TV100" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="DUMAN ➾ SPORT",TV100 ᴴᴰ⁺
-https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
-#EXTINF:-1 tvg-id="TİVİBU SPOR" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" auth=aspect-ratio="16:9" group-title="DUMAN ➾ SPORT", TiviBU SPOR ʜᴅ
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
-#EXTINF:-1 tvg-id="HT SPOR" tvg-name="HT SPOR" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/HT_spor_logo_Siyah_00117_BDADF962-6883-45EE-932A-44F223D87D74.jpg" group-title="DUMAN ➾ SPORT"HT SPOR ʜᴅ
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.imgur.com/cGxOMrk.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS HABER ʜᴅ
-https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 1 ᴠɪᴘ ᴠᴘɴ  
-https://serveranon1.online:8443/701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="http://72register34.com/logos/beins2hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 2 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/702/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="http://72register34.com/logos/bein3hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 3 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/703/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="http://72register34.com/logos/bein4hd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS 4 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS M1" tvg-logo="http://72register34.com/logos/beinmax1fhd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS Max 1 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS M2" tvg-logo="http://72register34.com/logos/beinmax2fhd.png" group-title="DUMAN ➾ SPORT",BeIN SPORTS Max 2 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/717/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORTS " tvg-logo="http://72register34.com/logos/ssport1hd.png" group-title="DUMAN ➾ SPORT",SaraN SPORTS ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/705/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORTS 2" tvg-logo="http://72register34.com/logos/ssport2hd.png" group-title="DUMAN ➾ SPORT",SaraN SPORTS 2 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR" tvg-logo="http://72register34.com/logos/sporsmarthd.png" group-title="DUMAN ➾ SPORT",Smart SPOR ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/707/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR" tvg-logo="http://72register34.com/logos/sporsmart2hd.png" group-title="DUMAN ➾ SPORT",Smart SPOR 2 ᴠɪᴘ ᴠᴘɴ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://217.30.11.74/e/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 1 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/708/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="http://72register34.com/logos/tivibuspor2hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 2 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/711/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="http://72register34.com/logos/tivibuspor3hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 3 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="http://72register34.com/logos/tivibuspor4hd.png" group-title="DUMAN ➾ SPORT",TiviBU SPOR 4 ᴠɪᴘ ᴠᴘɴ 
-https://serveranon1.online:8443/722/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ + ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabiisporr/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 1+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii1/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 2+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii2/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 3+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii3/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 4+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii4/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 5+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii5/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="DUMAN ➾ SPORT",TABİİ 6+ ʜᴅ (Maçta Açılır)🔴❫❫❫
-https://serveranon1.online:8443/tabii6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/taytv.png" group-title="DUMAN ➾ SPORT",TAY TV ʜᴅ
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ZTtn95gTLlQ/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tjktv.png" group-title="DUMAN ➾ SPORT",TJK TV ʜᴅ
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=g89RQMJtK6E/live.m3u8
-
-
 
 
 
@@ -1428,80 +1344,92 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ftfJHeVJbek/live.m3u8
 
 
 
-#EXTINF:-1  tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"  group-title="TR ➾ BELGESEL"     ,TRT BELGESEL ʜᴅ
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id"tgrtbelgesel.tr" tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png" group-title="TR ➾ BELGESEL" ,TGRT BELGESEL ʜᴅ
-http://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="TR ➾ BELGESEL"     ,TLC ʜᴅ
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" group-title="TR ➾ BELGESEL"  ,YABAN TV ʜᴅ
-https://asds.tech/ch/yaban.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-logo="https://silkwaytv.kz/img/silknew.png" group-title="TR ➾ BELGESEL", IPEK YOLU/SİLKWAY/ ʜᴅ
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/silkway.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ BELGESEL",BELGESEL-tv ᴴᴰ⁺ 
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTN Belgesel.tr" tvg-logo="https://external-content.duckduckgo.com/ip3/www.cgtn.com.ico" group-title="TR ➾ BELGESEL",CGTN Belgesel ʜᴅ
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-logo="http://m.reddxc.com/tr/beiniz.png" group-title="TR ➾ BELGESEL", BEIN IZ HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.a5b4b1b50e70ec.shop/live/beiniz/playlist.m3u8?live=true
-
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ BELGESEL",Tarih TV ʜᴅ
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/9tRtyfR/lovenature.png" group-title="TR ➾ BELGESEL"   ,LOVE NATURE ʜᴅ
-http://95.67.12.82:9098
-
-
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="TR ➾ BELGESEL", BBC EARTH TV ʜᴅ
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true
-
-
-#EXTINF:0  tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="TR ➾ BELGESEL",HISTORY CHANNEL ʜᴅ
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true
-
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="TR ➾ BELGESEL",VIASAT HISTORY ʜᴅ 
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/viasat/playlist.m3u8?live=true
-
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="Viasat.Explore.tr" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="TR ➾ BELGESEL",VIASAT EXPLORE ʜᴅ
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/discoveryscience/playlist.m3u8?live=true?
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_424.png" group-title="TR ➾ BELGESEL",DISCOVERY CHANNEL ʜᴅ
-http://185.234.111.229:8000/play/a027
-
-#EXTINF:-1 tvg-id"NatGeoHD" tvg-name="TR: NatGeoHD"  tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="TR ➾ BELGESEL" ,NATIONAL GEOGRAPHIC  ʜᴅ
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8?live=true
-
-#EXTINF:-1 tvg-id"NatGeoWild.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg"  group-title="TR ➾ BELGESEL"    ,NATIONAL GEOGRAPHIC WILD  ʜᴅ
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ➾ BELGESEL",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="TR ➾ BELGESEL",Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ BELGESEL ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ BELGESEL",✦●✦ BELGESEL ✦●✦
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2136&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL FHD" tvg-logo="https://i.imgur.com/7tGG1YS.png" group-title="TR ☪ BELGESEL",TRT BELGESEL FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481298&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/oIX9iHF.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481296&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/ScYbqeU.png" group-title="TR ☪ BELGESEL",NAT GEO WILD FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481294&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY FHD" tvg-logo="https://i.imgur.com/CJulOgw.png" group-title="TR ☪ BELGESEL",DISCOVERY FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481292&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/x8QABDy.png" group-title="TR ☪ BELGESEL",DISCOVERY ID
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=483677&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX FHD" tvg-logo="https://i.imgur.com/Qsl4szN.png" group-title="TR ☪ BELGESEL",DOCUBOX FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481288&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH FHD" tvg-logo="https://i.imgur.com/4uJesg4.png" group-title="TR ☪ BELGESEL",BBC EARTH FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481282&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY FHD" tvg-logo="https://i.imgur.com/Vl1lWYq.png" group-title="TR ☪ BELGESEL",HISTORY FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481280&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://i.imgur.com/JM68shQ.png" group-title="TR ☪ BELGESEL",LOVE NATURE FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481278&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY FHD" tvg-logo="https://i.imgur.com/UaKY4bv.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481276&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX FHD" tvg-logo="https://i.imgur.com/N5PyZ6q.png" group-title="TR ☪ BELGESEL",DMAX FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481272&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/jxKbLRl.png" group-title="TR ☪ BELGESEL",TLC FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481270&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ FHD" tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="TR ☪ BELGESEL",BEIN IZ FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481268&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinhe.tr" tvg-name="BEIN H&E FHD" tvg-logo="https://r.resimlink.com/oWwqN39.png" group-title="TR ☪ BELGESEL",BEIN H&E FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=542717&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV FHD" tvg-logo="https://i.imgur.com/aUXgoG2.png" group-title="TR ☪ BELGESEL",YABAN TV FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481262&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME FHD" tvg-logo="https://i.imgur.com/qqNKQeR.png" group-title="TR ☪ BELGESEL",BEIN GURME FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481266&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TARIM TURK TV FHD" tvg-logo="https://i.imgur.com/oGo0nu8.png" group-title="TR ☪ BELGESEL",TARIM TURK TV FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481260&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HABITAT TV FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/habitat.png" group-title="TR ☪ BELGESEL",HABITAT TV FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=553095&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE" tvg-logo="https://i.imgur.com/GsgtjhH.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481273&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="https://i.imgur.com/XpuPcAN.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481253&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://i.imgur.com/PCwXQcB.png" group-title="TR ☪ BELGESEL",TRT BELGESEL HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481297&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD" tvg-logo="https://i.imgur.com/WTeNVQL.png" group-title="TR ☪ BELGESEL",DISCOVERY HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481291&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/fAP6QxT.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481295&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/lVzr1pt.png" group-title="TR ☪ BELGESEL",NAT GEO WILD HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481293&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX HD" tvg-logo="https://i.imgur.com/ZoffqfO.png" group-title="TR ☪ BELGESEL",DOCUBOX HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481287&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.imgur.com/x8QABDy.png" group-title="TR ☪ BELGESEL",DISCOVERY ID HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=483676&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="https://i.imgur.com/2GWxH2S.png" group-title="TR ☪ BELGESEL",BBC EARTH HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481281&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/WE3dJwG.png" group-title="TR ☪ BELGESEL",HISTORY HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481279&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.imgur.com/JM68shQ.png" group-title="TR ☪ BELGESEL",LOVE NATURE HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481277&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://i.imgur.com/UaKY4bv.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481275&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="https://i.imgur.com/GsgtjhH.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481274&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/CgIkQ2T.png" group-title="TR ☪ BELGESEL",DMAX HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481271&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/xHzZbJC.png" group-title="TR ☪ BELGESEL",TLC HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481269&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ HD" tvg-logo="https://i.imgur.com/Jsav8gD.png" group-title="TR ☪ BELGESEL",BEIN IZ HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481267&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME HD" tvg-logo="https://i.imgur.com/d3zwZpL.png" group-title="TR ☪ BELGESEL",BEIN GURME HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481265&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="https://i.imgur.com/4IlB1gM.png" group-title="TR ☪ BELGESEL",YABAN TV HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481261&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tarimtv.tr" tvg-name="TARIM TURK TV HD" tvg-logo="https://i.imgur.com/Rih01HC.png" group-title="TR ☪ BELGESEL",TARIM TURK TV HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481259&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV HD" tvg-logo="https://i.imgur.com/k7T3soZ.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481258&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV" tvg-logo="https://i.imgur.com/k7T3soZ.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481257&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV HD" tvg-logo="https://i.imgur.com/wPAwGdY.png" group-title="TR ☪ BELGESEL",KÖY TV HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481256&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV" tvg-logo="https://i.imgur.com/wPAwGdY.png" group-title="TR ☪ BELGESEL",KÖY TV
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481255&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TGRT BELGESEL HD" tvg-logo="https://i.imgur.com/XpuPcAN.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=481254&extension=m3u8
 
 
 #EXTINF:1 tvg-id="TRTMuzik.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title="Müzik",TRT Müzik
@@ -1640,84 +1568,132 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ TIVIBU ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title=" TR ✦ SINEMA",✦●✦ SINEMA ✦●✦
-#http://arastv.org:8080/dost3678/3678d/213861
-
-
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ✦ SINEMA",TiViTURK ᴴᴰ
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 1 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 2 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 3 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/boxoffice3/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 1 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinseries1/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 2 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinseries2/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 3  HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinseries3/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN TURK  HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesturk/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN STARS HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesstars/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN PREMIER HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN PREMIER 2  HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere2/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN FAMILY HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesfamily/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN ACTION HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction/playlist.m3u8?live=true
-
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN ACTION 2 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction2/playlist.m3u8?live=true
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title=" TR ✦ SINEMA",TR: BLUTV PLAY 1 ʜᴅ
-https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title=" TR ✦ SINEMA",TR: BLUTV PLAY 2 ʜᴅ
-https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="BEIN MOVIES TURK FHD" tvg-logo="https://i.imgur.com/sXt5edT.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES TURK FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494632&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="BEIN MOVIES TURK HD" tvg-logo="https://i.imgur.com/0xvLfGa.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES TURK HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2759&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesfamily.tr" tvg-name="BEIN MOVIES FAMILY FHD" tvg-logo="https://i.imgur.com/VaZ0u23.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES FAMILY FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2760&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesfamily.tr" tvg-name="BEIN MOVIES FAMILY HD" tvg-logo="https://i.imgur.com/ntp2xlK.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES FAMILY HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2761&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesaction.tr" tvg-name="BEIN MOVIES ACTION FHD" tvg-logo="https://i.imgur.com/MftTTh7.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES ACTION FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2756&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN MOVIES ACTION HD" tvg-logo="https://i.imgur.com/YHtiG2l.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES ACTION HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494630&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesstars.tr" tvg-name="BEIN MOVIES STARS FHD" tvg-logo="https://i.imgur.com/bdMZUkO.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES STARS FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2758&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesstars.tr" tvg-name="BEIN MOVIES STARS HD" tvg-logo="https://i.imgur.com/riNEXs5.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES STARS HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494631&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremier.tr" tvg-name="BEIN MOVIES PREMIER FHD" tvg-logo="https://i.imgur.com/8OIpeuY.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES PREMIER FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2762&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremier.tr" tvg-name="BEIN MOVIES PREMIER HD" tvg-logo="https://i.imgur.com/YMTT9Kn.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES PREMIER HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2763&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremiere2.tr" tvg-name="BEIN MOVIES PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/CfDErej.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES PREMIERE 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2764&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremiere2.tr" tvg-name="BEIN MOVIES PREMIERE 2 HD" tvg-logo="https://i.imgur.com/sIy4UZy.png" group-title="TR ☪ BEIN SİNEMA",BEIN MOVIES PREMIERE 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495937&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinboxoffice1.tr" tvg-name="BEIN BOX OFFICE 1 FHD" tvg-logo="https://i.imgur.com/5lY38nk.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 1 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2753&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinboxoffice1.tr" tvg-name="BEIN BOX OFFICE 1 HD" tvg-logo="https://i.imgur.com/gRNWjvN.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 1 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494629&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinboxoffice2.tr" tvg-name="BEIN BOX OFFICE 2 FHD" tvg-logo="https://i.imgur.com/ytLGJlI.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2754&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN BOX OFFICE 2 HD" tvg-logo="https://i.imgur.com/b4uVBMv.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494628&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinboxoffice3.tr" tvg-name="BEIN BOX OFFICE 3 FHD" tvg-logo="https://i.imgur.com/kYi9A66.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 3 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2755&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN BOX OFFICE 3 HD" tvg-logo="https://i.imgur.com/922zmvN.png" group-title="TR ☪ BEIN SİNEMA",BEIN BOX OFFICE 3 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=494627&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 1 FHD" tvg-logo="https://i.imgur.com/SrjgWKf.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 1 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2765&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 1 HD" tvg-logo="https://i.imgur.com/LQXGEHI.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 1 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495938&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 2 FHD" tvg-logo="https://i.imgur.com/ScrrZ7j.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2766&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 2 HD" tvg-logo="https://i.imgur.com/KCrxN1u.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2767&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 3 FHD" tvg-logo="https://i.imgur.com/tNOJoC8.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 3 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2768&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 3 HD" tvg-logo="https://i.imgur.com/81wK1se.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 3 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2769&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 4 FHD" tvg-logo="https://i.imgur.com/buGQWkf.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 4 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2770&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SERIES 4 HD" tvg-logo="https://i.imgur.com/mYsCfuW.png" group-title="TR ☪ BEIN SİNEMA",BEIN SERIES 4 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495939&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ TİVİBU & DSMART ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",✦●✦ TİVİBU & DSMART ✦●✦
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2771&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",FX FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2740&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX HD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",FX HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2741&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="https://i.imgur.com/nKQQmHI.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",DIZI SMART PREMIUM FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2751&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM HD" tvg-logo="https://i.imgur.com/IK6qrkp.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",DIZI SMART PREMIUM HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495936&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="https://i.imgur.com/LAfbd03.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",DIZI SMART MAX FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2750&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX HD" tvg-logo="https://i.imgur.com/saAhjfp.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",DIZI SMART MAX HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=496000&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="https://i.imgur.com/shWJ4Tr.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",MOVIE SMART TURK FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2744&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK HD" tvg-logo="https://i.imgur.com/AJProBA.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",MOVIE SMART TURK HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495999&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="https://i.imgur.com/Sy9hYQj.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",MOVIE SMART CLASSIC FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2745&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC HD" tvg-logo="https://i.imgur.com/zIyf4Ca.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",MOVIE SMART CLASSIC HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2746&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA FHD" tvg-logo="https://i.imgur.com/GHyb6ak.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",EPIC DRAMA FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195989&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.imgur.com/BPaPDUN.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",EPIC DRAMA HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195990&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="https://i.imgur.com/TN0OXs0.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2773&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV HD" tvg-logo="https://i.imgur.com/PdhGvsd.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2772&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 FHD" tvg-logo="https://i.imgur.com/czPTa5A.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2774&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 HD" tvg-logo="https://i.imgur.com/KqPJmDf.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2775&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE FHD" tvg-logo="https://i.imgur.com/jiiPNyK.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AILE FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2777&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE HD" tvg-logo="https://i.imgur.com/q1jjkIO.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AILE HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2778&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 FHD" tvg-logo="https://i.imgur.com/Bprn91p.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AILE 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2779&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 HD" tvg-logo="https://i.imgur.com/RtwFPgE.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AILE 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195741&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI FHD" tvg-logo="https://i.imgur.com/nqQVat4.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV YERLI FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=33391&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI HD" tvg-logo="https://i.imgur.com/latr4hr.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV YERLI HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2776&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 FHD" tvg-logo="https://i.imgur.com/3vZookz.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV YERLI 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495996&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="https://i.imgur.com/NKZxfwH.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV YERLI 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=495995&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="https://i.imgur.com/Z0sC7jH.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV KOMEDI FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2782&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="https://i.imgur.com/TzENWYq.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV KOMEDI HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2783&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 FHD" tvg-logo="https://i.imgur.com/YowvMOi.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV KOMEDI 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2784&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 HD" tvg-logo="https://i.imgur.com/C0ayMPk.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV KOMEDI 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2785&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="https://i.imgur.com/uaZ8gx9.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AKSIYON FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2780&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON HD" tvg-logo="https://i.imgur.com/hp5VBdN.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AKSIYON HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195739&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="https://i.imgur.com/J4Dfav1.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AKSIYON 2 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2781&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 HD" tvg-logo="https://i.imgur.com/THmPK7e.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV AKSIYON 2 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195740&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 FHD" tvg-logo="https://i.imgur.com/wYxPKkm.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 1001 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2786&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 HD" tvg-logo="https://i.imgur.com/dY3Ytzr.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 1001 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195742&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 FHD" tvg-logo="https://i.imgur.com/grIFQJ0.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 1002 FHD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=2788&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 HD" tvg-logo="https://i.imgur.com/kZR0MVi.png" group-title="TR ☪ TİVİBU D-SMART SİNEMA",SINEMA TV 1002 HD
+http://yormayinbenisktiringidin1029383847748392929@tr.levoturko.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=195743&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SINEMA ➾ SALON",SALON INFO 2  ☪ SİNEVİZYON (2023)
@@ -1742,6 +1718,12 @@ http://103.161.35.193:8080/STORE/TURK.VIZYON/8.The.Flash.(2023).mkv
 http://103.161.35.193:8080/STORE/TURK.VIZYON/9.Prestij.Meselesi.(2023).mkv
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SINEMA ➾ SALON",SINEMA 10 ☪ Hız Ve Öfkeli 10 (2023)
 http://103.161.35.193:8080/STORE/TURK.VIZYON/10.Fast.X.(2023).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",BLUTV PLAY 1 ʜᴅ
+https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",BLUTV PLAY 2 ʜᴅ
+https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 
 
 

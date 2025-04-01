@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", 🔺 INFO 🔺🔄 Update: 23 th Marz 2025 ✔ 🎼 🎶💫 ☀️🌟
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", 🔺 INFO 🔺🔄 Update: 1 Nisan 2025 ✔ 🎼 🎶💫 ☀️🌟
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",🔴❫❫❫ DRON TV 1🎼 🎶💫
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
@@ -103,7 +103,10 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
 #EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺
-http://cdn4.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png"  group-title="ULUSAL",ONS TV ᴴᴰ⁺
+https://cdn4.yayin.com.tr/onstv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR tv ᴴᴰ⁺™
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?autoplay=1
@@ -207,10 +210,10 @@ https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-trthaber/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
-https://x.canlitvapp.com/ahaber/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
-https://x.canlitvapp.com/cnn/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl05/gin-cnnturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8

@@ -102,6 +102,9 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="ULUSAL",BENGÜTURK TV ᴴᴰ⁺™
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
+#EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="ULUSAL",Tivi TÜRK ᴴᴰ⁺
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
 #EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺
 http://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
 
@@ -226,7 +229,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-d="Kanal24.TR" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8&live=true
 
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -364,7 +367,7 @@ http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://assets.tvcdn.net/6feda6ce-a6e0-40db-acf4-9620a7e4dde5.png" group-title="ULUSAL ➾ int",Aktif TV ʜᴅ
-#https://ip252.ozelip.com:22524/aktif/aktif/chunklist_w2077847687.m3u8
+https://tivi170.ozelip.com:3438/live/aktiftvlive.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://silkwaytv.kz/img/silknew.png" group-title="ULUSAL ➾ int", IPEK YOLU/SİLKWAY/ ʜᴅ
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/silkway.m3u8

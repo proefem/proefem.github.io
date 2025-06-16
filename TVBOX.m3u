@@ -411,9 +411,8 @@ https://strm.hdtvizlecanli.com/live/ard1.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium727/mono.m3u8
-#https://gitlatte-a.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium727/mono.m3u8#
-#https://roadssports-roadsports.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium727/mono.m3u8
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium730/mono.m3u8
@@ -1854,18 +1853,6 @@ https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv
 #EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,bonappetit  🎼 🎶🎼 🎶
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 
-#EXTINF:1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR ➾ YOUTUBE",TRT 2 ʜᴅ
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="TR ➾ YOUTUBE",Dizi Film TV ʜᴅ
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ YOUTUBE",Kültür Sanat TV ʜᴅ
-http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="TR ➾ YOUTUBE",Belgesel TV ʜᴅ
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="TR ➾ YOUTUBE",Sağlıklı Günler TV ʜᴅ
-http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ YOUTUBE",Tarih TV ʜᴅ
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KEMAL SUNAL FİLMLERİ
@@ -1959,93 +1946,30 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=3kTcvGWaO3Q.m3u8
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ BELGESEL ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ BELGESEL",✦●✦ BELGESEL ✦●✦
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=2136&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL FHD" tvg-logo="https://i.imgur.com/7tGG1YS.png" group-title="TR ☪ BELGESEL",TRT BELGESEL FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481298&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/oIX9iHF.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481296&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/ScYbqeU.png" group-title="TR ☪ BELGESEL",NAT GEO WILD FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481294&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY FHD" tvg-logo="https://i.imgur.com/CJulOgw.png" group-title="TR ☪ BELGESEL",DISCOVERY FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481292&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/x8QABDy.png" group-title="TR ☪ BELGESEL",DISCOVERY ID
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=483677&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX FHD" tvg-logo="https://i.imgur.com/Qsl4szN.png" group-title="TR ☪ BELGESEL",DOCUBOX FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481288&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH FHD" tvg-logo="https://i.imgur.com/4uJesg4.png" group-title="TR ☪ BELGESEL",BBC EARTH FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481282&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY FHD" tvg-logo="https://i.imgur.com/Vl1lWYq.png" group-title="TR ☪ BELGESEL",HISTORY FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481280&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://i.imgur.com/JM68shQ.png" group-title="TR ☪ BELGESEL",LOVE NATURE FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481278&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY FHD" tvg-logo="https://i.imgur.com/UaKY4bv.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481276&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX FHD" tvg-logo="https://i.imgur.com/N5PyZ6q.png" group-title="TR ☪ BELGESEL",DMAX FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481272&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/jxKbLRl.png" group-title="TR ☪ BELGESEL",TLC FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481270&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ FHD" tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="TR ☪ BELGESEL",BEIN IZ FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481268&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinhe.tr" tvg-name="BEIN H&E FHD" tvg-logo="https://r.resimlink.com/oWwqN39.png" group-title="TR ☪ BELGESEL",BEIN H&E FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=542717&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV FHD" tvg-logo="https://i.imgur.com/aUXgoG2.png" group-title="TR ☪ BELGESEL",YABAN TV FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481262&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME FHD" tvg-logo="https://i.imgur.com/qqNKQeR.png" group-title="TR ☪ BELGESEL",BEIN GURME FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481266&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TARIM TURK TV FHD" tvg-logo="https://i.imgur.com/oGo0nu8.png" group-title="TR ☪ BELGESEL",TARIM TURK TV FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481260&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HABITAT TV FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/habitat.png" group-title="TR ☪ BELGESEL",HABITAT TV FHD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=553095&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE" tvg-logo="https://i.imgur.com/GsgtjhH.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481273&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="https://i.imgur.com/XpuPcAN.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481253&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://i.imgur.com/PCwXQcB.png" group-title="TR ☪ BELGESEL",TRT BELGESEL HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481297&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD" tvg-logo="https://i.imgur.com/WTeNVQL.png" group-title="TR ☪ BELGESEL",DISCOVERY HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481291&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/fAP6QxT.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481295&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/lVzr1pt.png" group-title="TR ☪ BELGESEL",NAT GEO WILD HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481293&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX HD" tvg-logo="https://i.imgur.com/ZoffqfO.png" group-title="TR ☪ BELGESEL",DOCUBOX HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481287&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.imgur.com/x8QABDy.png" group-title="TR ☪ BELGESEL",DISCOVERY ID HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=483676&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="https://i.imgur.com/2GWxH2S.png" group-title="TR ☪ BELGESEL",BBC EARTH HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481281&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/WE3dJwG.png" group-title="TR ☪ BELGESEL",HISTORY HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481279&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.imgur.com/JM68shQ.png" group-title="TR ☪ BELGESEL",LOVE NATURE HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481277&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://i.imgur.com/UaKY4bv.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481275&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="https://i.imgur.com/GsgtjhH.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481274&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/CgIkQ2T.png" group-title="TR ☪ BELGESEL",DMAX HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481271&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/xHzZbJC.png" group-title="TR ☪ BELGESEL",TLC HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481269&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ HD" tvg-logo="https://i.imgur.com/Jsav8gD.png" group-title="TR ☪ BELGESEL",BEIN IZ HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481267&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME HD" tvg-logo="https://i.imgur.com/d3zwZpL.png" group-title="TR ☪ BELGESEL",BEIN GURME HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481265&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="https://i.imgur.com/4IlB1gM.png" group-title="TR ☪ BELGESEL",YABAN TV HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481261&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tarimtv.tr" tvg-name="TARIM TURK TV HD" tvg-logo="https://i.imgur.com/Rih01HC.png" group-title="TR ☪ BELGESEL",TARIM TURK TV HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481259&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV HD" tvg-logo="https://i.imgur.com/k7T3soZ.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481258&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV" tvg-logo="https://i.imgur.com/k7T3soZ.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481257&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV HD" tvg-logo="https://i.imgur.com/wPAwGdY.png" group-title="TR ☪ BELGESEL",KÖY TV HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481256&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV" tvg-logo="https://i.imgur.com/wPAwGdY.png" group-title="TR ☪ BELGESEL",KÖY TV
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481255&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TGRT BELGESEL HD" tvg-logo="https://i.imgur.com/XpuPcAN.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL HD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481254&extension=m3u8
-
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/turkey/logo/trt_belgesel.png" group-title="TR:Belgesel",TRT BELGESEL HD
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="TR:Belgesel",NATİONAL GEOGRAPHİC HD
+https://live-cdn-65984.varplaycdn.cfd/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" group-title="TR:Belgesel",NATİONAL GEOGRAPHİC WİLD HD
+https://live-cdn-65984.varplaycdn.cfd/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" group-title="TR:Belgesel",BeIN İZ HD
+https://live-cdn-65984.varplaycdn.cfd/iz/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/4_T8J1t2Rs.png" group-title="TR:Belgesel",BeIN GURME HD
+https://live-cdn-65984.varplaycdn.cfd/gurme/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tv-channel_%E2%94%82_history.png" group-title="TR:Belgesel",HİSTORY HD
+https://live-cdn-65984.varplaycdn.cfd/history/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="TR:Belgesel",VİASAT HİSTORY HD
+https://live-cdn-65984.varplaycdn.cfd/viasathistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="TR:Belgesel",VİASAT EXPLORE HD
+https://live-cdn-65984.varplaycdn.cfd/viasatexplore/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png" group-title="TR:Belgesel",TARİH TV HD
+https://live-cdn-65984.varplaycdn.cfd/tarihtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" group-title="TR:Belgesel",LOVE NATURE HD
+https://live-cdn-65984.varplaycdn.cfd/lovenature/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="TR:Belgesel",YABAN TV HD
+https://live-cdn-65984.varplaycdn.cfd/yaban/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="TR:Belgesel",BBC EARTH HD
+https://live-cdn-65984.varplaycdn.cfd/bbcearth/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -2196,7 +2120,49 @@ http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 1
+http://162.212.179.34:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1215.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 2
+http://162.212.179.34:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1216.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 3
+http://162.212.179.34:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1217.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 1
+http://162.212.179.34:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1218.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 2
+http://162.212.179.34:80/gin-trn09/gt-sinevizyon-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1219.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 3
+http://162.212.179.34:80/gin-trn09/gt-sinevizyon-3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png" group-title="SINEMA ➾ SALON", Sinema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png" group-title="SINEMA ➾ SALON", Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="SINEMA ➾ SALON", Sinema Yerli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
+#EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="SINEMA ➾ SALON", Sinema Aile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
+#EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="SINEMA ➾ SALON", Sinema 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
+#EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="SINEMA ➾ SALON", Sinema Komedi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="SINEMA ➾ SALON",FX   
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/FX.php
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="SINEMA ➾ SALON",Epic Drama
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Epic_Drama.php
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SINEMA ➾ SALON",Film Screen
+http://live.artofknot.com:5080/proxy/channel?url=https://kbl-chnls-m3u.tecostream.workers.dev/Film_Screen.php
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SINEMA ➾ SALON",SALON INFO 2  ☪ SİNEVİZYON (2023)
 http://103.161.35.193:8080/STORE/TURK.VIZYON/TR.INFO.mp4
@@ -2221,10 +2187,7 @@ http://103.161.35.193:8080/STORE/TURK.VIZYON/9.Prestij.Meselesi.(2023).mkv
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SINEMA ➾ SALON",SINEMA 10 ☪ Hız Ve Öfkeli 10 (2023)
 http://103.161.35.193:8080/STORE/TURK.VIZYON/10.Fast.X.(2023).mkv
 
-#EXTINF:-1 group-title="Sinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dNXcq0tzpVG8wqe9degaqNyEjUnd6T8knzbSUirIq9UYlLj-pDQ3sMmg&s=10 tvg-name="Blu play 1" ,Blu play 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dNXcq0tzpVG8wqe9degaqNyEjUnd6T8knzbSUirIq9UYlLj-pDQ3sMmg&s=10 tvg-name="Blu play 2" ,Blu play 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" tvg-name="BEIN BOX OFFICE 1 " ,BEIN BOX OFFICE 1 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3367?play_token=
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" tvg-name="BEIN BOX OFFICE 2 " ,BEIN BOX OFFICE 2 

@@ -433,7 +433,7 @@ https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="Live: Germany",Sixx FHD DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium732/mono.m3u8
-https://strm.hdtvizlecanli.com/live/nitrotv.m3u8
+https://strm.hdtvizlecanli.com/live/sixx.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="Live: Germany", PROSIEBENMAX
 https://strm.hdtvizlecanli.com/live/pro7max.m3u8
@@ -758,30 +758,25 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/80.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="PLAY ➾ SPORTS",TRT spor ☆ ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="PLAY ➾ SPORTS",TRT spor ☆ ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://test.dreamboxserver.net/trtsporyildiz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="PLAY ➾ SPORTS",TRT spor ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://trn03.tulix.tv/gt-trtspor-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="PLAY ➾ SPORTS",TRT spor ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://test.dreamboxserver.net/trtspor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="PLAY ➾ SPORTS",A spor ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="PLAY ➾ SPORTS",A spor ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://test.dreamboxserver.net/aspor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="http://epg.it999.ru/img/2614.png" group-title="PLAY ➾ SPORTS",TV 8'5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="http://epg.it999.ru/img/2614.png" group-title="PLAY ➾ SPORTS",TV 8'5 ʜᴅ
+
+#EXTINF:-1 tvg-id="HT SPOR" tvg-name="HT SPOR" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/HT_spor_logo_Siyah_00117_BDADF962-6883-45EE-932A-44F223D87D74.jpg" group-title="PLAY ➾ SPORTS"HT SPOR ʜᴅ
+https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU SPOR" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="PLAY ➾ SPORTS", TiviBU spor ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://test.dreamboxserver.net/tv85/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BEYAZ TV"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="PLAY ➾ SPORTS",BEYAZ TV ʜᴅ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
@@ -791,13 +786,6 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
 #EXTINF:-1 tvg-id="TV100" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="PLAY ➾ SPORTS",TV100 ʜᴅ
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-id="HT SPOR" tvg-name="HT SPOR" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/HT_spor_logo_Siyah_00117_BDADF962-6883-45EE-932A-44F223D87D74.jpg" group-title="PLAY ➾ SPORTS"HT SPOR ʜᴅ
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
-
-#EXTINF:-1 tvg-id="TİVİBU SPOR" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="PLAY ➾ SPORTS", TiviBU spor ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 
 #EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="PLAY ➾ SPORTS", GS TV ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1

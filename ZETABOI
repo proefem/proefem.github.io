@@ -64,7 +64,7 @@ http://89.187.191.41:80/TRT-1-HD-TR/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺@test
 http://193.19.242.48:8888/udp/239.1.7.2:1234/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺@yeni1
-https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
+https://dijit.al/betconnectproxy/channel?url=https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
  #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺@yeni1
 http://live.artofknot.com:5080/proxy/channel?url=http://origi-jw-5.ravenclaw-house.com:80/TR-TRT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@11
@@ -78,7 +78,7 @@ https://playerpro.live/proxy.php?url=https://tv-trt1.medya.trt.com.tr/master_108
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@55
 https://proxy.maxpanel.com.tr/https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6uwbv4vor0sf&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ@66
-https://tatatam.trt1sultanfatihss.workers.dev/https://trt.daioncdn.net/trt-1/master_1080p.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://trt.daioncdn.net/trt-1/master_1080p.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋ
 http://raalbatros.serv00.net/Gledai.php?ID=trt1
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT1 ᵁᴴᴰ⁺ʏᴇᴅᴇᴋbozz
@@ -643,7 +643,7 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1   tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png" group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
-#EXTINF:0  tvg-id="wmtv.tr" tvg-logo="https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,gurmetv ᴴᴰ
+#EXTINF:-1   tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,GURME TV ᴴᴰ
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",VRT TV ᴴᴰ
@@ -662,10 +662,7 @@ https://yayin30.haber100.com/live/kardestv/playlist.m3u8
 https://skyhabertv.ozelip.com:3100/hybrid/play.m3u8
 
 #EXTINF:-1  type="stream" channelId="-1"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG" group-title="ULUSAL", DENİZ TV HD
-https://fl1004.bozztv.com/ssh101/denizradyotv/playlist.m3u8
-
-#EXTINF:-1   tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,GURME TV ᴴᴰ
-https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
+#https://fl1004.bozztv.com/ssh101/denizradyotv/playlist.m3u8
 
 #EXTINF:-1   tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13388.jpg" group-title="ULUSAL" ,MODA MAGAZİN TV ᴴᴰ
 #https://uzunmuhalefet.serv00.net/canlitv2.php?id=13388&.m3u8

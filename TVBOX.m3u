@@ -116,6 +116,7 @@ http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 
 #EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL" logo=".png",CİNE5 tv ᴴᴰ⁺™
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="http://assets.tvcdn.net/c28cd83b-9edd-4c9f-afc0-6f1f1efd97bb.png"  group-title="ULUSAL",KOBİM tv ᴴᴰ
 #http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/playlist.m3u8
 
@@ -154,7 +155,7 @@ http://195.142.3.105/artidijital_anadolunet/anadolunet/playlist.m3u8
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
-# ?https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8
+http://104.238.23.215/yt.php?ID=UCIHMK8qtjB_GNuXmeex6i8g&ext=.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV ᴴᴰ
 # ?https://yayin.santraltr.com/hls/akillitv.m3u8
@@ -274,13 +275,13 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL  ᴴᴰ⁺™
-http://104.238.23.215/yt.php?ID=UC6T0L26KS1NHMPbTwI1L4Eg
+http://104.238.23.215/yt.php?ID=UC6T0L26KS1NHMPbTwI1L4Eg&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="HABER",SÖZCÜ TV ᵁᴴᴰ⁺™
-http://104.238.23.215/yt.php?ID=UCOulx_rep5O4i9y6AyDqVvw
+http://104.238.23.215/yt.php?ID=UCOulx_rep5O4i9y6AyDqVvw&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/375px-KRT_Logo_2023.webp.png" group-title="HABER",KRT TV ᵁᴴᴰ⁺
-http://104.238.23.215/yt.php?ID=UCVKWwHoLwUMMa80cu_1uapA
+http://104.238.23.215/yt.php?ID=UCVKWwHoLwUMMa80cu_1uapA&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᵁᴴᴰ⁺
 https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
@@ -295,10 +296,10 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_720p.m3u8
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="APara.tr" tvg-name="A Para FHD TR" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A PARA ᵁᴴᴰ⁺
-http://104.238.23.215/yt.php?ID=UCzrGg6iyRDuUSnO0cQ5oLcA
+http://104.238.23.215/yt.php?ID=UCzrGg6iyRDuUSnO0cQ5oLcA&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="HABER",EKOTURK ᴴᴰ⁺
-http://104.238.23.215/yt.php?ID=UCAGVKxpAKwXMWdmcHbrvcwQ
+http://104.238.23.215/yt.php?ID=UCAGVKxpAKwXMWdmcHbrvcwQ&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER",FINANSTURK ᴴᴰ⁺™
 http://51.68.154.158:1935/live/finansturk/finansturk_720p.m3u8

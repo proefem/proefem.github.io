@@ -443,6 +443,9 @@ http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://ufkumtv.net/uploads/logo/footer/UTV.png" group-title="ULUSAL",UFKUM tv ᴴᴰ
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://ufkumtv.net/uploads/logo/footer/UTV.png" group-title="ULUSAL",EVREN tv ᴴᴰ
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
 #EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR tv ᴴᴰ⁺
 https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8
 
@@ -842,6 +845,9 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://trn03.tulix.tv/gt-ekoltv/playlist.m3u8 
 #EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="YEDEK ➾ HABER",EKOL TV ᴴᴰ⁺™
 https://x.canlitvapp.com/ekoltv/index.m3u8
+#EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="YEDEK ➾ HABER",EKOL TV ᴴᴰ⁺™
+https://helga.iptv2022.com/sh/ekol_tv/index.m3u8?|User-Agent=okhttp/3.8.0/|Referer=https://turkcanli.tv/
+
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="ULUSAL ➾ HABER",TV100 ᵁᴴᴰ⁺™
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
@@ -1214,6 +1220,7 @@ https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MedyaHaber.krd" tvg-name="Medya Haber KRD"  tvg-logo="https://picon-13398.kxcdn.com/medyahaberkrd.jpg" group-title="ULUSAL ➾ HABER",MEDYA HABER ᵁᴴᴰ⁺™
+https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8?&live=true
 #https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CHoGUIcYR5w.m3u8
 # ? http://13.60.64.58:80/yt/yt.m3u8?kanal=@MEDYATVCANLIYAYIN
 
@@ -1299,6 +1306,9 @@ https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/234dd0da-3246-40cd-a249-947178ae6269.jpeg" group-title="HABER ➾ NEWS" ,Albayrak Ajans
 https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSvhSP2.png" group-title="HABER ➾ NEWS" , İHA Canlı 1
+https://live01.iha.tv/webabone/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pSvhSP2.png" group-title="HABER ➾ NEWS" , DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
@@ -1545,6 +1555,251 @@ https://sc.id-tv.kz/TuranTV.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-id=""" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="ULUSAL ➾ int",FTVᵁᴴᴰ⁺
 #https://cdn3.wowza.com/1/dURtUDdsMndrZ1ZR/K2Q5dUk0/hls/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="1102" tvg-name="Kablo Info" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/05224d68-1e63-435b-b3f4-93f95e94b890.png",Kablo Info
+http://sultanweb.info/HeryerHeryerde.php?ID=1102&e=.m3u8 
+#EXTINF:-1 tvg-id="2508" tvg-name="Trt 1" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",Trt 1
+http://sultanweb.info/HeryerHeryerde.php?ID=2508
+#EXTINF:-1 tvg-id="2401" tvg-name="Atv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",Atv
+http://sultanweb.info/HeryerHeryerde.php?ID=2401
+#EXTINF:-1 tvg-id="3206" tvg-name="Show TV" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",Show TV
+http://sultanweb.info/HeryerHeryerde.php?ID=3206
+#EXTINF:-1 tvg-id="3207" tvg-name="Kanal D" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png",Kanal D
+http://sultanweb.info/HeryerHeryerde.php?ID=3207
+#EXTINF:-1 tvg-id="3404" tvg-name="Star" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",Star
+http://sultanweb.info/HeryerHeryerde.php?ID=3404
+#EXTINF:-1 tvg-id="2901" tvg-name="Kanal 7" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png",Kanal 7
+http://sultanweb.info/HeryerHeryerde.php?ID=2901
+#EXTINF:-1 tvg-id="2213" tvg-name="Now" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png",Now
+http://sultanweb.info/HeryerHeryerde.php?ID=2213
+#EXTINF:-1 tvg-id="2614" tvg-name="Tv 8" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",Tv 8
+http://sultanweb.info/HeryerHeryerde.php?ID=2614
+#EXTINF:-1 tvg-id="2903" tvg-name="Beyaz Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png",Beyaz Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=2903
+#EXTINF:-1 tvg-id="3209" tvg-name="a2" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png",a2
+http://sultanweb.info/HeryerHeryerde.php?ID=3209
+#EXTINF:-1 tvg-id="2510" tvg-name="Teve 2" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png",Teve 2
+http://sultanweb.info/HeryerHeryerde.php?ID=2510
+#EXTINF:-1 tvg-id="3004" tvg-name="360" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/36157058-80ce-4724-a7ff-28bbad7df301.png",360
+http://sultanweb.info/HeryerHeryerde.php?ID=3004
+#EXTINF:-1 tvg-id="1412" tvg-name="Tv 100" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png",Tv 100
+http://sultanweb.info/HeryerHeryerde.php?ID=1412
+#EXTINF:-1 tvg-id="2003" tvg-name="Cnbc-e" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png",Cnbc-e
+http://sultanweb.info/HeryerHeryerde.php?ID=2003
+#EXTINF:-1 tvg-id="2310" tvg-name="Ulusal Kanal" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png",Ulusal Kanal
+http://sultanweb.info/HeryerHeryerde.php?ID=2310
+#EXTINF:-1 tvg-id="1902" tvg-name="Gzt Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png",Gzt Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1902
+#EXTINF:-1 tvg-id="1901" tvg-name="Tv 8,5" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png",Tv 8,5
+http://sultanweb.info/HeryerHeryerde.php?ID=1901
+#EXTINF:-1 tvg-id="4003" tvg-name="Tv 4" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png",Tv 4
+http://sultanweb.info/HeryerHeryerde.php?ID=4003
+#EXTINF:-1 tvg-id="1614" tvg-name="Bengü Türk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6edd1622-84fd-4ebf-a50b-7e95787ee427.png",Bengü Türk
+http://sultanweb.info/HeryerHeryerde.php?ID=1614
+#EXTINF:-1 tvg-id="2308" tvg-name="Trt 2" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png",Trt 2
+http://sultanweb.info/HeryerHeryerde.php?ID=2308
+#EXTINF:-1 tvg-id="2303" tvg-name="Trt Haber" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png",Trt Haber
+http://sultanweb.info/HeryerHeryerde.php?ID=2303
+#EXTINF:-1 tvg-id="2402" tvg-name="A Haber" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7f90b121-1f7f-4dc7-980f-38167b147cdb.png",A Haber
+http://sultanweb.info/HeryerHeryerde.php?ID=2402
+#EXTINF:-1 tvg-id="2812" tvg-name="Ntv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png",Ntv
+http://sultanweb.info/HeryerHeryerde.php?ID=2812
+#EXTINF:-1 tvg-id="2813" tvg-name="Cnn Türk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png",Cnn Türk
+http://sultanweb.info/HeryerHeryerde.php?ID=2813
+#EXTINF:-1 tvg-id="3001" tvg-name="24 Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png",24 Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=3001
+#EXTINF:-1 tvg-id="2407" tvg-name="Tgrt Haber" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5773592-d40c-4d84-a64a-21c422cc7eb3.png",Tgrt Haber
+http://sultanweb.info/HeryerHeryerde.php?ID=2407
+#EXTINF:-1 tvg-id="3405" tvg-name="Haber Türk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png",Haber Türk
+http://sultanweb.info/HeryerHeryerde.php?ID=3405
+#EXTINF:-1 tvg-id="3407" tvg-name="Bloomberg Ht" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png",Bloomberg Ht
+http://sultanweb.info/HeryerHeryerde.php?ID=3407
+#EXTINF:-1 tvg-id="2902" tvg-name="Ülke Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png",Ülke Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=2902
+#EXTINF:-1 tvg-id="2905" tvg-name="Tvnet" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png",Tvnet
+http://sultanweb.info/HeryerHeryerde.php?ID=2905
+#EXTINF:-1 tvg-id="1311" tvg-name="Akit Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png",Akit Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1311
+#EXTINF:-1 tvg-id="1106" tvg-name="Trt Türk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png",Trt Türk
+http://sultanweb.info/HeryerHeryerde.php?ID=1106
+#EXTINF:-1 tvg-id="1306" tvg-name="Trt Avaz" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png",Trt Avaz
+http://sultanweb.info/HeryerHeryerde.php?ID=1306
+#EXTINF:-1 tvg-id="1107" tvg-name="Trt 3 - Tbmm" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aac80fcc-d1e7-41da-85b6-3037cc3f1a4b.png",Trt 3 - Tbmm
+http://sultanweb.info/HeryerHeryerde.php?ID=1107
+#EXTINF:-1 tvg-id="1707" tvg-name="Trt Kurdi" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d937ced-d803-47eb-aa0c-90586e4e162e.png",Trt Kurdi
+http://sultanweb.info/HeryerHeryerde.php?ID=1707
+#EXTINF:-1 tvg-id="1315" tvg-name="Haber Global" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png",Haber Global
+http://sultanweb.info/HeryerHeryerde.php?ID=1315
+#EXTINF:-1 tvg-id="4006" tvg-name="Krt Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png",Krt Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=4006
+#EXTINF:-1 tvg-id="1512" tvg-name="Halk Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png",Halk Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1512
+#EXTINF:-1 tvg-id="3205" tvg-name="TH Türk Haber" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4b99d5a-c302-4524-aad7-e490def3bf0d.png",TH Türk Haber
+http://sultanweb.info/HeryerHeryerde.php?ID=3205
+#EXTINF:-1 tvg-id="3002" tvg-name="Szc Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png",Szc Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=3002
+#EXTINF:-1 tvg-id="2406" tvg-name="A Para" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/cf2bdbf5-2686-4437-9e8b-33d80385645c.png",A Para
+http://sultanweb.info/HeryerHeryerde.php?ID=2406
+#EXTINF:-1 tvg-id="2615" tvg-name="Ekotürk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c5d7d21d-7fc2-4429-8331-bb7bdb20172a.png",Ekotürk
+http://sultanweb.info/HeryerHeryerde.php?ID=2615
+#EXTINF:-1 tvg-id="1302" tvg-name="Tv 5" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png",Tv 5
+http://sultanweb.info/HeryerHeryerde.php?ID=1302
+#EXTINF:-1 tvg-id="3714" tvg-name="Tele 1" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/50921da2-0f81-40cf-971b-1b3db26245d7.png",Tele 1
+http://sultanweb.info/HeryerHeryerde.php?ID=3714
+#EXTINF:-1 tvg-id="1708" tvg-name="Kon" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6a265ee4-81f8-4a57-80ba-41ddb0663aaf.png",Kon
+http://sultanweb.info/HeryerHeryerde.php?ID=1708
+#EXTINF:-1 tvg-id="2509" tvg-name="Kanal B" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fc190867-720b-4e57-b561-993d0a02bcae.png",Kanal B
+http://sultanweb.info/HeryerHeryerde.php?ID=2509
+#EXTINF:-1 tvg-id="3201" tvg-name="Genç Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bd1c765c-df9f-4d23-8af2-ef84796fbe64.png",Genç Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=3201
+#EXTINF:-1 tvg-id="1510" tvg-name="Vav Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4b16c0b2-6b04-452f-8342-7f082e803854.png",Vav Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1510
+#EXTINF:-1 tvg-id="2106" tvg-name="Tmb" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png",Tmb
+http://sultanweb.info/HeryerHeryerde.php?ID=2106
+#EXTINF:-1 tvg-id="3401" tvg-name="TRT World" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/acd68840-492b-43c5-9635-bbaf32148e2a.png",TRT World
+http://sultanweb.info/HeryerHeryerde.php?ID=3401
+#EXTINF:-1 tvg-id="1913" tvg-name="A News" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/39782c5a-711e-4f31-8ae0-590303ff65c4.png",A News
+http://sultanweb.info/HeryerHeryerde.php?ID=1913
+#EXTINF:-1 tvg-id="3005" tvg-name="CNN International" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5693ef9-7290-41c9-ad65-7c23b94ddf97.png",CNN International
+http://sultanweb.info/HeryerHeryerde.php?ID=3005
+#EXTINF:-1 tvg-id="2108" tvg-name="TRT Arabia" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1857f0c2-3a80-4b95-bb35-ffcefdcf4729.png",TRT Arabia
+http://sultanweb.info/HeryerHeryerde.php?ID=2108
+#EXTINF:-1 tvg-id="1703" tvg-name="Dw Tv (English)" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",Dw Tv (English)
+http://sultanweb.info/HeryerHeryerde.php?ID=1703
+#EXTINF:-1 tvg-id="2306" tvg-name="France 24 (English)" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7b3fce6-7662-470b-9224-fd930e29a7f7.png",France 24 (English)
+http://sultanweb.info/HeryerHeryerde.php?ID=2306
+#EXTINF:-1 tvg-id="1509" tvg-name="Az Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/29fb144d-ad0e-4402-9afb-0b1a9dfc98a3.png",Az Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1509
+#EXTINF:-1 tvg-id="1312" tvg-name="Türkmeneli Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a5f1e18e-e3cb-4288-a603-60fa4fc3f10d.png",Türkmeneli Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1312
+#EXTINF:-1 tvg-id="1704" tvg-name="Tv5 Monde" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8571202-da92-4afb-8de9-96c0577c0851.png",Tv5 Monde
+http://sultanweb.info/HeryerHeryerde.php?ID=1704
+#EXTINF:-1 tvg-id="3101" tvg-name="Trt Spor" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png",Trt Spor
+http://sultanweb.info/HeryerHeryerde.php?ID=3101
+#EXTINF:-1 tvg-id="2114" tvg-name="beIN Sports Haber" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png",beIN Sports Haber
+http://sultanweb.info/HeryerHeryerde.php?ID=2114
+#EXTINF:-1 tvg-id="3103" tvg-name="A Spor" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png",A Spor
+http://sultanweb.info/HeryerHeryerde.php?ID=3103
+#EXTINF:-1 tvg-id="2002" tvg-name="Eurosport 1" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png",Eurosport 1
+http://sultanweb.info/HeryerHeryerde.php?ID=2002
+#EXTINF:-1 tvg-id="1809" tvg-name="Eurosport 2" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png",Eurosport 2
+http://sultanweb.info/HeryerHeryerde.php?ID=1809
+#EXTINF:-1 tvg-id="1803" tvg-name="HT Spor" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/213d42ff-51ba-4591-ae43-a35779496d93.png",HT Spor
+http://sultanweb.info/HeryerHeryerde.php?ID=1803
+#EXTINF:-1 tvg-id="2709" tvg-name="Trace Sports Stars" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/eb8b4876-a698-41b8-b937-518abbba69fd.png",Trace Sports Stars
+http://sultanweb.info/HeryerHeryerde.php?ID=2709
+#EXTINF:-1 tvg-id="3504" tvg-name="Cosmo Sports" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png",Cosmo Sports
+http://sultanweb.info/HeryerHeryerde.php?ID=3504
+#EXTINF:-1 tvg-id="3712" tvg-name="Ekol Sports" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png",Ekol Sports
+http://sultanweb.info/HeryerHeryerde.php?ID=3712
+#EXTINF:-1 tvg-id="1810" tvg-name="S Sport" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png",S Sport
+http://sultanweb.info/HeryerHeryerde.php?ID=1810
+#EXTINF:-1 tvg-id="3901" tvg-name="S Sport 2" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png",S Sport 2
+http://sultanweb.info/HeryerHeryerde.php?ID=3901
+#EXTINF:-1 tvg-id="3903" tvg-name="Nba Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png",Nba Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=3903
+#EXTINF:-1 tvg-id="3902" tvg-name="W-Sport" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ef633fa1-7ee7-4712-8932-aadc2c5db2d3.png",W-Sport
+http://sultanweb.info/HeryerHeryerde.php?ID=3902
+#EXTINF:-1 tvg-id="2711" tvg-name="Trt Spor Yıldız" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png",Trt Spor Yıldız
+http://sultanweb.info/HeryerHeryerde.php?ID=2711
+#EXTINF:-1 tvg-id="1806" tvg-name="Fb Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png",Fb Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1806
+#EXTINF:-1 tvg-id="3102" tvg-name="Trt Belgesel" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png",Trt Belgesel
+http://sultanweb.info/HeryerHeryerde.php?ID=3102
+#EXTINF:-1 tvg-id="3104" tvg-name="Tlc" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png",Tlc
+http://sultanweb.info/HeryerHeryerde.php?ID=3104
+#EXTINF:-1 tvg-id="3406" tvg-name="Dmax" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png",Dmax
+http://sultanweb.info/HeryerHeryerde.php?ID=3406
+#EXTINF:-1 tvg-id="3605" tvg-name="National Geographic" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png",National Geographic
+http://sultanweb.info/HeryerHeryerde.php?ID=3605
+#EXTINF:-1 tvg-id="3604" tvg-name="National Geographic Wild" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png",National Geographic Wild
+http://sultanweb.info/HeryerHeryerde.php?ID=3604
+#EXTINF:-1 tvg-id="2211" tvg-name="Discovery Channel" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png",Discovery Channel
+http://sultanweb.info/HeryerHeryerde.php?ID=2211
+#EXTINF:-1 tvg-id="2511" tvg-name="ID" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png",ID
+http://sultanweb.info/HeryerHeryerde.php?ID=2511
+#EXTINF:-1 tvg-id="2806" tvg-name="Viasat History" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png",Viasat History
+http://sultanweb.info/HeryerHeryerde.php?ID=2806
+#EXTINF:-1 tvg-id="3503" tvg-name="Love Nature" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png",Love Nature
+http://sultanweb.info/HeryerHeryerde.php?ID=3503
+#EXTINF:-1 tvg-id="3502" tvg-name="Docu Screen" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png",Docu Screen
+http://sultanweb.info/HeryerHeryerde.php?ID=3502
+#EXTINF:-1 tvg-id="2807" tvg-name="Viasat Explore" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d39dd182-c195-4025-976d-10af0b08335e.png",Viasat Explore
+http://sultanweb.info/HeryerHeryerde.php?ID=2807
+#EXTINF:-1 tvg-id="2001" tvg-name="Tarih Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png",Tarih Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=2001
+#EXTINF:-1 tvg-id="1908" tvg-name="Sinema Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png",Sinema Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1908
+#EXTINF:-1 tvg-id="1109" tvg-name="Sinema Aksiyon" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png",Sinema Aksiyon
+http://sultanweb.info/HeryerHeryerde.php?ID=1109
+#EXTINF:-1 tvg-id="3304" tvg-name="Sinema Yerli" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png",Sinema Yerli
+http://sultanweb.info/HeryerHeryerde.php?ID=3304
+#EXTINF:-1 tvg-id="1911" tvg-name="Sinema Aile" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png",Sinema Aile
+http://sultanweb.info/HeryerHeryerde.php?ID=1911
+#EXTINF:-1 tvg-id="2602" tvg-name="Sinema 1001" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png",Sinema 1001
+http://sultanweb.info/HeryerHeryerde.php?ID=2602
+#EXTINF:-1 tvg-id="1110" tvg-name="Sinema Komedi" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png",Sinema Komedi
+http://sultanweb.info/HeryerHeryerde.php?ID=1110
+#EXTINF:-1 tvg-id="3602" tvg-name="FX" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png",FX
+http://sultanweb.info/HeryerHeryerde.php?ID=3602
+#EXTINF:-1 tvg-id="2802" tvg-name="Epic Drama" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png",Epic Drama
+http://sultanweb.info/HeryerHeryerde.php?ID=2802
+#EXTINF:-1 tvg-id="3509" tvg-name="Film Screen" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png",Film Screen
+http://sultanweb.info/HeryerHeryerde.php?ID=3509
+#EXTINF:-1 tvg-id="3710" tvg-name="Kitchen TV" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png",Kitchen TV
+http://sultanweb.info/HeryerHeryerde.php?ID=3710
+#EXTINF:-1 tvg-id="3003" tvg-name="Myzen Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d8dfa223-6fd9-4780-9b5a-3e3fe87454ad.png",Myzen Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=3003
+#EXTINF:-1 tvg-id="2212" tvg-name="Trt Çocuk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png",Trt Çocuk
+http://sultanweb.info/HeryerHeryerde.php?ID=2212
+#EXTINF:-1 tvg-id="2608" tvg-name="Minika Çocuk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png",Minika Çocuk
+http://sultanweb.info/HeryerHeryerde.php?ID=2608
+#EXTINF:-1 tvg-id="2404" tvg-name="Minika Go" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png",Minika Go
+http://sultanweb.info/HeryerHeryerde.php?ID=2404
+#EXTINF:-1 tvg-id="2703" tvg-name="Trt Diyanet Çocuk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png",Trt Diyanet Çocuk
+http://sultanweb.info/HeryerHeryerde.php?ID=2703
+#EXTINF:-1 tvg-id="1314" tvg-name="Azoomee" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1cc6ebf5-4e01-407d-8a88-94dcdf2d5ddd.png",Azoomee
+http://sultanweb.info/HeryerHeryerde.php?ID=1314
+#EXTINF:-1 tvg-id="2601" tvg-name="Baby Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2442b7b7-04da-41c1-a7ca-03466853040e.png",Baby Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=2601
+#EXTINF:-1 tvg-id="3601" tvg-name="Disney Junior" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/51d3a383-2842-4a4c-b622-20f09b309973.png",Disney Junior
+http://sultanweb.info/HeryerHeryerde.php?ID=3601
+#EXTINF:-1 tvg-id="1608" tvg-name="Cartoon Network" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png",Cartoon Network
+http://sultanweb.info/HeryerHeryerde.php?ID=1608
+#EXTINF:-1 tvg-id="1604" tvg-name="Moonbug" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3b9d40e7-327e-4d51-977b-e46286eda12f.png",Moonbug
+http://sultanweb.info/HeryerHeryerde.php?ID=1604
+#EXTINF:-1 tvg-id="1610" tvg-name="Duck Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8107e33-52b1-4ba0-a7d4-bb877d5658c4.png",Duck Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=1610
+#EXTINF:-1 tvg-id="2506" tvg-name="English Club" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/31a93dde-3b2e-4be7-b684-43ee9c2a5442.png",English Club
+http://sultanweb.info/HeryerHeryerde.php?ID=2506
+#EXTINF:-1 tvg-id="2704" tvg-name="Da Vinci" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f2ed966d-693e-40b4-a737-740817d4eb2f.png",Da Vinci
+http://sultanweb.info/HeryerHeryerde.php?ID=2704
+#EXTINF:-1 tvg-id="3802" tvg-name="LangLab" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/97f5f9c6-70e1-4326-a046-43d6fdd0d81c.png",LangLab
+http://sultanweb.info/HeryerHeryerde.php?ID=3802
+#EXTINF:-1 tvg-id="3803" tvg-name="LingoToons" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a29ccf28-73b8-48ef-a055-ddb1820c9d57.png",LingoToons
+http://sultanweb.info/HeryerHeryerde.php?ID=3803
+#EXTINF:-1 tvg-id="3801" tvg-name="TinyTeen" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1b0a8967-61ef-4066-a422-2e4eccd18ec5.png",TinyTeen
+http://sultanweb.info/HeryerHeryerde.php?ID=3801
+#EXTINF:-1 tvg-id="1616" tvg-name="Trt Eba TV" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png",Trt Eba TV
+http://sultanweb.info/HeryerHeryerde.php?ID=1616
+#EXTINF:-1 tvg-id="2304" tvg-name="Diyanet Tv" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9fac001-ce36-4712-9eaa-786ec2465171.png",Diyanet Tv
+http://sultanweb.info/HeryerHeryerde.php?ID=2304
+#EXTINF:-1 tvg-id="1207" tvg-name="Al Quran Al Kareem" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/655c2fee-0b87-48df-b41e-cb5c742807ad.png",Al Quran Al Kareem
+http://sultanweb.info/HeryerHeryerde.php?ID=1207
+#EXTINF:-1 tvg-id="2616" tvg-name="Al Sunnah Al Nabawiyah" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/00701177-8898-4f68-a08e-5f45e0e12df3.png",Al Sunnah Al Nabawiyah
+http://sultanweb.info/HeryerHeryerde.php?ID=2616
+#EXTINF:-1 tvg-id="2102" tvg-name="Trt Müzik" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png",Trt Müzik
+http://sultanweb.info/HeryerHeryerde.php?ID=2102
+#EXTINF:-1 tvg-id="1603" tvg-name="Dream Türk" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png",Dream Türk
+http://sultanweb.info/HeryerHeryerde.php?ID=1603
+#EXTINF:-1 tvg-id="2708" tvg-name="Trace Urban" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png",Trace Urban
+http://sultanweb.info/HeryerHeryerde.php?ID=2708
+#EXTINF:-1 tvg-id="3501" tvg-name="Mezzo" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ec93858b-ea91-4e9d-b510-bc3187e5ade9.png",Mezzo
+http://sultanweb.info/HeryerHeryerde.php?ID=3501
+#EXTINF:-1 tvg-id="3804" tvg-name="Classical Harmony" group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8abc330-f38a-4a81-b555-c5fef692f63e.png",Classical Harmony
+http://sultanweb.info/HeryerHeryerde.php?ID=3804
+
 
 
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",ARD DE
@@ -2144,110 +2399,110 @@ https://goldvod.org/tv/strm?id=5077&ext=.m3u8
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="ANDRO ➾ SPORT",TRT1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetrt1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="ANDRO ➾ SPORT",ATVHD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveatv.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ANDRO ➾ SPORT",TV8 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetv8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ANDRO ➾ SPORT",TV8'5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetv85.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="http://ginikoturkish.com/channels/logo/trt-spor-yildiz-epg-.png" group-title="ANDRO ➾ SPORT",TRT SPOR ☆ HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetrtsy.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ANDRO ➾ SPORT",TRT SPOR HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetrts.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ANDRO ➾ SPORT",A SPOR HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveas.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="ANDRO ➾ SPORT",beIN Sport HABER HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebsh.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebsh.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="ANDRO ➾ SPORT",beIN Sport Max 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebsm1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="ANDRO ➾ SPORT",beIN Sport Max 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebsm2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivets.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivets.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivets2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivets3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivets4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivess1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivess2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +6 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivessplus6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivessplus6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ANDRO ➾ SPORT",Smart Sport 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivesm1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ANDRO ➾ SPORT",Smart Sport 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivesm2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 1 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 2 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 3 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 4 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 5 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 6 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 6 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 7 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 7 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb7.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 8 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 8 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetb8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetb8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 1 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 2 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 3 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 4 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 5 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 6 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 6 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 7 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 7 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn7.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 8 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 8 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveexn8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="ANDRO ➾ SPORT",Euro Sport 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivees1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="ANDRO ➾ SPORT",Euro Sport 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivees2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="ANDRO ➾ SPORT",F1 Sport  HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivef1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivef1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="ANDRO ➾ SPORT",NBA Sport  HD
-https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivenba.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivenba.m3u8
 #http://212.102.60.231/NBA_TV/index.m3u8
 
 
@@ -2256,38 +2511,41 @@ https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivenba.m3u8
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="TOTO ➾ SPORT",RADYO GOL ʜᴅ
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT1" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="PAŞA ➾ SPORT", TRT 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
+https://macarenatv5.com/trt1/mono.m3u8?|Referer=https://salamistv15.online/
+
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TOTO ➾ SPORT",TRT SPOR YILDIZ ʜᴅ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
 #http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor2-esdai.medya.trt.com.tr/master.m3u8
 #http://live.artofknot.com:5080/proxy/channel?url=https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web#
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TOTO ➾ SPORT",TRT SPOR YILDIZ ʜᴅ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
 #https://test.dreamboxserver.net/trtsporyildiz/tracks-v1a1/mono.m3u8
 #https://217.30.11.74/e/350.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 #http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TOTO ➾ SPORT",TRT SPOR ʜᴅ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TOTO ➾ SPORT",TRT SPOR ʜᴅ
-https://goldvod.org/tv/uyanik?id=20&ext=m3u8
+https://macarenatv5.com/trtspor/index.m3u8?|Referer=https://salamistv15.online/
+#https://goldvod.org/tv/uyanik?id=20&ext=m3u8
 #https://test.dreamboxserver.net/trtspor/tracks-v1a1/mono.m3u8
 #https://217.30.11.74/e/157.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 #http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
 #http://live.artofknot.com:5080/proxy/channel?url=https://trt.daioncdn.net/trtspor/master.m3u8?app=web#
 #http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#https://21heytv.com/trtspor/tracks-v1a1/mono.css?|Referer=https://yakatv4.live/
+# ? https://21heytv.com/trtspor/tracks-v1a1/mono.css?|Referer=https://yakatv4.live/
 
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TOTO ➾ SPORT",A SPOR ʜᴅ
 http://origi-jw-5.ravenclaw-house.com:80/TR-A-SPOR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TOTO ➾ SPORT",A SPOR ʜᴅ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-# ?https://35mumdur.shop/709/index.m3u8?|Referer=https://salamistv15.online/
+# ? https://macarenatv5.com/709/index.m3u8?|Referer=https://salamistv15.online/
+# ? http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+# ? https://35mumdur.shop/709/index.m3u8?|Referer=https://salamistv15.online/
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TOTO ➾ SPORT",TV 8.5 ʜᴅ
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
@@ -2510,7 +2768,7 @@ https://macarenatv5.com/e4/mono.m3u8?|referer=https://salamistv15.online/
 #EXTVLCOPT:http-referer=https://supertotobettv164.com/
 #https://35mumdur.shop/e4/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv164.com/  
 
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SkySportsF1" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="TRGOOL ➾ SPORT", Sky Sports F1
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SkySportsF1" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="TOTO ➾ SPORT", Sky Sports F1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://salamistv15.online/
 https://macarenatv5.com/skyf1/mono.m3u8?|referer=https://salamistv15.online/
@@ -2594,35 +2852,35 @@ https://trgoal2.metvmetv83.workers.dev/play?id=yayinbm1&ext=.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinbm2&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 1
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex1&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 2
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex2&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 3
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex3&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 4
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex4&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 5
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex5&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 6
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex6&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 7
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex7&ext=.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="MONO ➾ PAŞA",TABİİ 8
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://begenal.shop//resim/galeri_MTY3N_20.png" group-title="PAŞA ➾ SPORT",TABİİ 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://trgoal2.metvmetv83.workers.dev/play?id=yayinex8&ext=.m3u8
 
@@ -2858,13 +3116,13 @@ https://tecogoals.tecostream.xyz/proxy?id=yayineu2&ext=.m3u8
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="http://ginikoturkish.com/channels/logo/trt-spor-yildiz-epg-.png" group-title="JUST ➾ SPORT",TRT SPOR ☆ ʜᴅ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetrtsy.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="JUST ➾ SPORT",TRT SPOR 1 ʜᴅ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetrts.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="JUST ➾ SPORT",A SPOR ʜᴅ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveas.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="JUST ➾ SPORT",beIN Sport HABER ʜᴅ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebsh.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://bitter-wood-e9ef.insertgold84.workers.dev/checklist/androstreamlivebsh.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://justsporthd43.xyz/channel_logo/bein1.png" group-title="JUST ➾ SPORT",beIN Sports 1  ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
@@ -3094,6 +3352,63 @@ https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://one.ecaf0a63ab9b60
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://one.ecaf0a63ab9b6020.click/live/selcuknbatv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="TARAFTAR ➾ SPORT",RADYO GOL ᴴᴰʜᴅ
+http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="TARAFTAR ➾ SPORT",TRT 1 ᴴᴰ
+https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="http://ginikoturkish.com/channels/logo/trt-spor-yildiz-epg-.png" group-title="TARAFTAR ➾ SPORT",TRT SPOR ✯ ᴴᴰ
+https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TARAFTAR ➾ SPORT",TRT SPOR ᴴᴰ
+https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TARAFTAR ➾ SPORT",A SPOR ᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-id="TİVİBU SPOR" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="TARAFTAR ➾ SPORT", TiviBU SPOR ᴴᴰ
+https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="HT SPOR" tvg-name="HT SPOR" tvg-logo="http://ginikoturkish.com/channels/logo/ht-spor.jpg" group-title="TARAFTAR ➾ SPORT",HT SPOR ᴴᴰ
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+#EXTINF:-1 tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="http://epg.it999.ru/img/2614.png" group-title="TARAFTAR ➾ SPORT",TV 8'5 ᴴᴰ
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="TARAFTAR ➾ SPORT",BEYAZ TV ᴴᴰ
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:1 tvg-id="EKOL TV" tvg-language="Turkish" tvg-logo="http://ginikoturkish.com/channels/logo/ekol-tv.jpg" group-title="TARAFTAR ➾ SPORT",EKOL TV ᴴᴰ
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-id="TV100" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="TARAFTAR ➾ SPORT",TV100 ᴴᴰ
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="TARAFTAR ➾ SPORT" , IDMAN TV ᴴᴰ
+http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
+#EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id"" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="TARAFTAR ➾ SPORT"  , CBC Sport ᴴᴰ
+http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
+#EXTINF:-1 tvg-id="bein haber" tvg-name="BEIN SPORTS HABER" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS HABER ᴴᴰ
+http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-id="bein1" tvg-logo="https://3taraftarium24.site/img/beinsports1.png" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS 1 ᴴᴰ
+https://x.d07a53e9c42b1f6.click/bein1/index.m3u8
+#EXTINF:-1 tvg-id="bein2" tvg-logo="https://3taraftarium24.site/img/beinsports2.png" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS 2 ᴴᴰ
+https://x.b37e91c48a25f0d.click/bein2/index.m3u8
+#EXTINF:-1 tvg-id="bein3" tvg-logo="https://3taraftarium24.site/img/beinsports3.png" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS 3 ᴴᴰ
+https://x.b37e91c48a25f0d.click/bein3/index.m3u8
+#EXTINF:-1 tvg-id="bein4" tvg-logo="https://3taraftarium24.site/img/beinsports4.png" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS 4 ᴴᴰ
+https://x.b37e91c48a25f0d.click/bein4/index.m3u8
+#EXTINF:-1 tvg-id="bein5" tvg-logo="https://3taraftarium24.site/img/beinsports5.png" group-title="TARAFTAR ➾ SPORT",BeIN SPORTS 5 ᴴᴰ
+https://x.b37e91c48a25f0d.click/bein5/index.m3u8
+#EXTINF:-1 tvg-id="ssport1" tvg-logo="https://3taraftarium24.site/img/ssport.jpg" group-title="TARAFTAR ➾ SPORT",S SPORT 1 ᴴᴰ
+https://x.b37e91c48a25f0d.click/ssport1/index.m3u8
+#EXTINF:-1 tvg-id="ssport2" tvg-logo="https://3taraftarium24.site/img/ssport.jpg" group-title="TARAFTAR ➾ SPORT",S SPORT 2 ᴴᴰ
+https://x.b37e91c48a25f0d.click/ssport2/index.m3u8
+#EXTINF:-1 tvg-id="tivibu1" tvg-logo="https://3taraftarium24.site/img/tivibu.png" group-title="TARAFTAR ➾ SPORT",Tivibu SPORT 1 ᴴᴰ
+https://x.b37e91c48a25f0d.click/tivibu1/index.m3u8
+#EXTINF:-1 tvg-id="tivibu2" tvg-logo="https://3taraftarium24.site/img/tivibu.png" group-title="TARAFTAR ➾ SPORT",Tivibu SPORT 2 ᴴᴰ
+https://x.b37e91c48a25f0d.click/tivibu2/index.m3u8
+#EXTINF:-1 tvg-id="tivibu3" tvg-logo="https://3taraftarium24.site/img/tivibu.png" group-title="TARAFTAR ➾ SPORT",Tivibu SPORT 3 ᴴᴰ
+https://x.b37e91c48a25f0d.click/tivibu3/index.m3u8
+#EXTINF:-1 tvg-id="tivibu4" tvg-logo="https://3taraftarium24.site/img/tivibu.png" group-title="TARAFTAR ➾ SPORT",Tivibu SPORT 4 ᴴᴰ
+https://x.b37e91c48a25f0d.click/tivibu4/index.m3u8
+#EXTINF: -1 tvg-id="SporSmart.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TARAFTAR ➾ SPORT",Smart Spor 1 ʜᴅ
+https://217.30.11.74/e/155.m3u8
+#EXTINF: -1 tvg-id="SporSmart2.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TARAFTAR ➾ SPORT",Smart Spor  2 ʜᴅ
+https://217.30.11.74/e/156.m3u8
+#EXTINF:-1 tvg-id="Sportstv.tr" tvg-name="SPORTS TV HD.tr"  tvg-logo="http://ginikoturkish.com/channels/logo/sports-tv-epg-.png" group-title="TARAFTAR ➾ SPORT",SPORTS TV ʜᴅ
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
@@ -3242,8 +3557,7 @@ http://162.212.179.33:80/dvrfl05/gin-trt-spor1/playlist.m3u8
 #https://217.30.11.74/e/157.m3u8
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MAX ➾ SPORT",A spor ʜᴅ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MAX ➾ SPORT",A spor ʜᴅ
 http://origi-jw-5.ravenclaw-house.com:80/TR-A-SPOR/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MAX ➾ SPORT",A spor ʜᴅ
@@ -3507,16 +3821,11 @@ https://1.cf7-2c8.workers.dev/static/pl7.m3u8?ad=random
 https://1.cf7-2c8.workers.dev/static/pl8.m3u8?ad=random
 
 #EXTINF: -1 tvg-id="SporSmart.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MAX ➾ SPORT",Smart Spor 1 ʜᴅ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv.arectv34.sbs/live/smart1.m3u8
-#https://217.30.11.74/e/155.m3u8
+https://217.30.11.74/e/155.m3u8
 
 #EXTINF: -1 tvg-id="SporSmart2.tr"  tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MAX ➾ SPORT",Smart Spor  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv.arectv34.sbs/live/smart2.m3u8
-#https://217.30.11.74/e/156.m3u8
+https://217.30.11.74/e/156.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-name="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="MAX ➾ SPORT" , EUROSPORT1 ʜᴅ
 #EXTVLCOPT:http-user-agent=googleusercontent

@@ -200,13 +200,13 @@ http://193.19.242.48:8888/udp/239.1.3.1:1234/playlist.m3u8
 http://195.142.1.211:4022/udp/224.2.2.9:10001/index.m3u8 
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
 http://89.187.191.41/TV8-HD-TR/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://116.202.238.88/TV8_TR/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
-http://origi-jw-5.ravenclaw-house.com:80/TR-TV8/tracks-v1a1/mono.m3u8
+http://origi-jw-5.ravenclaw-house.com:80/TR-TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
 http://95.174.71.114:80/TR-TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue1
@@ -4251,6 +4251,190 @@ https://7pal.short.gy/fs2us
 
 
 
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) TRT SPOR 2 HD
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:10:DB:96&stream=1706&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) TRT SPOR HD
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:10:DB:96&stream=1705&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/asportr.png" group-title="TR - SPOR",(TR) A SPOR FHD
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:10:DB:96&stream=1708&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - SPOR",(TR) HT Spor 4K
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:10:DB:96&stream=293225&extension=ts
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasportshd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS HABER FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10033.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 FEED
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=913447&extension=ts&play_token=FHU3mlg7PF
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=913458&extension=ts&play_token=lIHk6I584e
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 UHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=913448&extension=ts&play_token=0QlU9apjzM
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=913446&extension=ts&play_token=RiAJNKPC6j
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5574.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10040.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10042.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 1 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10041.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports02hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 2 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10038.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports02hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 2 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10039.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports03hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 3 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10036.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports03hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 3 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10037.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports04hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 4 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10034.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports04hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 4 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10035.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports04hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 5 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5565.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasports04hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS 5 HD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5565.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasportsmax01hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS MAX 1 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10031.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/beinmenasportsmax02hd.png" group-title="TR - BEIN SPORTS",(TR) beINSPORTS MAX 2 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10029.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) SSPORT FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5638.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) SSPORT 2 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5637.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/sportsmart.png" group-title="TR - SPOR",(TR) SPOR SMART 1 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10017.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/sportsmart.png" group-title="TR - SPOR",(TR) SPOR SMART 2 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10258.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tivibutrspor.png" group-title="TR - SPOR",(TR) TIVIBUSPOR 1 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10013.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tivibutrspor2.png" group-title="TR - SPOR",(TR) TIVIBUSPOR 2 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10011.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tivibutrspor3.png" group-title="TR - SPOR",(TR) TIVIBUSPOR 3 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10009.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tivibutrspor.png" group-title="TR - SPOR",(TR) TIVIBUSPOR 4 HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10180.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S SPORT HD" tvg-logo="https://i.pinimg.com/736x/c4/93/cd/c493cdcb961099d689d23d930c5adf88.jpg" group-title="TR - SPOR",(TR) S SPORT HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10162.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/eurosport1hd.png" group-title="TR - SPOR",(TR) EUROSPORT 1 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10027.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/eurosport2hd.png" group-title="TR - SPOR",(TR) EUROSPORT 2 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10026.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/nbatvus.png" group-title="TR - SPOR",(TR) NBA TV HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10019.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/galatasaraytv.png" group-title="TR - SPOR",(TR) GS TV HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10024.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/fbtvfenerbahce.png" group-title="TR - SPOR",(TR) FB TV HD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10025.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625462&extension=ts&play_token=r8fvxMx1Oy
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 1 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625461&extension=ts&play_token=Da5T7VfyyB
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 2 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625460&extension=ts&play_token=EgvMj28XU5
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 3 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625459&extension=ts&play_token=ewhEtOX1fh
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 4 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625458&extension=ts&play_token=prnEMbJyzT
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 5 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625457&extension=ts&play_token=VX180FHHV4
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - SPOR",(TR) Tabi Spor 6 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1625456&extension=ts&play_token=PZd3Eqq5QO
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 1 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5636.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 2 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5635.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 3 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5634.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 4 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5633.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 5 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5632.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport PLUS+ 6 FHD
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5631.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 1 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036039.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 2 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036040.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 3 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036041.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 4 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036042.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 5 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036043.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 6 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036044.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 7 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036045.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/seriiptvlogo1.png" group-title="TR - SPOR",(TR) EXXEN SPOR 8 FHD
+http://localhd.tv:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/665036046.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 1 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438082&extension=ts&play_token=6jA10YXWdB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 2 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438083&extension=ts&play_token=2ns49oSG52
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 3 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438084&extension=ts&play_token=JJAELnWSKx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 4 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438085&extension=ts&play_token=xJaI1NzMa5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 5 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438086&extension=ts&play_token=HM9F6oaseb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 6 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438087&extension=ts&play_token=TyF5sVtslt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR - SPOR",TR| FILSPORT 7 PPV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:0D:A0:D8&stream=1438088&extension=ts&play_token=bzPBS6UdVW
+
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 1 4k+ (Mac Saati)" tvg-logo="" group-title="TR - SPOR",Fuchs Sports 1 4k+ (Mac Saati)
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 2 4k+ (Mac Saati)" tvg-logo="" group-title="TR - SPOR",Fuchs Sports 2 4k+ (Mac Saati)
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 3 4k+ (Mac Saati)" tvg-logo="" group-title="TR - SPOR",Fuchs Sports 3 4k+ (Mac Saati)
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 4 4k+ (Mac Saati)" tvg-logo="" group-title="TR - SPOR",Fuchs Sports 4 4k+ (Mac Saati)
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuchs Sports 5 4k+ (Mac Saati)" tvg-logo="" group-title="TR - SPOR",Fuchs Sports 5 4k+ (Mac Saati)
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5593.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 1" tvg-logo="" group-title="TR - SPOR",UFC Event 1
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 2" tvg-logo="" group-title="TR - SPOR",UFC Event 2
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 3" tvg-logo="" group-title="TR - SPOR",UFC Event 3
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 4" tvg-logo="" group-title="TR - SPOR",UFC Event 4
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 5" tvg-logo="" group-title="TR - SPOR",UFC Event 5
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 6" tvg-logo="" group-title="TR - SPOR",UFC Event 6
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 7" tvg-logo="" group-title="TR - SPOR",UFC Event 7
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 8" tvg-logo="" group-title="TR - SPOR",UFC Event 8
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 9" tvg-logo="" group-title="TR - SPOR",UFC Event 9
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 10" tvg-logo="" group-title="TR - SPOR",UFC Event 10
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 11" tvg-logo="" group-title="TR - SPOR",UFC Event 11
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 12" tvg-logo="" group-title="TR - SPOR",UFC Event 12
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 13" tvg-logo="" group-title="TR - SPOR",UFC Event 13
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 14" tvg-logo="" group-title="TR - SPOR",UFC Event 14
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Event 15" tvg-logo="" group-title="TR - SPOR",UFC Event 15
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5577.m3u8
 
 
 
@@ -11822,3 +12006,105 @@ https://tv-waipu.mark-clark.workers.dev/?ID=swr_rp&extension=m3u8&live=true
 #EXTINF:-1 tvg-id="309" tvg-name="brnord" group-title="WaipuTV",BRNORD
 https://tv-waipu.mark-clark.workers.dev/?ID=brnord&extension=m3u8&live=true  
 
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471386.png" group-title="4K UHD 3840P",4K| LOVE NATURE UHD
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1471386&extension=ts&play_token=0ddlrjtD0h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| FASHION TV UHD/4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1491208&extension=ts&play_token=TME4MGVnq4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1632124.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1632124&extension=ts&play_token=WoHCT4yJBr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| TRAVEL UHD/4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1470622&extension=ts&play_token=SxLuRVrKJL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| HOME UHD/4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1471380&extension=ts&play_token=qSsxYPMTpS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503006.png" group-title="4K RELAX UHD 3840P",4K| RELAX MOROCCO ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503006&extension=ts&play_token=X7UKkq688R
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502984.png" group-title="4K RELAX UHD 3840P",4K| RELAX TURKEY ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502984&extension=ts&play_token=m2dVPOyqY0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503007.png" group-title="4K RELAX UHD 3840P",4K| RELAX ICELAND ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503007&extension=ts&play_token=jHgisqoLsx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502989.png" group-title="4K RELAX UHD 3840P",4K| RELAX THE OCEAN ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502989&extension=ts&play_token=oS91VOMdIB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502990.png" group-title="4K RELAX UHD 3840P",4K| RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502990&extension=ts&play_token=OLOjFb1GYs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502985.png" group-title="4K RELAX UHD 3840P",4K| RELAX AUSTRALIA ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502985&extension=ts&play_token=dF7DzQUtQk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502986.png" group-title="4K RELAX UHD 3840P",4K| RELAX EARTH NATURE ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502986&extension=ts&play_token=oUWUxxbrEE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502987.png" group-title="4K RELAX UHD 3840P",4K| RELAX FOREST ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502987&extension=ts&play_token=ZyyHhPb9Rz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502988.png" group-title="4K RELAX UHD 3840P",4K| RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502988&extension=ts&play_token=LkwCfSR1Tk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503008.png" group-title="4K RELAX UHD 3840P",4K| RELAX NORWAY ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503008&extension=ts&play_token=aESeMhYZEh
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502991.png" group-title="4K RELAX UHD 3840P",4K| RELAX 1 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502991&extension=ts&play_token=osiQR1ZqyV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502992.png" group-title="4K RELAX UHD 3840P",4K| RELAX 2 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502992&extension=ts&play_token=DUWwTn9sJe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502993.png" group-title="4K RELAX UHD 3840P",4K| RELAX 3 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502993&extension=ts&play_token=dRPGQYKR6g
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502994.png" group-title="4K RELAX UHD 3840P",4K| RELAX 4 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502994&extension=ts&play_token=7qSFcrlHoI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502995.png" group-title="4K RELAX UHD 3840P",4K| RELAX 5 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502995&extension=ts&play_token=mJ5C7ibzj7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502996.png" group-title="4K RELAX UHD 3840P",4K| RELAX 6 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502996&extension=ts&play_token=4Rxp76qlwX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502997.png" group-title="4K RELAX UHD 3840P",4K| RELAX 7 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502997&extension=ts&play_token=4cMU1D2FMR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502998.png" group-title="4K RELAX UHD 3840P",4K| RELAX 8 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502998&extension=ts&play_token=vdzdk85Xnb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1502999.png" group-title="4K RELAX UHD 3840P",4K| RELAX 9 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1502999&extension=ts&play_token=mw5w9mlkDT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503000.png" group-title="4K RELAX UHD 3840P",4K| RELAX 10 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503000&extension=ts&play_token=fR53zjJQYg
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503001.png" group-title="4K RELAX UHD 3840P",4K| RELAX 11 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503001&extension=ts&play_token=ygzgnT39sk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503002.png" group-title="4K RELAX UHD 3840P",4K| RELAX 12 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503002&extension=ts&play_token=YKMlIkUXmP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503003.png" group-title="4K RELAX UHD 3840P",4K| RELAX 13 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503003&extension=ts&play_token=X9CTQfiYBb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503004.png" group-title="4K RELAX UHD 3840P",4K| RELAX 14 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503004&extension=ts&play_token=IAdvVZpqm5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503005.png" group-title="4K RELAX UHD 3840P",4K| RELAX 15 ᵁᴴᴰ 3840P
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1503005&extension=ts&play_token=9ogsDKAK4w
+#EXTINF:-1 tvg-logo="" group-title="4K RELAX 1920P",###### RELAX 4K ######
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505556&extension=ts&play_token=v4HVhwNM2s
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505557.png" group-title="4K RELAX 1920P",4K| RELAX MOROCCO 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505557&extension=ts&play_token=v8Pu7SSu8M
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505563.png" group-title="4K RELAX 1920P",4K| RELAX TURKEY 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505563&extension=ts&play_token=x8O79BIoTn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505559.png" group-title="4K RELAX 1920P",4K| RELAX NORWAY 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505559&extension=ts&play_token=0TOM3X9sTp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505558.png" group-title="4K RELAX 1920P",4K| RELAX ICELAND 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505558&extension=ts&play_token=XGqPMIkziK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505576.png" group-title="4K RELAX 1920P",4K| RELAX TROPICAL BEACH 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505576&extension=ts&play_token=mLAxaOYmFL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505575.png" group-title="4K RELAX 1920P",4K| RELAX THE OCEAN 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505575&extension=ts&play_token=FGF2q7sm5B
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505574.png" group-title="4K RELAX 1920P",4K| RELAX STARDUST 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505574&extension=ts&play_token=P5eiiSGqRk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505573.png" group-title="4K RELAX 1920P",4K| RELAX SNOW WINTER 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505573&extension=ts&play_token=0UMbZIaj9C
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505572.png" group-title="4K RELAX 1920P",4K| RELAX FOREST 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505572&extension=ts&play_token=dR5CcepLES
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505571.png" group-title="4K RELAX 1920P",4K| RELAX FLOWER 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505571&extension=ts&play_token=6RRLemcx9W
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505570.png" group-title="4K RELAX 1920P",4K| RELAX EARTH NATURE 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505570&extension=ts&play_token=jXp8iw9sXZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505569.png" group-title="4K RELAX 1920P",4K| RELAX NATURE RELAXATION 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505569&extension=ts&play_token=aJOsl6djnF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505568.png" group-title="4K RELAX 1920P",4K| RELAX MORNING RELAXING 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505568&extension=ts&play_token=nzQQBdlL5h
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505567.png" group-title="4K RELAX 1920P",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505567&extension=ts&play_token=upNnV42vbF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505566.png" group-title="4K RELAX 1920P",4K| RELAX EUROPE TOWNS 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505566&extension=ts&play_token=oeaeD9WbWr
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505565.png" group-title="4K RELAX 1920P",4K| RELAX FOREST AMERICAN 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505565&extension=ts&play_token=zbiG4hzbZd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505564.png" group-title="4K RELAX 1920P",4K| RELAX VIETNAM 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505564&extension=ts&play_token=hlXqejeR12
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505562.png" group-title="4K RELAX 1920P",4K| RELAX SWITZERLAND 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505562&extension=ts&play_token=1V0HD9eAoG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505561.png" group-title="4K RELAX 1920P",4K| RELAX ITALY 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505561&extension=ts&play_token=aAp2SOOesx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505560.png" group-title="4K RELAX 1920P",4K| RELAX AUSTRALIA 4K
+http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505560&extension=ts&play_token=Iash1ppVs2

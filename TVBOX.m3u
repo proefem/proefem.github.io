@@ -30,7 +30,7 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 http://euroturkpars5.live:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=1842&extension=m3u8&live=true  
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
-https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
+http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺™
 https://goldvod.org/tv/uyanik?id=1&e=.m3u8
 
@@ -74,7 +74,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᴴᴰ⁺™
 http://66.160.192.241:80/foxturk/playlist.m3u8
 
-#EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺
+#EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺™
 http://cdn-tytturk.yayin.com.tr/tytturk/playlist.m3u8
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᴴᴰ⁺™
@@ -619,206 +619,210 @@ http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TRT1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="ANDRO ➾ SPORT",TRT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetrt1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:ATV HD" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="ANDRO ➾ SPORT",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveatv.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:A2 HD" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ANDRO ➾ SPORT",A2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivea2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TV 8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ANDRO ➾ SPORT",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetv8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TV 8'5 HD" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ANDRO ➾ SPORT",TV8'5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetv85.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TRT Spor 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="ANDRO ➾ SPORT",TRT SPOR ☆ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetrtsy.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TRT Spor 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ANDRO ➾ SPORT",TRT SPOR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetrts.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:A Spor HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ANDRO ➾ SPORT",A SPOR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveas.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:HT Spor HD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="ANDRO ➾ SPORT",HT SPOR  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveht.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="HT SPOR" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" tvg-language="Turkish" tvg-country="TR" group-title="ANDRO ➾ SPORT",SIFIR SPOR  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://origin1.noisypeak.com/srt_listener_test11/track_0_5500/playlist.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:İDMAN TV HD" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="ANDRO ➾ SPORT",İDMAN TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveidm.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveidm.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:CBC Sport 1 HD" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="ANDRO ➾ SPORT",CBC SPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivecbcs.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:GS TV HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ANDRO ➾ SPORT",GS TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivegs.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:FB TV HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ANDRO ➾ SPORT",FB TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivefb.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Haber HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="ANDRO ➾ SPORT",beIN Sport HABER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebsh.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebsh.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebs1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS1TR&e=.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 1 HD
-https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBSdSKUklOV8GIh4=.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBSdSKUklOV8GIh4=/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 1 HD
 http://95.174.71.114/TR-BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebs2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 2 HD
-https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBidSKUklOV8GIh4=.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBidSKUklOV8GIh4=/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 2 HD
 http://95.174.71.114/TR-BEINSPORT2/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebs3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 3 HD
-https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBydSKUklOV8GIh4=.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BBydSKUklOV8GIh4=/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 3 HD
 http://95.174.71.114/TR-BEINSPORT3/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebs4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 4 HD
-https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BAidSKUklOV8GIh4=.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BAidSKUklOV8GIh4=/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 4 HD
 http://95.174.71.114/TR-BEINSPORT4/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebs5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ANDRO ➾ SPORT",beIN Sport 5 HD
+https://rtvav.cfd/cdn/bein_sports_5_hd/main.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="ANDRO ➾ SPORT",beIN Sport Max 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebsm1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="ANDRO ➾ SPORT",beIN Sport Max 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivebsm2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivets.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivets.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivets2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivets3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="ANDRO ➾ SPORT",Tivibu Sport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivets4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivess1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivess2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ANDRO ➾ SPORT",S Sport +6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivessplus6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivessplus6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ANDRO ➾ SPORT",Smart Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivesm1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ANDRO ➾ SPORT",Smart Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivesm2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 1 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 2 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 3 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 4 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 5 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 6 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 7 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb7.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 8 HD" tvg-logo="https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg" group-title="ANDRO ➾ SPORT",Tabii 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetb8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetb8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 1 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 2 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 3 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 4 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn4.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 5 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn5.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn5.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 6 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn6.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 7 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn7.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 8 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="ANDRO ➾ SPORT",Exxen 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamliveexn8.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamliveexn8.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="ANDRO ➾ SPORT",Euro Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivees1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="ANDRO ➾ SPORT",Euro Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivees2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:SKY F1 HD" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="ANDRO ➾ SPORT",F1 Sport  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivef1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivef1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:NBA TV HD" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="ANDRO ➾ SPORT",NBA Sport  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivenba.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivenba.m3u8
+#http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:TJK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tjktv.png" group-title="ANDRO ➾ SPORT",TJK TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivetjk.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivetjk.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:SPORTS TV HD" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="ANDRO ➾ SPORT",SPORTS TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.codetabs.com/v1/proxy/?quest=https://dsjsajs83.inser132021jd.workers.dev/checklist/androstreamlivesptstv.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.harundurmaz692.workers.dev/checklist/androstreamlivesptstv.m3u8
+
 
 
 
@@ -983,9 +987,6 @@ https://tecogoals.tecostream.xyz/yayineu2
 
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" Veliaht ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",VELİAHT✅✅ SON BOLUM
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="  Uzak.Sehir✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",UZAK ŞEHİR  ✅✅ SON BOLUM
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" inci.Taneleri ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",İNCİ TANELERİ  ✅✅ SON BOLUM
@@ -996,6 +997,8 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",SUSTALI CEYLAN  ✅✅ SON BOLUM
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sustali.Ceylan.SON.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" Veliaht ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",VELİAHT✅✅ SON BOLUM
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KRAL KAYBEDERSE✅✅ SON BOLUM" tvg-logo="https://media.startv.com.tr/star-tv/images/starweb21242_1730px.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER", KRAL KAYBEDERSE  ✅✅ SON BOLUM
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KONUSANLAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",KONUSANLAR  ✅✅ SON BOLUM

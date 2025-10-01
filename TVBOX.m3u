@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", 🔄⭕️🔺 ᴘʀᴏᴇғᴇᴍ Update: ⫷ 27 09 2025 ⫸ 🔺⭕️🔄 ░D░E░V░I░C░E░ ░I░N░F░O░R░M░A░T░I░O░N░ 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", 🔄⭕️🔺 ᴘʀᴏᴇғᴇᴍ Update: ⫷ 01 10 2025 ⫸ 🔺⭕️🔄 ░D░E░V░I░C░E░ ░I░N░F░O░R░M░A░T░I░O░N░ 
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",⭕️❫❫❫ AKVARYUM 🎼 🎶💫🎵🎶🎙🎤🎧📻🎷🪗🎸🎹🎺🎻🪕
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/01b45d1d-d617-44f6-9f3f-ce4e90118f4d/2.m3u8
@@ -513,7 +513,7 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
 
 #EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="Germany ➾ Live", D max.de
-https://strm.hdtvizlecanli.com/live/dmax.m3u8
+https://crsply.cfpass1.workers.dev/?url=https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Servus TV.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/05/31.png" group-title="Germany ➾ Live", SERVUS TV
 https://strm.hdtvizlecanli.com/live/servus.m3u8
@@ -1005,9 +1005,11 @@ https://tecogoals.tecostream.xyz/yayineu1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://tecogoals.tecostream.xyz/yayineu2
 
+#EXTINF:-1 tvg-id="607192" tvg-name="CARPINTI   ✅✅ SON BOLUM" group-title="TR ☪ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg",CARPINTI   ✅✅ SON BOLUM
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
 
-
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.Karadeniz.SON.mkv
+#EXTINF:-1 tvg-id="607194" tvg-name="Gözleri Karadeniz   ✅✅ SON BOLUM" group-title="TR ☪ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg",Gözleri Karadeniz   ✅✅ SON BOLUM
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="  Uzak.Sehir✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",UZAK ŞEHİR  ✅✅ SON BOLUM
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" inci.Taneleri ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ☪ DIZI SON BÖLÜMLER",İNCİ TANELERİ  ✅✅ SON BOLUM

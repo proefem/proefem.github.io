@@ -115,7 +115,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="http://ginikoturkish.com/channels/logo/trt-2-epg-.gif" group-title="ULUSAL",TRT 2 ᵁᴴᴰ⁺™
-http://95.174.71.114:80/TR-TRT2/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-trt2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TR" tvg-name="Tabii HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="ULUSAL",TABİİ TV ᴴᴰ⁺™
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
@@ -135,11 +135,32 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="ULUSAL",BENGÜTURK TV ᴴᴰ⁺™
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Fusion TV HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="ULUSAL",Fusion TV
+https://live20.bozztv.com/akamaissh101/ssh101/084952510aa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" group-title="ULUSAL",Bİ KANAL ᴴᴰ⁺™
+http://195.142.3.105/artidijital_bikanal/bikanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR tv ᴴᴰ⁺™
+https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8
+
+#EXTINF:-1  tvg-id="tivi6.tr" tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ⁺™
+http://195.142.3.105/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png"  group-title="ULUSAL",ONS TV ᴴᴰ⁺
+http://cdn-onstv.yayin.com.tr/onstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",METRO TÜRK TV
+https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ⁺™
+http://195.142.3.105/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="ULUSAL",Tivi TÜRK ᴴᴰ⁺
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-http://trrt.site/6991fc66ssf1282e/teleon.m3u8
+#http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 
 #EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL" logo=".png",CİNE5 tv ᴴᴰ⁺™
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
@@ -155,12 +176,6 @@ https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 
 #EXTINF:-1  tvg-id="tivi6.tr" tvg-logo="https://www.kanal6tv.com/wp-content/uploads/2021/07/cropped-CHANNEL6TV_LOGO-2-1.png" group-title="ULUSAL", KANAL 6 ᴴᴰ⁺™
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
-
-#EXTINF:-1  tvg-id="tivi6.tr" tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ⁺™
-http://195.142.3.105/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png"  group-title="ULUSAL",ONS TV ᴴᴰ⁺
-http://cdn-onstv.yayin.com.tr/onstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="ULUSAL",VİZİTÜRK KOMEDİ ᴴᴰ
 http://vizi.karamehmet.workers.dev/?ID=10
@@ -192,14 +207,6 @@ https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY DENGE tv ᴴᴰ
 https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" group-title="ULUSAL",Bİ KANAL ᴴᴰ⁺™
-http://195.142.3.105/artidijital_bikanal/bikanal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR tv ᴴᴰ⁺™
-https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ⁺™
-http://195.142.3.105/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yildiz-en-tv-tr.png"  group-title="ULUSAL",YILDIZEN tv ᴴᴰ
 https://cdn-yildizentv.yayin.com.tr/yildizentv/yildizentv/chunklist.m3u8
@@ -231,9 +238,6 @@ http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/trakya-turk-tv.png" group-title="ULUSAL",Trakya Türk TV ᴴᴰ⁺™
 http://46.31.145.202:8888/live/trakyaturk/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="ULUSAL",Fethiye FRT ᴴᴰ⁺™
-https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
-
 #EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV ᴴᴰ⁺
 # ?https://anka@tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 
@@ -252,9 +256,11 @@ https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="http://assets.tvcdn.net/da621b46-9ced-4d17-90ff-90c116ab0018.png" group-title="ULUSAL",TV 48 ᴴᴰ⁺™
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/mugla-turk-tv.png" group-title="ULUSAL" , M TURK TV ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/mugla-turk-tv.png" group-title="ULUSAL" , Muğla TURK TV ᴴᴰ⁺™
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="ULUSAL",Fethiye FRT ᴴᴰ⁺™
+https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8d5c3dfd-84de-464d-9a08-ed769ed72589.png" group-title="ULUSAL" , AFYON TURK ᴴᴰ⁺™
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
@@ -597,8 +603,10 @@ https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/stream_1080p/playlis
 
 #EXTINF:-1 tvg-id="Super RTL.de" tvg-logo="https://download.avm.de/tv/logos/superrtl.png" group-title="Germany ➾ Live", SUPER RTL
 https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+
 #EXTINF:-1 tvg-id="DE: Disney Channel" tvg-name="disneychannel.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/9.png" group-title="Germany ➾ Live",Disney Channel 
 https://strm.hdtvizlecanli.com/live/disney.m3u8
+
 #EXTINF:-1 tvg-id="DE: Comedy Central" tvg-name="ComedyCentral/VIVA.de" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"  group-title="Germany ➾ Live",Comedy Central
 https://strm.hdtvizlecanli.com/live/comedy.m3u8
 

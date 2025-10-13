@@ -75,7 +75,7 @@ http://95.174.71.114:80/TR-STAR/tracks-v1a1/mono.m3u8
 https://trn03.tulix.tv/gt-star-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+http://kanald-live.karamehmet.workers.dev/KanalD
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
 http://162.212.179.33:80/gin-trn09/gt-kanald/tracks-v1a1/mono.m3u8
 
@@ -95,9 +95,9 @@ https://mlatlxfaaa.turknet.ercdn.net/zqhpjaumpm/beyaztv/beyaztv_720p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᴴᴰ⁺™
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᴴᴰ⁺™
 http://95.174.71.114:80/TR-FOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᴴᴰ⁺™
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 
 #EXTINF:1 tvg-id="tytturk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png"  group-title="ULUSAL",TYT TÜRK  ᴴᴰ⁺™
 http://cdn-tytturk.yayin.com.tr/tytturk/playlist.m3u8
@@ -129,12 +129,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ⁺™
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 
-#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKİT TV ᴴᴰ⁺™
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-#EXTINF:-1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="ULUSAL",BENGÜTURK TV ᴴᴰ⁺™
-https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Fusion TV HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="ULUSAL",Fusion TV
 https://live20.bozztv.com/akamaissh101/ssh101/084952510aa/playlist.m3u8
 
@@ -155,58 +149,6 @@ https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ⁺™
 http://195.142.3.105/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="ULUSAL",Tivi TÜRK ᴴᴰ⁺
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-#http://trrt.site/6991fc66ssf1282e/teleon.m3u8
-
-#EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL" logo=".png",CİNE5 tv ᴴᴰ⁺™
-https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cine1.tr" tvg-language="Turkish" tvg-country="" tvg-id="" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CİNE 1 tv ᴴᴰ⁺™
-http://195.142.3.105/artidijital_cine1/cine1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINE 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/cine6.png" group-title="ULUSAL",CİNE 6 tv ᴴᴰ⁺™
-https://cine6tv.cine6tv.com.tr:3614/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="Cine1.tr" tvg-language="Turkish" tvg-country="" tvg-id="" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="ULUSAL",CİNE max 6 tv ᴴᴰ⁺™
-https://cinemax6.cinemax6.com:3118/stream/play.m3u8
-
-#EXTINF:-1  tvg-id="tivi6.tr" tvg-logo="https://www.kanal6tv.com/wp-content/uploads/2021/07/cropped-CHANNEL6TV_LOGO-2-1.png" group-title="ULUSAL", KANAL 6 ᴴᴰ⁺™
-https://cdn4.yayin.com.tr/channel6tv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="ULUSAL",VİZİTÜRK KOMEDİ ᴴᴰ
-http://vizi.karamehmet.workers.dev/?ID=10
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="ULUSAL",VİZİTÜRK KLASİK ᴴᴰ
-http://vizi.karamehmet.workers.dev/?ID=11
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="ULUSAL",VİZİ SİNEMA ᴴᴰ
-http://vizi.karamehmet.workers.dev/?ID=94
-
-#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://ufkumtv.net/uploads/logo/footer/UTV.png" group-title="ULUSAL",PLAY UFKUM tv ᴴᴰ 
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="ULUSAL",PLAY ÖNDE  tv ᴴᴰ
-https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="ULUSAL",PLAY FİL tv ᴴᴰ
-https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1 HD" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY TVB ᴴᴰ
-https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1 HD" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY 36 ᴴᴰ
-http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",I PLAY TV ᴴᴰ
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY SİNEMA tv ᴴᴰ
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY NOW  tv ᴴᴰ
-https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY NOW  movie ᴴᴰ
-https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY NOW scıfi tv ᴴᴰ
-https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="ULUSAL",PLAY DENGE tv ᴴᴰ
-https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cine5.tr" tvg-name="cine5 TR" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yildiz-en-tv-tr.png"  group-title="ULUSAL",YILDIZEN tv ᴴᴰ
 https://cdn-yildizentv.yayin.com.tr/yildizentv/yildizentv/chunklist.m3u8
@@ -1237,6 +1179,80 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",80'LER
+http://104.238.23.215/yt1.php?v=8-uHZ4CCb-E/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",TOLGSHOW
+http://104.238.23.215/yt1.php?v=wpIXwblLA8I/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",ARKADAŞIM HOŞGELDİN
+http://104.238.23.215/yt1.php?v=FATDnY2ymoo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",KOMEDİ DÜKKANI
+http://104.238.23.215/yt1.php?v=aWfuX57lXis/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",GÜLDÜR GÜLDÜR
+http://104.238.23.215/yt1.php?v=wnWkvgyd0Tw/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",ÇOK GÜZEL HAREKETLER BUNLAR
+http://104.238.23.215/yt1.php?v=iSs2JX68DZw/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",AVRUPA YAKASI 1
+http://104.238.23.215/yt1.php?v=EOOrq846o00/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",AVRUPA YAKASI 2
+http://104.238.23.215/yt1.php?v=EOOrq846o00&pp=ygUNY2FubMSxIHlhecSxbg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",GÖNÜL DAĞI
+http://104.238.23.215/yt1.php?v=DT2M4h17lGM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",7 NUMARA
+http://104.238.23.215/yt1.php?v=rS5dHYQsSxs/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",LEYLA İLE MECNUN
+http://104.238.23.215/yt1.php?v=3nlND4audLg/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Alemin kralı
+http://104.238.23.215/yt1.php?v=R17n-BYbMhU.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Bizimkiler
+http://104.238.23.215/yt1.php?v=6qtUZDWaOjo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Cennet mahallesi
+http://104.238.23.215/yt1.php?v=lf1NxAexRAE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Çiçek taxi
+http://104.238.23.215/yt1.php?v=yecjtIOaLUU.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Çocuklar duymasın
+http://104.238.23.215/yt1.php?v=EVZmJPw-7hY.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Emret komutanım
+http://104.238.23.215/yt1.php?v=toD9B3krEgo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Eşkiya dünyaya hükümdar olmaz
+http://104.238.23.215/yt1.php?v=eVFNLaILeNQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",FatmaGülün suçu ne
+http://104.238.23.215/yt1.php?v=QBEinpsgiPs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Gönül dağı
+http://104.238.23.215/yt1.php?v=DT2M4h17lGM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Inci taneleri
+http://104.238.23.215/yt1.php?v=7ansDZhrY6Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Kardeşlerim
+http://104.238.23.215/yt1.php?v=5VYAgeUatOo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Kızılcık şerbeti
+http://104.238.23.215/yt1.php?v=wpx7IVhfTMQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Kurtlar vadisi pusu
+http://104.238.23.215/yt1.php?v=jj1PG9qAfFo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Kuzey güney
+http://104.238.23.215/yt1.php?v=mYirpWcRAtg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Leila ile mecnun
+http://104.238.23.215/yt1.php?v=3nlND4audLg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Medcezir
+http://104.238.23.215/yt1.php?v=MLUGblGpm8A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Mehmed: Fetihler Sultanı
+http://104.238.23.215/yt1.php?v=6_AnQrbFvY8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Muhteşem yüzyıl: kösem
+http://104.238.23.215/yt1.php?v=nCex1qXOXwc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Ramo
+http://104.238.23.215/yt1.php?v=NZe40zMtacQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Seksenler
+http://104.238.23.215/yt1.php?v=8-uHZ4CCb-E.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Selena
+http://104.238.23.215/yt1.php?v=pjSDQwlyndY.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Sihirli annem
+http://104.238.23.215/yt1.php?v=02H6irpwLNg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Yaprak dökümü
+http://104.238.23.215/yt1.php?v=GTJ-k0FPoCA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Yedi numara
+http://104.238.23.215/yt1.php?v=rS5dHYQsSxs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="DİZİ ➾ YOUTUBE",Zengin kız fakir oğlan
+http://104.238.23.215/yt1.php?v=3kTcvGWaO3Q.m3u8
 
 
 
@@ -1290,22 +1306,6 @@ https://play.streamcasthub.store/hls/6OzXzhvMA61j6skTAWBYXA/xy/nc31jo1s/ipauaq/t
 https://play.streamcasthub.store/hls/IJwG4ihW8mgVw0ys0lo6PQ/8q/nc31jo1s/j3hai6/tt/index-f2-v1-a1.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/ryKRhmvW8LMSGzswv5VwFzV3zjh-185x278.jpg" group-title="DiZi-Gassal", Gassal 2.10 
 https://play.streamcasthub.store/hls/Arp8-49tsPqAG2Vwm_9rJA/xy/nc31jo1s/cvl1pp/tt/index-f2-v1-a1.m3u8
-
-
-
-#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,camerasmile  🎼 🎶🎼 🎶 
-https://bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,gagsnetwork  🎼 🎶🎼 🎶 
-http://91.205.199.3/gagsnetwork/index.m3u8
-#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,aweencore  🎼 🎶🎼 🎶
-https://aweencore-vizio.amagi.tv/playlist1080p.m3u8
-#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,museum  🎼 🎶🎼 🎶
-https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/cb563419657b60909dc92167d7f262eba65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad66ed77509b5c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db860d8c773789abdd7144220806c3084d86f108f2bdb84240db6bbfb21a5a817910e48644c9d71fa6d4dc0e9a5e8777a442809af38ed60dd1d79662af51e167595c242fab9c13e0a1907292ea0843fe5701047973efad9fff4038f436293eddcabb73e16271b4ef00947238ab05e221ece17c23d8618fe442b3a4b5d44b0348cc51e23355c2b4f8f09c0026ae6ff6a3e8971416fca6442115983f9e4a8359e1c4bcc335a363b8965adf46c202104fc965d1f29796fdbf9d4fd30dcfcbe79133494759c163ec468f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a94424fe29bb8ae92296293383913a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fa3c72094ce5a57b070b1e2b80ae4b023270cf40a4e0cbe7761b09a3a29ea98e006e75547d352d85e6f57f928ab24b4c42bb24540747111a8511d86e9d6c640f2cc012d6ec397c8a08242785f66a05420d76a95f30230aac4323defe41ccedd353c04b3125ff49a4/158/848x480_1249600/index.m3u8
-#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,bonappetit  🎼 🎶🎼 🎶
-https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
-
-
-
 
 
 
@@ -1375,6 +1375,61 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196853&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314474&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="|TR| YABAN TV" group-title="TR ➾ BELGESEL",|TR| YABAN TV
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10768&extension=ts
+
+
+
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,The World Live - Original Version | earthTV® 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=HfgIFGbdGJ0/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,WORLD CITIES SLOW Piyano 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=TZikBxNaaQk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 1/330webcam🎼 🎶?? 🎶 
+http://104.238.23.215/yt1.php?v=TZikBxNaaQk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 2/150webcam🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=5GC7cpzMUMk/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,LİVE WORLD CITIES 2/150webcam🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=O_HVCdwZdBo/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR TV  🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=EmdtE7sRMSY/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR TV PIANO 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=6mowOmy3vcA/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR NEY 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=yFarNR4PGwc/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,GÜNCEL PAYLAŞIMLAR NEY & KANUN 🎼 🎶?? 🎶 
+http://104.238.23.215/yt1.php?v=n5CBQTdLkLA/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,ULUS MÜZİK 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=Bto75pRPQNA/live.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,KARADENİZ AKUSTİK 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=Fru_Ss-TqgY/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxofón 🎷 Música  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=i9HOymftuNI/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxofón 🎷 Romántica  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=MhZkNYx0KKw/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxophone 🎷 Relaxing Music  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=MY0NnJ8y3gI/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Saxophone 🎷 SLOW Relaxing Music  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=c3IVTi6TlfE/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Panflute Music  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=JlqKMEPco3E/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,TIBET FLUTE & Music  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=6L5nrkIRLxw/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,HEALİNG FOREST  🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=HhFw2q9921Y/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,ROMANTİK MELODİLER & GİTAR 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=3YZWxTDLs_w/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Deep House Music Mix 2025 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=xiSElhfn0Po/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,Chillout Lounge - Calm & Relaxing Music 2025 🎼 🎶🎼 🎶 
+http://104.238.23.215/yt1.php?v=TSEUKikoH2g/live.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,camerasmile  🎼 🎶🎼 🎶 
+https://bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,gagsnetwork  🎼 🎶🎼 🎶 
+http://91.205.199.3/gagsnetwork/index.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,aweencore  🎼 🎶🎼 🎶
+https://aweencore-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,museum  🎼 🎶🎼 🎶
+https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/cb563419657b60909dc92167d7f262eba65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad66ed77509b5c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db860d8c773789abdd7144220806c3084d86f108f2bdb84240db6bbfb21a5a817910e48644c9d71fa6d4dc0e9a5e8777a442809af38ed60dd1d79662af51e167595c242fab9c13e0a1907292ea0843fe5701047973efad9fff4038f436293eddcabb73e16271b4ef00947238ab05e221ece17c23d8618fe442b3a4b5d44b0348cc51e23355c2b4f8f09c0026ae6ff6a3e8971416fca6442115983f9e4a8359e1c4bcc335a363b8965adf46c202104fc965d1f29796fdbf9d4fd30dcfcbe79133494759c163ec468f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a94424fe29bb8ae92296293383913a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fa3c72094ce5a57b070b1e2b80ae4b023270cf40a4e0cbe7761b09a3a29ea98e006e75547d352d85e6f57f928ab24b4c42bb24540747111a8511d86e9d6c640f2cc012d6ec397c8a08242785f66a05420d76a95f30230aac4323defe41ccedd353c04b3125ff49a4/158/848x480_1249600/index.m3u8
+#EXTINF:0  tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="TR ➾ EĞLENCE" ,bonappetit  🎼 🎶🎼 🎶
+https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
@@ -1526,42 +1581,115 @@ http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",KEMAL SUNAL FİLMLERİ
-https://api.m3use.projectmoose.xyz/m3u/myway/myway/6824d26eda027ddca0170838.m3u8?uid=myway&pkey=7Z3VNBQ6
-#https://youtube.mark-clark.workers.dev/?ID=UCHumSHRFQ8skiHTY75sxytQ
+http://104.238.23.215/yt.php?ID=UCHumSHRFQ8skiHTY75sxytQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",KEMAL SUNAL FİLMLERİ 2
-https://api.m3use.projectmoose.xyz/m3u/myway/myway/688e3d078cb5b5b5f131aecc.m3u8?uid=myway&pkey=7Z3VNBQ6
-#https://youtube.mark-clark.workers.dev/?ID=UCulg-mlXf314L1pemPqCVng
+http://104.238.23.215/yt.php?ID=UCoIUysIrvGxoDw-GkdOGjRw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",KEMAL SUNAL FİLMLERİ 3
-https://api.m3use.projectmoose.xyz/m3u/myway/myway/686141146de38f4fcf6aa612.m3u8?uid=myway&pkey=7Z3VNBQ6
-#https://youtube.mark-clark.workers.dev/?ID=UCoIUysIrvGxoDw-GkdOGjRw
+http://104.238.23.215/yt.php?ID=UCulg-mlXf314L1pemPqCVng
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 1
-https://youtube.mark-clark.workers.dev/?ID=UCUALYmnkEmx8vlxIbpr2gmw
+http://104.238.23.215/yt.php?ID=UCUALYmnkEmx8vlxIbpr2gmw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 2
-https://youtube.mark-clark.workers.dev/?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
+http://104.238.23.215/yt.php?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 3
-https://youtube.mark-clark.workers.dev/?ID=ftfJHeVJbek/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",ZEKİ VE METİN 
-https://api.m3use.projectmoose.xyz/m3u/myway/myway/688e3c8c83f738e7bf81c13d.m3u8?uid=myway&pkey=7Z3VNBQ6
-#https://youtube.mark-clark.workers.dev/?ID=ygUVY2FubMSxIHlhecSxbiBmaWxtbGVy
-#EXTINF:-1 tvg-id="10" tvg-name="ViziTürk Komedi" group-title="SINEMA ➾ SALON" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png",ViziTürk Komedi
-http://vizi.karamehmet.workers.dev/?ID=10&e=.m3u8  
-#EXTINF:-1 tvg-id="11" tvg-name="ViziTürk Klasik" group-title="SINEMA ➾ SALON" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png",ViziTürk Klasik
-http://vizi.karamehmet.workers.dev/?ID=11&e=.m3u8  
-#EXTINF:-1 tvg-id="94" tvg-name="Vizi Sinema" group-title="SINEMA ➾ SALON" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_sinema.png",Vizi Sinema
-http://vizi.karamehmet.workers.dev/?ID=94&e=.m3u8  
+http://104.238.23.215/yt.php?ID=UC0LzwfdVoZSQDtauDjJS8_A
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 4
+http://104.238.23.215/yt.php?ID=UCmw7e_6j2TSWCKeaZALjyuA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 5
+http://104.238.23.215/yt.php?ID=UCq2sXHHjY9AYkxN93SWtzMQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM FİLMLERİ 6
+
+
+
+#http://tgn.bozztv.com:80/trn09/gt-trt4k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-483306.png" group-title="SINEMA ➾ SALON",TABİİ TV HD
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİTÜRK KOMEDİ
+http://vizi.karamehmet.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİTÜRK KLASİK
+http://vizi.karamehmet.workers.dev/?ID=11
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİ SİNEMA
+http://vizi.karamehmet.workers.dev/?ID=94
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://logo.filbox.com.tr/FILTV.png" group-title="SINEMA ➾ SALON",FİL TV ᴴᴰ
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİLM SCREEN HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SINEMA ➾ SALON",FİLM SCREEN 
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 1
-http://sultanweb.info/GinikoTV.php?ID=207&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=207&e=.m3u8  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1215.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 2
-http://sultanweb.info/GinikoTV.php?ID=1215&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=1215&e=.m3u8  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1216.png" group-title="SINEMA ➾ SALON",YEŞİLÇAM 3
-http://sultanweb.info/GinikoTV.php?ID=1216&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=1216&e=.m3u8  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1217.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 1
-http://sultanweb.info/GinikoTV.php?ID=1217&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=1217&e=.m3u8  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1218.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 2
-http://sultanweb.info/GinikoTV.php?ID=1218&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=1218&e=.m3u8  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/1219.jpg" group-title="SINEMA ➾ SALON",SİNEVİZYON 3
-http://sultanweb.info/GinikoTV.php?ID=1219&e=.m3u8  
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/playlist.m3u8
+#http://sultanweb.info/GinikoTV.php?ID=1219&e=.m3u8  
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tabii Sport HD" tvg-logo="https://www.liveaugoal.com/images/tv/tabii.webp" group-title="SINEMA ➾ SALON",Tabii TV ᵁᴴᴰ⁺™
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tabii Sport HD" tvg-logo="https://www.liveaugoal.com/images/tv/tabii.webp" group-title="SINEMA ➾ SALON",DİZİ TV ᵁᴴᴰ⁺™
+http://193.27.209.122/dizi/playlist.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tabii Sport HD" tvg-logo="https://www.liveaugoal.com/images/tv/tabii.webp" group-title="SINEMA ➾ SALON",DİZİ TV ᵁᴴᴰ⁺™
+http://85.206.147.2/dizihd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="SINEMA ➾ SALON",PLAY Tivi TÜRK ᴴᴰ
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fusion TV HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="SINEMA ➾ SALON",Fusion TV
+https://live20.bozztv.com/akamaissh101/ssh101/084952510aa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİTÜRK KOMEDİ ᴴᴰ
+http://vizi.karamehmet.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİTÜRK KLASİK ᴴᴰ
+http://vizi.karamehmet.workers.dev/?ID=11
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/207.png" group-title="SINEMA ➾ SALON",VİZİ SİNEMA ᴴᴰ
+http://vizi.karamehmet.workers.dev/?ID=94
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="SINEMA ➾ SALON",PLAY KUZEY MAX  tv ᴴᴰ
+http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://ufkumtv.net/uploads/logo/footer/UTV.png" group-title="SINEMA ➾ SALON",PLAY UFKUM tv ᴴᴰ 
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="SINEMA ➾ SALON",PLAY ÖNDE  tv ᴴᴰ
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="SINEMA ➾ SALON",PLAY FİL tv ᴴᴰ
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1 HD" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY TVB ᴴᴰ
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1 HD" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY 36 ᴴᴰ
+http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",I PLAY TV ᴴᴰ
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY SİNEMA tv ᴴᴰ
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY NOW  tv ᴴᴰ
+https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY NOW  movie ᴴᴰ
+https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY NOW scıfi tv ᴴᴰ
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="SINEMA ➾ SALON",PLAY DENGE tv ᴴᴰ
+https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/chunklist.m3u8
+#EXTINF:-1  type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="SINEMA ➾ SALON",CİNE 5 tv ᴴᴰ
+https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" group-title="SINEMA ➾ SALON",CİNE 1 ᴴᴰ
+http://195.142.3.105/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Q8ePW.png" group-title="SINEMA ➾ SALON",CİNE 6 ᴴᴰ
+https://cine6tv.cine6tv.com.tr:3614/stream/play.m3u8?|referer=https://www.cine6tv.com.tr
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/SMZRmBHCU.png" group-title="SINEMA ➾ SALON",CİNE 6 MAX ᴴᴰ
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SINEMA ➾ SALON",SALON INFO 2  ☪ SİNEVİZYON (2023)

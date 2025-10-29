@@ -234,7 +234,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV  ᴴᴰ⁺™
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 
-#EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="HABER",EKOL TV ᴴᴰ⁺™
+#EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://tv.canlitvme.com/poster/ekol-tv-canli.png" group-title="HABER",EKOL TV ᴴᴰ⁺™
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="HABER",TV100 ᴴᴰ⁺
@@ -574,7 +574,8 @@ https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 #EXTINF:-1 tvg-id="DE: Disney Channel" tvg-name="disneychannel.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/9.png" group-title="Germany ➾ Live",Disney Channel 
 https://strm.hdtvizlecanli.com/live/disney.m3u8
 #EXTINF:-1 tvg-id="kika.de" tvg-name="https://2ix2.com/wp-content/uploads/2019/09/8.png" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"  group-title="Germany ➾ Live",KİKA.de HD
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
 
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Germany ➾ Live" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
@@ -715,7 +716,7 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="ANDRO ➾ SPORT",RADYO GOL ʜᴅ
-https://uzayakaczekiye81.mywire.org/index.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8 
+http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TRT1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="ANDRO ➾ SPORT",TRT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
@@ -740,7 +741,7 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="A Spor HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ANDRO ➾ SPORT",A SPOR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamliveas.m3u8
-#EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ANDRO ➾ SPORT",EKOL SPORTS HD
+#EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://tv.canlitvme.com/poster/ekol-sports-canli.png" group-title="ANDRO ➾ SPORT",EKOL SPORTS HD
 https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="HT Spor HD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="ANDRO ➾ SPORT",HT SPOR  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
@@ -918,10 +919,10 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivenba.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetjk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tjktv.png" group-title="ANDRO ➾ SPORT",TJK TV HD
-https://uzayakaczekiye81.mywire.org/index.php?ID=UCNLO4lpteIloZ4IKb9L2DoA&ext=.m3u8
+http://live.tv-youtube.workers.dev/?ID=UCNLO4lpteIloZ4IKb9L2DoA
 #http://104.238.23.215/iptv_panel/get.php?channel=Channel225&token=token123
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/taytv.png" group-title="ANDRO ➾ SPORT",TAY TV HD
-https://uzayakaczekiye81.mywire.org/index.php?ID=UCjkRA7KEdp7PDKDUs396XHg&ext=.m3u8
+http://live.tv-youtube.workers.dev/?ID=UCjkRA7KEdp7PDKDUs396XHg
 #http://104.238.23.215/iptv_panel/get.php?channel=Channel226&token=token123
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:SPORTS TV HD" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="ANDRO ➾ SPORT",SPORTS TV HD
@@ -932,7 +933,7 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesptstv.m3u8
 
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="TRGOOL ➾ SPORT",RADYO GOL 
-https://uzayakaczekiye81.mywire.org/index.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8 
+http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT1" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="TRGOOL ➾ SPORT", TRT 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
@@ -971,13 +972,13 @@ https://live.tecostream.xyz/mono/php_channels/yayinas.php?|referer=https://monot
 #EXTINF:-1 tvg-id="HT SPOR" tvg-name="HT SPOR" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/HT_spor_logo_Siyah_00117_BDADF962-6883-45EE-932A-44F223D87D74.jpg" group-title="TRGOOL ➾ SPORT",HT SPOR ʜᴅ
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
+#EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://tv.canlitvme.com/poster/ekol-sports-canli.png" group-title="TRGOOL ➾ SPORT",EKOL SPORTS ʜᴅ
+https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
+
 #EXTINF:-1 tvg-name="0 SPOR" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" tvg-language="Turkish" tvg-country="TR" group-title="TRGOOL ➾ SPORT",SIFIR SPOR  ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/playlist.m3u8
 # ?https://uzayakaczekiye81.mywire.org/index.php?ID=UCDX7Vf8VLBHdC-HZtKG9gOQ&ext=.m3u8 
-
-#EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="TRGOOL ➾ SPORT",EKOL SPORTS ʜᴅ
-https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSports1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TRGOOL ➾ SPORT", BeIN Sports 1ʜᴅ ᴠɪᴘ   
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
@@ -1638,7 +1639,7 @@ http://85.206.147.2/dizihd/playlist.m3u8
 #EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="SINEMA ➾ SALON",PLAY Tivi TÜRK ᴴᴰ
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg" group-title="SINEMA ➾ SALON",TELE ON ᴴᴰ
-https://stream.kick.com/ivs/v1/196233775518/j4q7213GgMTB/2025/10/26/20/32/ns631KojXxkc/media/hls/1080p/playlist.m3u8
+https://github.com/UzunMuhalefet/yayinlar/raw/main/streams/best/teleon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Fusion TV HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="SINEMA ➾ SALON",Fusion TV
 https://live20.bozztv.com/akamaissh101/ssh101/084952510aa/playlist.m3u8

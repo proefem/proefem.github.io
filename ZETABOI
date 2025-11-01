@@ -1,7 +1,7 @@
 #EXTM3U 
 ####x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", ⭕️🔺🛰️ 📺 ᴘʀᴏᴇғᴇᴍ Update: ⫷ 30 10 2025 ⫸ 📺🛰️🔺⭕️ ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ 🚨🔥📢🔄
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️", ⭕️🔺🛰️ 📺 ᴘʀᴏᴇғᴇᴍ Update: ⫷ 01 11 2025 ⫸ 📺🛰️🔺⭕️ ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ 🚨🔥📢🔄
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSystem » ☪🛡️",⭕️❫❫❫ KUŞADASI LİMAN LİVE 🎼 🎶💫
 https://github.com/UzunMuhalefet/cameras/raw/main/TR/09/kusadasi/46724b634451574c41684d3d.m3u8
@@ -525,6 +525,9 @@ https://github.com/UzunMuhalefet/yayinlar/raw/main/streams/best/teleon.m3u8
 #https://stream.kick.com/ivs/v1/196233775518/j4q7213GgMTB/2025/10/26/20/32/ns631KojXxkc/media/hls/1080p/playlist.m3u8
 #http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg" group-title="ULUSAL",TAFF pictures ᴴᴰ
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/taff-pictures.m3u8
+
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
 http://195.142.3.105/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
@@ -587,6 +590,13 @@ http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="ULUSAL",Pala TV ᴴᴰ
 http://yktv2828.ozelip.com:30838/palatv/palatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="HDH TÜRK" group-title="ULUSAL" tvg-logo="https://www.hdhmedya.com/wp-content/uploads/2025/02/ylogo.png",HDH TÜRK
+https://live.euromediacenter.com/hdhturk/index.m3u8
+
+#EXTINF:-1 tvg-name="HÜR TV" group-title="ULUSAL" tvg-logo="https://www.hurtvradyo.com/wp-content/uploads/2024/09/HUR-TV-EKRAN-450x300-2.png",HÜR TV
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV tv ᴴᴰ
 https://github.com/UzunMuhalefet/yt-streams/raw/main/TR/diger/bizimevtv.m3u8
@@ -1358,8 +1368,11 @@ https://uzayakaczekiye81.mywire.org/index.php?ID=UCLPc5pYOl2clEkCA82Sfb0Q
 https://edge.socialsmart.tv/neohaber/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="HT Spor HD" tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/TELENEWS-SM-LOGO-LOW.jpg" group-title="ULUSAL ➾ HABER",TELE NEWS  ᴴᴰ⁺™
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
-https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/telenews-tv.m3u8
+#https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TURKISH PRESS TV"  tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/TELENEWS-SM-LOGO-LOW.jpg" group-title="ULUSAL ➾ HABER",TURKISH PRESS TV
+https://live.euromediacenter.com/turkishpress/video.m3u8
 
 #EXTINF:-1 tvg-id="TURKHABER.tr" tvg-name="" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2020/09/TurkHaberBB.png" group-title="ULUSAL ➾ HABER",TURK HABERᴴᴰ
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -2078,7 +2091,10 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrts.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://tv.canlitvme.com/poster/ekol-sports-canli.png" group-title="ANDRO ➾ SPORT",EKOL SPORTS HD
-https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/46/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HT spor.tr" tvg-name="HT Spor HD" tvg-logo="https://cdn-tr.tivimivi.com/images//channels/1760475671622_HT-Spor.jpg" group-title="ANDRO ➾ SPORT",HT SPOR  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamliveht.m3u8
@@ -2303,7 +2319,9 @@ https://andro.1285837.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.1285837.xyz/checklist/androstreamliveas.m3u8
 
 #EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://tv.canlitvme.com/poster/ekol-sports-canli.png" group-title="JUSTİN ➾ SPORT",EKOL SPORTS HD
-https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/46/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="HT Spor HD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="JUSTİN ➾ SPORT",HT SPOR  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
@@ -2553,6 +2571,247 @@ http://live.tv-youtube.workers.dev/?ID=UCjkRA7KEdp7PDKDUs396XHg
 https://andro.1285837.xyz/checklist/androstreamlivesptstv.m3u8
 
 
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="BOSS ➾ SPORT",RADYO GOL ʜᴅ
+https://uzayakaczekiye81.mywire.org/index.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
+#EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-name="Spor Çoklu Ekran" group-title="BOSS ➾ SPORT" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png",SPORT MULTİ Ekran
+# ? https://tatatam.trt1sultanfatihss.workers.dev/http://sultanweb.info/TurkSATB.php?ID=96693&e=.m3u8 
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TRT1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="BOSS ➾ SPORT",TRT1  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="ATV HD" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="BOSS ➾ SPORT",ATV  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="BOSS ➾ SPORT",KANAL D  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TV 8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="BOSS ➾ SPORT",TV8  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TV 8'5 HD" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="BOSS ➾ SPORT",TV8'5  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TRT Spor 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="BOSS ➾ SPORT",TRT SPOR ☆  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/79/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TRT Spor 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="BOSS ➾ SPORT",TRT SPOR  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/77/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="A Spor HD" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="BOSS ➾ SPORT",A SPOR  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/73/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EKOL TV" tvg-name="EKOL TV TR tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="BOSS ➾ SPORT",EKOL SPORTS  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HT SPOR.tr" tvg-name="HT Spor HD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="BOSS ➾ SPORT",HT SPOR   ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/74/playlist.m3u8
+
+#EXTINF:-1 tvg-name="0 SPOR" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" tvg-language="Turkish" tvg-country="TR" group-title="BOSS ➾ SPORT",SIFIR SPOR   ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="İDMAN TV HD" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="BOSS ➾ SPORT",İDMAN TV  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/1020/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="CBC Sport 1 HD" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="BOSS ➾ SPORT",CBC SPORT  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.php?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/1010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Haber HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="BOSS ➾ SPORT",beIN Sport HABER  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/78/playlist.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-logo="https://www.freshot.live/upload/source/bein_sports1-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.php?u=https://a1518f8fbc0f419981.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/777/playlist.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-logo="https://www.freshot.live/upload/source/bein_sports1-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.php?u=https://93aa1177.fbac327ec961d1fb.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/777/playlist.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-logo="https://www.freshot.live/upload/source/bein_sports1-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/777/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-logo="https://www.freshot.live/upload/source/bein-sports-2-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/778/playlist.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-logo="https://www.freshot.live/upload/source/bein-sports_3-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/779/playlist.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-logo="https://www.freshot.live/upload/source/bein-sports-4-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/780/playlist.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://www.freshot.live/upload/source/beINSPORTS5-logo.png" group-title="BOSS ➾ SPORT",beIN SPORTS 5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/786/playlist.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="BOSS ➾ SPORTEDEK",beIN SPORTS MAX 1  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/781/playlist.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="BOSS ➾ SPORT",beIN SPORTS MAX 2  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/782/playlist.m3u8
+
+#EXTINF:-1 tvg-id="710" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="BOSS ➾ SPORT",TIVIBUSPOR  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/75/playlist.m3u8
+
+#EXTINF:-1 tvg-id="710" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="BOSS ➾ SPORT",TIVIBUSPOR 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/744/playlist.m3u8
+
+#EXTINF:-1 tvg-id="711" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="BOSS ➾ SPORT",TIVIBUSPOR 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/762/playlist.m3u8
+
+#EXTINF:-1 tvg-id="712" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="BOSS ➾ SPORT",TIVIBUSPOR 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/769/playlist.m3u8
+
+#EXTINF:-1 tvg-id="712" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="BOSS ➾ SPORT",TIVIBUSPOR 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/754/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSS ➾ SPORT",Smart Sport 1  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/610/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSS ➾ SPORT",Smart Sport 2  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/645/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport 1  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/763/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport 2  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/765/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +1  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus1.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +2  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus2.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 3 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +3  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus3.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 4 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +4  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus4.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 5 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +5  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus5.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 6 HD" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSS ➾ SPORT",S Sport +6  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/1080/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2050/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="BOSS ➾ YEDEK",TABİİ SPOR 6  ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/2060/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="BOSS ➾ SPORT",Euro Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/631/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="ULUSAL ➾ SPORT",Euro Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/641/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:NBA TV HD" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="BOSS ➾ SPORT",NBA Sport ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cek.m3u8?u=https://bdfbb7d2c588a027bf.pages.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/608/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:SKY F1 HD" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="BOSS ➾ SPORT",F1 Sport ʜᴅ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivef1.m3u8
 
 
 
@@ -5607,128 +5866,190 @@ https://roka3.shop/cdn/down/17ed4f2df7a58c0b1ed215733236e260/Original/Original.t
 #http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INCI TANELERI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",INCI TANELERI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/554905
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UZAK SEHIR    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",UZAK SEHIR    ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/562305
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=562305&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/562305
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TESKILAT  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",TESKILAT  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552518
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552518&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552518
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ESREF RUYA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ESREF RUYA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/583906
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=583906&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/583906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INCI TANELERI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",INCI TANELERI  ✅✅ SON BOLUM
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=554905&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/554905
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAHIPSIZLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SAHIPSIZLER  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552518
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552518&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552518
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cennetin Çocukları  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Cennetin Çocukları  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608243
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=608243&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608243
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sahtekarlar  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Sahtekarlar  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/612106
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=612106&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/612106
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CARPINTI   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CARPINTI   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607192
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=607192&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607192
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güller ve Günahlar  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Güller ve Günahlar  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/612048
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=612048&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/612048
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GONUL DAGI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GONUL DAGI ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551657
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551657&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551657
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aynadaki Yabancı    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Aynadaki Yabancı    ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611201
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=611201&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611201
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ben Leman   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Ben Leman   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611199
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=611199&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611199
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tasacak Bu Deniz   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Tasacak Bu Deniz   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611864
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=611864&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/611864
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aşk ve Gözyaşı   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Aşk ve Gözyaşı   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608644
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=608644&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608644
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARKA SOKAKLAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ARKA SOKAKLAR ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551586
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551586&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551586
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZILCIK SERBETI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIZILCIK SERBETI ✅✅  SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551589
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551589&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551589
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Halef: Köklerin Çağrısı  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Halef: Köklerin Çağrısı  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608615
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=608615&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608615
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KONUSANLAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KONUSANLAR  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553094
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=553094&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553094
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Veliaht  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Veliaht  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607512
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=607512&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607512
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAN BORCU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CAN BORCU  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/567915
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=567915&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/567915
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Gözleri Karadeniz   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Gözleri Karadeniz   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607194
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=607194&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/607194
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KRAL KAYBEDERSE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KRAL KAYBEDERSE  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/576511
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=576511&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/576511
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BAHAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BAHAR ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552675
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552675&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552675
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MEHMET FETIHLER SULTANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",MEHMET FETIHLER SULTANI ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552676
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552676&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552676
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kıskanmak ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Kıskanmak ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608286
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=608286&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/608286
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AILE SAADETI   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZucEzPzz8fn4pAZDqmHDDtmW8m.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",AILE SAADETI   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/595302
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=595302&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/595302
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güldür Güldür Show    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Güldür Güldür Show    ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558152
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=558152&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558152
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CIFT KISILIK ODA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jknzzAm6YU6RhXU0rFPazcR7GZK.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CIFT KISILIK ODA   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/592638
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=592638&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/592638
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LEYLA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",LEYLA   ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551909
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551909&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551909
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KURULUS OSMAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KURULUS OSMAN  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553834
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=553834&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553834
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR GECE MASALI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BIR GECE MASALI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551881
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551881&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551881
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Çok Güzel Hareketler 2     ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Çok Güzel Hareketler 2     ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/560489
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=560489&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/560489
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/576273
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=576273&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/576273
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIYAH KALP  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SIYAH KALP  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552134
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552134&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552134
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558151
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=558151&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558151
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEHA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",DEHA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552517
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552517&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552517
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HUDUTSUZ SEVDA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzx60VbvN46YdGDeobWXddr5ze.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",HUDUTSUZ SEVDA ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553085
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=553085&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553085
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUSTALI CEYLAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SUSTALI CEYLAN  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/586340
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=586340&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/586340
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZIL GONCALAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIZIL GONCALAR  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553352
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=553352&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/553352
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARDELENLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARDELENLER  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/575043
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=575043&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/575043
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAKIRPASA AILESI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SAKIRPASA AILESI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/567409
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=567409&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/567409
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BASKA BIR GUN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BASKA BIR GUN  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/574857
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=574857&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/574857
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PİYASA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",PİYASA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/577986
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=577986&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/577986
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALI CAPKINI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YALI CAPKINI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551590
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551590&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551590
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ZEMBILLI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ZEMBILLI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/569516
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=569516&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/569516
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ANNEM ANKARA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/563709
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=563709&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/563709
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551910
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551910&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551910
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/566893
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=566893&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/566893
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YABANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YABANI ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551658
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551658&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551658
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YALAN  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551723
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551723&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551723
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Holding  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Holding  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/566613
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=566613&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/566613
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARA AGAC DESTANI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARA AGAC DESTANI ✅✅  SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551587
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551587&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551587
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ASK EVLILIK BOSANMA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ASK EVLILIK BOSANMA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/563576
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=563576&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/563576
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KALPAZAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KALPAZAN  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558150
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551588&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=558150&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/558150
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GIZLI BAHCE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GIZLI BAHCE  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/555536
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=555536&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/555536
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIRLI SEPETI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIRLI SEPETI ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551722
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551722&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551722
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARADUT ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARADUT ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552549
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552549&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552549
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552548
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552548&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552548
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAS KAGIT MAKAS ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",TAS KAGIT MAKAS ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551908
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551908&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551908
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOR NOKTA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KOR NOKTA  ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552462
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=552462&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/552462
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOTU KAN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KOTU KAN ✅✅ SON BOLUM
-http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551588
+http://plusjustone.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=551588&extension=m3u8&live=true 
+#http://plusjustone.xyz:8080/b4h8feZC/cRzefU4/551588
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SINEMA ➾ SALON",KEMAL SUNAL FİLMLERİ
@@ -6162,6 +6483,8 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12367&extension=t
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0408f060-b0bc-4eaa-9547-55fd5a3a7da0.png" group-title="Dini",Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0408f060-b0bc-4eaa-9547-55fd5a3a7da0.png" group-title="Dini",Cubbeli-Ahmet HOCA TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/cubbeli-ahmet.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cc36a4d2-300b-4793-babc-af415560941c.png" group-title="Dini",Camia TV
 http://104.238.23.215/yt.php?ID=UCV3DllKFr6GsLAE_tNr7ucQ
 #EXTINF:1 tvg-id="VavTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3f0ca807-b823-40b7-9056-3f42e6e852b6.png" group-title="Dini",Vav TV

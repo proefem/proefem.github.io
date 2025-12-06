@@ -1991,6 +1991,7 @@ http://185.166.252.230/Zdf/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 http://tv.econet.hr/ProSieben/index.m3u8
 #https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/pro7max/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="ALMAN ➾ TV",SAT.1  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2004,22 +2005,29 @@ http://tv.econet.hr/Kabel1/index.m3u8
 
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="ALMAN ➾ TV",RTL  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
+https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlhd/playlist.m3u8
+#https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="ALMAN ➾ TV",RTL II DE HD
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="ALMAN ➾ TV",RTL 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtl2hd/playlist.m3u8
+#https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="ALMAN ➾ TV",Sixx  HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://strm.hdtvizlecanli.com/live/six.m3u8
 #https://xyz.canlitvplayer.com/sixx/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #https://e-canlitv.mark-clark.workers.dev/?ID=https://www.ecanlitvizle.live/sixx-live-stream-tv/&|user-agent=okhttp/4.12.0
 
 #EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="ALMAN ➾ TV", PRO7 MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://strm.hdtvizlecanli.com/live/pro7max.m3u8
 
 #EXTINF:-1 tvg-id="RTL Nitro.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" group-title="ALMAN ➾ TV", RTL Nitro HD
-https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlnitrohd/playlist.m3u8
+#https://strm.hdtvizlecanli.com/live/nitro.m3u8
 
 #EXTINF:-1 tvg-id="RTL Nitro.de" tvg-logo="http://img.rapidstreams.io/1/data/images/58050_12359_rtlcrime (1).jpg" group-title="ALMAN ➾ TV", RTL Crime HD
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlcrime/playlist.m3u8
@@ -2030,11 +2038,14 @@ https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlpassion/
 #EXTINF:-1 tvg-id="Sat.1 Gold.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png" group-title="ALMAN ➾ TV", SAT1 GOLD HD
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="ALMAN ➾ TV",VOX DE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="ALMAN ➾ TV",VOX HD
 http://tv.econet.hr/Vox/index.m3u8
 #http://185.166.252.230/Vox/index.m3u8
 #https://strm.hdtvizlecanli.com/live/vox.m3u8
 #https://xyz.canlitvplayer.com/vox/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://img.rapidstreams.io/1/data/images/26036_6755_axn.jpg" group-title="ALMAN ➾ TV",AXN HD
+https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="ALMAN ➾ TV",Tele 5 HD
 https://strm.hdtvizlecanli.com/live/tele5.m3u8
@@ -2071,7 +2082,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 
-#EXTINF:-1 tvg-id="MDRSAnhalt.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="ALMAN ➾ TV",MDR SACHSEN-ANHALT HD 
+#EXTINF:-1 tvg-id="MDRSAnhalt.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="ALMAN ➾ TV",MDR  HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
@@ -2129,10 +2140,10 @@ https://jmp2.uk/stvp-DE2900001W0
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://i.postimg.cc/SQzVnq0S/dokusat.png" group-title="ALMAN ➾ TV",Dokusat 
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/10/l1.png" group-title="ALMAN ➾ TV", TLC.de
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/10/l1.png" group-title="ALMAN ➾ TV", TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
 
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="ALMAN ➾ TV", D max.de
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="ALMAN ➾ TV", D max
 http://tv.econet.hr/Dmax/index.m3u8
 #https://strm.hdtvizlecanli.com/live/dmax.m3u8
 #https://xyz.canlitvplayer.com/ddmax/tracks-v1a1/mono.m3u8
@@ -2321,6 +2332,289 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
 
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Das Erste HD DE
+http://50.7.28.226:80/8263/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ARD HD DE
+http://50.7.28.226:80/8762/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ZDF HD DE
+http://50.7.28.226:80/8260/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SWR Fernsehen BW HD DE
+http://50.7.28.226:80/9120/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ"  HD DE
+http://50.7.28.226:80/8264/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sat.1 HD DE
+http://50.7.28.226:80/8255/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SAT.1 GOLD DE
+http://50.7.28.226:80/9142/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL HD DE
+http://50.7.28.226:80/8250/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL 2 HD DE
+http://50.7.28.226:80/8254/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTLup DE
+http://50.7.28.226:80/9113/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL PASSION HD DE
+http://50.7.28.226:80/8773/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL Living HD DE
+http://50.7.28.226:80/9111/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL Crime HD DE
+http://50.7.28.226:80/8274/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RTL Nitro HD DE
+http://50.7.28.226:80/8253/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ProSieben HD DE
+http://50.7.28.226:80/8256/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SIXX HD DE
+http://50.7.28.226:80/8259/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ProSieben Maxx HD DE
+http://50.7.28.226:80/8265/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Kabel Eins HD DE
+http://50.7.28.226:80/8257/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,VOX HD DE
+http://50.7.28.226:80/8262/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,VOXup HD DE
+http://50.7.28.226:80/9116/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ORF 1 HD DE
+http://50.7.28.226:80/8271/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ORF 2 HD DE
+http://50.7.28.226:80/8272/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ATV DE
+http://50.7.28.226:80/8270/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,TELE 5 HD DE
+http://50.7.28.226:80/9141/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Servus TV HD DE
+http://cdn.admuspeh.my/8689/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,HR HD DE
+http://50.7.28.226:80/8279/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,WDR HD DE
+http://50.7.28.226:80/8797/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,NDR HD DE
+http://50.7.28.226:80/8091/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SWR Fernsehen RP HD DE
+http://50.7.28.226:80/9119/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,BR Fernsehen Süd HD DE
+http://50.7.28.226:80/9122/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,rbb fernsehen Berlin HD DE
+http://50.7.28.226:80/9123/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SR Fernsehen HD DE
+http://50.7.28.226:80/9127/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,NIEDERBAYERN TV Landshut HD DE
+http://50.7.28.226:80/9112/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,WELT HD DE
+http://50.7.28.226:80/8798/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,tagesschau24 HD DE
+http://50.7.28.226:80/9125/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,n-tv HD DE
+http://50.7.28.226:80/8251/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Euronews Deutsch DE
+http://50.7.28.226:80/9104/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,RT DE
+http://50.7.28.226:80/8925/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ZDF INFO HD DE
+http://50.7.28.226:80/9129/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ZDFneo HD DE
+http://50.7.28.226:80/9128/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ZDFinfo HD DE
+http://50.7.28.226:80/9129/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,arte HD DE
+http://50.7.28.226:80/8261/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DMAX HD DE
+http://50.7.28.226:80/8291/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SPIEGEL Geschichte HD DE
+http://50.7.28.226:80/8794/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,INULTRA UHD DE
+http://50.7.28.226:80/9115/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,INPLUS HD DE
+http://50.7.28.226:80/9105/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,GEO Television HD DE
+http://50.7.28.226:80/9143/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,NAT GEO WILD HD DE
+http://50.7.28.226:80/8269/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Kabel Eins Doku DE
+http://50.7.28.226:80/9144/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,N24 Doku HD DE
+http://50.7.28.226:80/8258/video.m3u8
+
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ONE HD DE
+http://50.7.28.226:80/9126/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Anixe Serie HD DE
+http://50.7.28.226:80/8275/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ANIXE+ HD DE
+http://50.7.28.226:80/9136/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Syfy HD DE
+http://50.7.28.226:80/8288/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,wedo movies HD DE
+http://50.7.28.226:80/9103/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Romance TV HD DE
+http://cdn.admuspeh.my/8672/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ"  ,Sky Atlantic HD DE
+http://50.7.28.226:80/8289/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Cinema Premieren HD DE
+http://50.7.28.226:80/8286/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Cinema Classics HD DE
+http://50.7.28.226:80/8924/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Cinema Family HD DE
+http://50.7.28.226:80/8775/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Cinema Highlights HD DE
+http://50.7.28.226:80/8362/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ"  ,Sky Cinema Action HD DE
+http://50.7.28.226:80/8283/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky One HD DE
+http://50.7.28.226:80/8921/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Replay HD DE
+http://50.7.28.226:80/8922/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Krimi HD DE
+http://50.7.28.226:80/8781/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Crime HD DE
+http://50.7.28.226:80/8780/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Nature HD DE
+http://50.7.28.226:80/8920/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Documentaries HD DE
+http://50.7.28.226:80/8923/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Warner Film HD DE
+http://50.7.28.226:80/8281/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Warner Comedy HD DE
+http://50.7.28.226:80/8399/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ"  ,Warner Serie HD DE
+http://50.7.28.226:80/8282/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ"  ,13th Street HD DE
+http://cdn.admuspeh.my/8290/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,AXN HD DE
+http://50.7.28.226:80/8646/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Universal Channel HD DE
+http://50.7.28.226:80/8796/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,TOP SERIEN HD DE
+http://50.7.28.226:80/9102/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DAZN 1 HD DE
+http://50.7.28.226:80/8763/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DAZN 2 HD DE
+http://50.7.28.226:80/8764/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Mix HD DE
+http://50.7.28.226:80/8674/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport News HD DE
+http://50.7.28.226:80/8277/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Golf HD DE
+http://50.7.28.226:80/8918/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sports F1 HD DE
+http://50.7.28.226:80/8687/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Prem League HD DE
+http://50.7.28.226:80/8917/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 1 HD DE
+http://50.7.28.226:80/9146/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 2 HD DE
+http://50.7.28.226:80/9147/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 3 HD DE
+http://50.7.28.226:80/8782/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 4 HD DE
+http://50.7.28.226:80/9148/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 5 HD DE
+http://50.7.28.226:80/8784/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 6 HD DE
+http://50.7.28.226:80/9149/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 7 HD DE
+http://50.7.28.226:80/9150/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 8 HD DE
+http://50.7.28.226:80/9151/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 9 HD DE
+http://50.7.28.226:80/9152/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport 10 HD DE
+http://50.7.28.226:80/9153/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga HD DE
+http://50.7.28.226:80/9154/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 1 HD DE
+http://50.7.28.226:80/8278/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 2 HD DE
+http://50.7.28.226:80/8394/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 3 HD DE
+http://50.7.28.226:80/8395/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 4 HD DE
+http://50.7.28.226:80/8396/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 5 HD DE
+http://50.7.28.226:80/9155/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 6 HD DE
+http://50.7.28.226:80/9156/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 7 HD DE
+http://50.7.28.226:80/9157/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 8 HD DE
+http://50.7.28.226:80/9158/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 9 HD DE
+http://50.7.28.226:80/9159/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sky Sport Bundesliga 10 HD DE
+http://50.7.28.226:80/9160/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DF1 HD DE
+http://50.7.28.226:80/9109/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Sport 1 HD DE
+http://50.7.28.226:80/8266/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SPORTDIGITAL FUSSBALL HD DE
+http://50.7.28.226:80/9107/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Red Bull TV HD DE
+http://50.7.28.226:80/9118/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Eurosport 2 HD DE
+http://50.7.28.226:80/8768/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,KIKA HD DE
+http://50.7.28.226:80/8268/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Super RTL HD DE
+http://50.7.28.226:80/8252/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Disney Channel HD DE
+http://50.7.28.226:80/8276/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,TOGGO plus DE
+http://50.7.28.226:80/9114/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Nicktoons DE
+http://50.7.28.226:80/8926/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Nick/Comedy Central+1 DE
+http://50.7.28.226:80/9106/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,COMEDY CENTRAL DE
+http://50.7.28.226:80/8267/video.m3u8
+
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DELUXE MUSIC DE
+http://50.7.28.226:80/8691/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,SCHLAGER DELUXE HD DE
+http://50.7.28.226:80/9138/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ONE MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9100/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,ZWEI MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9101/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,FOLX MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9099/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Stingray Classica HD DE
+http://50.7.28.226:80/9133/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Stingray iConcerts HD DE
+http://50.7.28.226:80/9134/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Stingray DJAZZ HD DE
+http://50.7.28.226:80/9135/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,DMF HD DE
+http://50.7.28.226:80/9098/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,MTV HD DE
+http://50.7.28.226:80/9108/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Jukebox HD DE
+http://50.7.28.226:80/9110/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,sonnenklar.TV HD DE
+http://50.7.28.226:80/9140/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Schlagerparadies.TV HD DE
+http://50.7.28.226:80/9130/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Volksmusik.TV HD DE
+http://50.7.28.226:80/9164/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,Ballermann TV HD DE
+http://50.7.28.226:80/9131/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,K-TV HD DE
+http://50.7.28.226:80/9145/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" -2-3.tv HD DE
+http://50.7.28.226:80/9117/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,HSE HD DE
+http://50.7.28.226:80/9132/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,CHANNEL21 HD DE
+http://50.7.28.226:80/8388/video.m3u8
+#EXTINF:0 group-title="ALMAN ➾TİVİ" ,OUT tv HD DE
+http://50.7.28.226:80/9137/video.m3u8
+
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="Spor ➾TV",RADYO GOL ʜᴅ
 http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
@@ -2357,6 +2651,9 @@ http://vizi.karamehmet.workers.dev/?ID=53
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HABER" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Spor ➾TV",BeIN SPORTS HABER ʜᴅ
 http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="Spor ➾TV"   ,beIN SPORTS 1 fʜᴅ
+#EXTVLCOPT:http-user-agent=NetSurf/2.0 (Linux; i686)
+https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/sports/bein1tr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="Spor ➾TV"   ,beIN SPORTS 1 fʜᴅ
 #EXTVLCOPT:http-user-agent=NetSurf/2.0 (Linux; i686)
 https://nextpulse.sbs/static/bs11.m3u8
@@ -2547,7 +2844,11 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR YILDIZ.tr" tvg-name="TRT SPOR YILDIZ.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="ANDRO ➾ SPORT",TRT SPOR ☆ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrtsy.m3u8
+http://85.209.248.3:9897/trtspor2
+# ? https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-id="TRT SPOR.tr" tvg-name="TRT SPOR.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ANDRO ➾ SPORT",TRT SPOR 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
+http://85.209.248.3:9897/trt3spor
 #EXTINF:-1 tvg-id="TRT SPOR.tr" tvg-name="TRT SPOR.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ANDRO ➾ SPORT",TRT SPOR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android 
 http://50.7.28.226/8827/tracks-v1a1/mono.m3u8
@@ -2557,6 +2858,7 @@ http://50.7.28.226/8827/tracks-v1a1/mono.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 # ? http://50.7.28.226/8930/tracks-v1a1/mono.m3u8
 # ? https://andro.okan9gote10sokan.cfd/checklist/androstreamliveas.m3u8
+# ? https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="NOW" tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ANDRO ➾ SPORT", NOW SPOR HD
 https://goldvod.org/live/hpgdisco/123456/265.m3u8
 #EXTINF:-1 tvg-id="EKOL Sports.tr" tvg-name="EKOL SPORT TR" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/EKOL.SPORT.png" group-title="ANDRO ➾ SPORT",EKOL SPORT HD
@@ -9594,3 +9896,275 @@ http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505562&ext
 http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505561&extension=ts&play_token=aAp2SOOesx
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1505560.png" group-title="4K RELAX 1920P",4K| RELAX AUSTRALIA 4K
 http://line.it-ott.net:80/play/live.php?mac=00:1A:79:C5:17:CF&stream=1505560&extension=ts&play_token=Iash1ppVs2
+
+#EXTINF:0,1-2-3.tv HD DE
+http://50.7.28.226:80/9117/video.m3u8
+#EXTINF:0,ATV DE
+http://50.7.28.226:80/8270/video.m3u8
+#EXTINF:0,AXN HD DE
+http://50.7.28.226:80/8646/video.m3u8
+#EXTINF:0,ARD HD DE
+http://50.7.28.226:80/8762/video.m3u8
+#EXTINF:0,TELE 5 HD DE
+http://50.7.28.226:80/9141/video.m3u8
+#EXTINF:0,ONE HD DE
+http://50.7.28.226:80/9126/video.m3u8
+#EXTINF:0,CHANNEL21 HD DE
+http://50.7.28.226:80/8388/video.m3u8
+#EXTINF:0,Anixe Serie HD DE
+http://50.7.28.226:80/8275/video.m3u8
+#EXTINF:0,ANIXE+ HD DE
+http://50.7.28.226:80/9136/video.m3u8
+#EXTINF:0,NIEDERBAYERN TV Landshut HD DE
+http://50.7.28.226:80/9112/video.m3u8
+#EXTINF:0,SPIEGEL Geschichte HD DE
+http://50.7.28.226:80/8794/video.m3u8
+#EXTINF:0,RT DE
+http://50.7.28.226:80/8925/video.m3u8
+#EXTINF:0,n-tv HD DE
+http://50.7.28.226:80/8251/video.m3u8
+#EXTINF:0,HSE HD DE
+http://50.7.28.226:80/9132/video.m3u8
+#EXTINF:0,NDR HD DE
+http://50.7.28.226:80/8091/video.m3u8
+#EXTINF:0,SWR Fernsehen BW HD DE
+http://50.7.28.226:80/9120/video.m3u8
+#EXTINF:0,SWR Fernsehen RP HD DE
+http://50.7.28.226:80/9119/video.m3u8
+#EXTINF:0,BR Fernsehen Süd HD DE
+http://50.7.28.226:80/9122/video.m3u8
+#EXTINF:0,rbb fernsehen Berlin HD DE
+http://50.7.28.226:80/9123/video.m3u8
+#EXTINF:0,SR Fernsehen HD DE
+http://50.7.28.226:80/9127/video.m3u8
+#EXTINF:0,Euronews Deutsch DE
+http://50.7.28.226:80/9104/video.m3u8
+#EXTINF:0,RTL HD DE
+http://50.7.28.226:80/8250/video.m3u8
+#EXTINF:0,RTL 2 HD DE
+http://50.7.28.226:80/8254/video.m3u8
+#EXTINF:0,RTLup DE
+http://50.7.28.226:80/9113/video.m3u8
+#EXTINF:0,RTL PASSION HD DE
+http://50.7.28.226:80/8773/video.m3u8
+#EXTINF:0,RTL Living HD DE
+http://50.7.28.226:80/9111/video.m3u8
+#EXTINF:0,RTL Crime HD DE
+http://50.7.28.226:80/8274/video.m3u8
+#EXTINF:0,RTL Nitro HD DE
+http://50.7.28.226:80/8253/video.m3u8
+#EXTINF:0,Super RTL HD DE
+http://50.7.28.226:80/8252/video.m3u8
+#EXTINF:0,Sat.1 HD DE
+http://50.7.28.226:80/8255/video.m3u8
+#EXTINF:0,SAT.1 GOLD DE
+http://50.7.28.226:80/9142/video.m3u8
+#EXTINF:0,3sat HD DE
+http://50.7.28.226:80/8264/video.m3u8
+#EXTINF:0,ProSieben HD DE
+http://50.7.28.226:80/8256/video.m3u8
+#EXTINF:0,ProSieben Maxx HD DE
+http://50.7.28.226:80/8265/video.m3u8
+#EXTINF:0,Kabel Eins HD DE
+http://50.7.28.226:80/8257/video.m3u8
+#EXTINF:0,Kabel Eins Doku DE
+http://50.7.28.226:80/9144/video.m3u8
+#EXTINF:0,N24 Doku HD DE
+http://50.7.28.226:80/8258/video.m3u8
+#EXTINF:0,SIXX HD DE
+http://50.7.28.226:80/8259/video.m3u8
+#EXTINF:0,ZDF HD DE
+http://50.7.28.226:80/8260/video.m3u8
+#EXTINF:0,ZDF INFO HD DE
+http://50.7.28.226:80/9129/video.m3u8
+#EXTINF:0,ZDFneo HD DE
+http://50.7.28.226:80/9128/video.m3u8
+#EXTINF:0,ZDFinfo HD DE
+http://50.7.28.226:80/9129/video.m3u8
+#EXTINF:0,VOX HD DE
+http://50.7.28.226:80/8262/video.m3u8
+#EXTINF:0,VOXup HD DE
+http://50.7.28.226:80/9116/video.m3u8
+#EXTINF:0,arte HD DE
+http://50.7.28.226:80/8261/video.m3u8
+#EXTINF:0,Das Erste HD DE
+http://50.7.28.226:80/8263/video.m3u8
+#EXTINF:0,ORF 1 HD DE
+http://50.7.28.226:80/8271/video.m3u8
+#EXTINF:0,ORF 2 HD DE
+http://50.7.28.226:80/8272/video.m3u8
+#EXTINF:0,DF1 HD DE
+http://50.7.28.226:80/9109/video.m3u8
+#EXTINF:0,Warner Film HD DE
+http://50.7.28.226:80/8281/video.m3u8
+#EXTINF:0,Warner Comedy HD DE
+http://50.7.28.226:80/8399/video.m3u8
+#EXTINF:0,Warner Serie HD DE
+http://50.7.28.226:80/8282/video.m3u8
+#EXTINF:0,13th Street HD DE
+http://cdn.admuspeh.my/8290/video.m3u8
+#EXTINF:0,HR HD DE
+http://50.7.28.226:80/8279/video.m3u8
+#EXTINF:0,Syfy HD DE
+http://50.7.28.226:80/8288/video.m3u8
+#EXTINF:0,wedo movies HD DE
+http://50.7.28.226:80/9103/video.m3u8
+#EXTINF:0,WDR HD DE
+http://50.7.28.226:80/8797/video.m3u8
+#EXTINF:0,WELT HD DE
+http://50.7.28.226:80/8798/video.m3u8
+#EXTINF:0,DMAX HD DE
+http://50.7.28.226:80/8291/video.m3u8
+#EXTINF:0,COMEDY CENTRAL DE
+http://50.7.28.226:80/8267/video.m3u8
+#EXTINF:0,NAT GEO WILD HD DE
+http://50.7.28.226:80/8269/video.m3u8
+#EXTINF:0,GEO Television HD DE
+http://50.7.28.226:80/9143/video.m3u8
+#EXTINF:0,tagesschau24 HD DE
+http://50.7.28.226:80/9125/video.m3u8
+#EXTINF:0,Universal Channel HD DE
+http://50.7.28.226:80/8796/video.m3u8
+#EXTINF:0,INPLUS HD DE
+http://50.7.28.226:80/9105/video.m3u8
+#EXTINF:0,INULTRA UHD DE
+http://50.7.28.226:80/9115/video.m3u8
+#EXTINF:0,TOP SERIEN HD DE
+http://50.7.28.226:80/9102/video.m3u8
+#EXTINF:0,OUT tv HD DE
+http://50.7.28.226:80/9137/video.m3u8
+#EXTINF:0,DELUXE MUSIC DE
+http://50.7.28.226:80/8691/video.m3u8
+#EXTINF:0,SCHLAGER DELUXE HD DE
+http://50.7.28.226:80/9138/video.m3u8
+#EXTINF:0,ONE MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9100/video.m3u8
+#EXTINF:0,ZWEI MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9101/video.m3u8
+#EXTINF:0,FOLX MUSIC TELEVISION HD DE
+http://50.7.28.226:80/9099/video.m3u8
+#EXTINF:0,Stingray Classica HD DE
+http://50.7.28.226:80/9133/video.m3u8
+#EXTINF:0,Stingray iConcerts HD DE
+http://50.7.28.226:80/9134/video.m3u8
+#EXTINF:0,Stingray DJAZZ HD DE
+http://50.7.28.226:80/9135/video.m3u8
+#EXTINF:0,DMF HD DE
+http://50.7.28.226:80/9098/video.m3u8
+#EXTINF:0,MTV HD DE
+http://50.7.28.226:80/9108/video.m3u8
+#EXTINF:0,Jukebox HD DE
+http://50.7.28.226:80/9110/video.m3u8
+#EXTINF:0,sonnenklar.TV HD DE
+http://50.7.28.226:80/9140/video.m3u8
+#EXTINF:0,Schlagerparadies.TV HD DE
+http://50.7.28.226:80/9130/video.m3u8
+#EXTINF:0,Volksmusik.TV HD DE
+http://50.7.28.226:80/9164/video.m3u8
+#EXTINF:0,Ballermann TV HD DE
+http://50.7.28.226:80/9131/video.m3u8
+#EXTINF:0,K-TV HD DE
+http://50.7.28.226:80/9145/video.m3u8
+#EXTINF:0,KIKA HD DE
+http://50.7.28.226:80/8268/video.m3u8
+#EXTINF:0,Disney Channel HD DE
+http://50.7.28.226:80/8276/video.m3u8
+#EXTINF:0,TOGGO plus DE
+http://50.7.28.226:80/9114/video.m3u8
+#EXTINF:0,Nicktoons DE
+http://50.7.28.226:80/8926/video.m3u8
+#EXTINF:0,Nick/Comedy Central+1 DE
+http://50.7.28.226:80/9106/video.m3u8
+#EXTINF:0,Sky One HD DE
+http://50.7.28.226:80/8921/video.m3u8
+#EXTINF:0,Sky Documentaries HD DE
+http://50.7.28.226:80/8923/video.m3u8
+#EXTINF:0,Sky Replay HD DE
+http://50.7.28.226:80/8922/video.m3u8
+#EXTINF:0,Sky Nature HD DE
+http://50.7.28.226:80/8920/video.m3u8
+#EXTINF:0,Sky Krimi HD DE
+http://50.7.28.226:80/8781/video.m3u8
+#EXTINF:0,Sky Crime HD DE
+http://50.7.28.226:80/8780/video.m3u8
+#EXTINF:0,Sky Atlantic HD DE
+http://50.7.28.226:80/8289/video.m3u8
+#EXTINF:0,Sky Cinema Premieren HD DE
+http://50.7.28.226:80/8286/video.m3u8
+#EXTINF:0,Sky Cinema Classics HD DE
+http://50.7.28.226:80/8924/video.m3u8
+#EXTINF:0,Sky Cinema Family HD DE
+http://50.7.28.226:80/8775/video.m3u8
+#EXTINF:0,Sky Cinema Highlights HD DE
+http://50.7.28.226:80/8362/video.m3u8
+#EXTINF:0,Sky Cinema Action HD DE
+http://50.7.28.226:80/8283/video.m3u8
+#EXTINF:0,Sky Sport Mix HD DE
+http://50.7.28.226:80/8674/video.m3u8
+#EXTINF:0,Sky Sport News HD DE
+http://50.7.28.226:80/8277/video.m3u8
+#EXTINF:0,Sky Sport Golf HD DE
+http://50.7.28.226:80/8918/video.m3u8
+#EXTINF:0,Sky Sports F1 HD DE
+http://50.7.28.226:80/8687/video.m3u8
+#EXTINF:0,Sky Sport Prem League HD DE
+http://50.7.28.226:80/8917/video.m3u8
+#EXTINF:0,Sky Sport 1 HD DE
+http://50.7.28.226:80/9146/video.m3u8
+#EXTINF:0,Sky Sport 2 HD DE
+http://50.7.28.226:80/9147/video.m3u8
+#EXTINF:0,Sky Sport 3 HD DE
+http://50.7.28.226:80/8782/video.m3u8
+#EXTINF:0,Sky Sport 4 HD DE
+http://50.7.28.226:80/9148/video.m3u8
+#EXTINF:0,Sky Sport 5 HD DE
+http://50.7.28.226:80/8784/video.m3u8
+#EXTINF:0,Sky Sport 6 HD DE
+http://50.7.28.226:80/9149/video.m3u8
+#EXTINF:0,Sky Sport 7 HD DE
+http://50.7.28.226:80/9150/video.m3u8
+#EXTINF:0,Sky Sport 8 HD DE
+http://50.7.28.226:80/9151/video.m3u8
+#EXTINF:0,Sky Sport 9 HD DE
+http://50.7.28.226:80/9152/video.m3u8
+#EXTINF:0,Sky Sport 10 HD DE
+http://50.7.28.226:80/9153/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga HD DE
+http://50.7.28.226:80/9154/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
+http://50.7.28.226:80/8278/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 2 HD DE
+http://50.7.28.226:80/8394/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 3 HD DE
+http://50.7.28.226:80/8395/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 4 HD DE
+http://50.7.28.226:80/8396/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 5 HD DE
+http://50.7.28.226:80/9155/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 6 HD DE
+http://50.7.28.226:80/9156/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 7 HD DE
+http://50.7.28.226:80/9157/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 8 HD DE
+http://50.7.28.226:80/9158/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 9 HD DE
+http://50.7.28.226:80/9159/video.m3u8
+#EXTINF:0,Sky Sport Bundesliga 10 HD DE
+http://50.7.28.226:80/9160/video.m3u8
+#EXTINF:0,Sport 1 HD DE
+http://50.7.28.226:80/8266/video.m3u8
+#EXTINF:0,SPORTDIGITAL FUSSBALL HD DE
+http://50.7.28.226:80/9107/video.m3u8
+#EXTINF:0,Red Bull TV HD DE
+http://50.7.28.226:80/9118/video.m3u8
+#EXTINF:0,Eurosport 2 HD DE
+http://50.7.28.226:80/8768/video.m3u8
+#EXTINF:0,DAZN 1 HD DE
+http://50.7.28.226:80/8763/video.m3u8
+#EXTINF:0,DAZN 2 HD DE
+http://50.7.28.226:80/8764/video.m3u8
+#EXTINF:0,Romance TV HD DE
+http://cdn.admuspeh.my/8672/video.m3u8
+#EXTINF:0,Servus TV HD DE
+http://cdn.admuspeh.my/8689/video.m3u8
+

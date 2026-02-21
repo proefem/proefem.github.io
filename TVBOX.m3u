@@ -71,19 +71,19 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW TV ᴴᴰ⁺™
 https://turkuaz.tecostream.xyz/proxy?url=https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
  #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW TV ᴴᴰ⁺™
-http://95.174.71.114:80/TR-SHOW/playlist.m3u8
+https://helga.iptv2022.com/sh/Show_TV/index.m3u8?|User-Agent=okhttp/3.8.0/|Referer=https://turkcanli.tv/
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺™
 https://trn03.tulix.tv/gt-star-tv1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺™
-http://95.174.71.114:80/TR-STAR/playlist.m3u8
+https://helga.iptv2022.com/sh/Star_TV/index.m3u8?|User-Agent=okhttp/3.8.0/|Referer=https://turkcanli.tv/
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  okhttp/3.8.0 NetSurf/2.0 (Linux; i686)
 #EXTVLCOPT:http-referer=https://turkcanli.tv/
 https://helga.iptv2022.com/sh/kanal_d/index.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  okhttp/3.8.0/&|referer=https://turkcanli.tv/
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
-http://95.174.71.114:80/TR-KANAL-D/playlist.m3u8
+https://trn03.tulix.tv/gt-kanald-1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᴴᴰ⁺™
 https://turkuaz.tecostream.xyz/proxy?url=https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
@@ -234,10 +234,10 @@ https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
-http://95.174.71.114:80/TR-A-HABER/playlist.m3u8
+https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
-http://95.174.71.114:80/TR-CNN-TURK/playlist.m3u8
+http://live.mobi-tv.workers.dev/?ID=770
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
 https://trn03.tulix.tv/gt-haber-globaltv/playlist.m3u8
@@ -267,7 +267,7 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 https://turkuaz.tecostream.xyz/proxy?url=https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺
-http://95.174.71.114:80/TR-NTV/playlist.m3u8
+http://live.mobi-tv.workers.dev/?ID=769
 
 #EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name=" TR" tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="HABER",LİDER HABER ᴴᴰ⁺™
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/playlist.m3u8

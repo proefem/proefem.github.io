@@ -1,0 +1,212 @@
+  <!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>░คŋкค░ TEST TV</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:#0f172a;
+  color:white;
+}
+header{
+  background: linear-gradient(90deg,#0f172a,#111827);
+  padding:20px;
+  text-align:center;
+  font-size:28px;
+  font-weight:bold;
+  letter-spacing:2px;
+  box-shadow:0 4px 20px rgba(0,0,0,0.5);
+  color:#f3f4f6;
+  position:sticky;
+  top:0;
+  z-index:100;
+}
+.container{
+  display:flex;
+  flex-wrap:wrap;
+  min-height:100vh;
+}
+.player{
+  flex:2;
+  padding:20px;
+  min-width:300px;
+  position:relative;
+}
+video{
+  width:100%;
+  border-radius:15px;
+  box-shadow:0 10px 40px rgba(0,0,0,0.8);
+}
+#overlay{
+  position:absolute;
+  top:15px;
+  left:15px;
+  background: rgba(0,0,0,0.5);
+  padding:5px 10px;
+  border-radius:8px;
+  font-weight:bold;
+  display:none;
+}
+.channels{
+  flex:1;
+  background:#111827;
+  height:100vh;
+  overflow:auto;
+  padding:15px;
+  border-left:2px solid rgba(255,255,255,0.1);
+  min-width:200px;
+}
+.search{
+  width:100%;
+  padding:10px;
+  border:none;
+  border-radius:8px;
+  margin-bottom:10px;
+  font-size:15px;
+  outline:none;
+  background:#1f1f1f url('https://cdn-icons-png.flaticon.com/512/622/622669.png') no-repeat 10px center;
+  padding-left:35px;
+  color:white;
+  box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);
+}
+.channel{
+  display:flex;
+  align-items:center;
+  cursor:pointer;
+  padding:12px;
+  border-radius:10px;
+  margin-bottom:8px;
+  background:rgba(255,255,255,0.05);
+  transition:0.3s;
+  justify-content: space-between;
+}
+.channel:hover{
+  background:linear-gradient(90deg,#374151,#1f2937);
+  transform:scale(1.03);
+}
+.favorite{
+  cursor:pointer;
+  font-size:18px;
+  color:#f59e0b;
+}
+.category-title{
+  font-weight:bold;
+  font-size:16px;
+  margin:10px 0 5px 0;
+  color:#fbbf24;
+}
+@media(max-width:768px){
+  .container { flex-direction:column; }
+  .channels { height:auto; border-left:none; border-top:2px solid rgba(255,255,255,0.1); }
+}
+</style>
+</head>
+<body>
+<header>░คŋкค░ TEST TV</header>
+<div class="container">
+  <div class="player">
+    <video id="video" controls autoplay></video>
+    <div id="overlay"></div>
+  </div>
+  <div class="channels">
+    <input class="search" placeholder="Kanal ara..." onkeyup="search(this.value)">
+    <div id="favorites-container">
+      <div class="category-title">⭐ Favoriler</div>
+      <div id="favorites"></div>
+    </div>
+    <div class="category-title">Tüm Kanallar</div>
+    <div id="channels"></div>
+  </div>
+</div>
+
+<script>
+const M3U_URL="https://github.com/tecobaba/tecom3u/raw/main/guncel.m3u";
+let hls;
+let favorites = JSON.parse(localStorage.getItem("favorites")||"[]");
+
+// Kanal oluşturma
+function renderChannel(name, url){
+  let div=document.createElement("div");
+  div.className="channel";
+  div.innerHTML = `
+    <span>${name}</span>
+    <span class="favorite">${favorites.includes(url)?"★":"☆"}</span>
+  `;
+  div.onclick=()=>play(url,name);
+  div.querySelector(".favorite").onclick=e=>{
+    e.stopPropagation();
+    toggleFavorite(url, div, name);
+  }
+  return div;
+}
+
+// M3U yükleme
+fetch(M3U_URL)
+.then(r=>r.text())
+.then(text=>{
+  let lines=text.split("\n");
+  let list=document.getElementById("channels");
+  let favList=document.getElementById("favorites");
+  for(let i=0;i<lines.length;i++){
+    if(lines[i].startsWith("#EXTINF")){
+      let name=lines[i].split(",")[1];
+      let url=lines[i+1];
+      
+      let div = renderChannel(name,url);
+      
+      if(favorites.includes(url)){
+        favList.appendChild(div);
+      } else {
+        list.appendChild(div);
+      }
+    }
+  }
+});
+
+// Video oynatma
+var video=document.getElementById("video");
+var overlay=document.getElementById("overlay");
+function play(url,name){
+  overlay.style.display="block";
+  overlay.innerText=name;
+  
+  if(Hls.isSupported()){
+    if(!hls) hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+  } else {
+    video.src=url;
+  }
+}
+
+// Favori toggle
+function toggleFavorite(url, div, name){
+  let favList = document.getElementById("favorites");
+  let channelList = document.getElementById("channels");
+  
+  if(favorites.includes(url)){
+    favorites = favorites.filter(u=>u!==url);
+    div.querySelector(".favorite").innerText="☆";
+    channelList.appendChild(div);
+  } else {
+    favorites.push(url);
+    div.querySelector(".favorite").innerText="★";
+    favList.appendChild(div);
+  }
+  localStorage.setItem("favorites",JSON.stringify(favorites));
+}
+
+// Arama
+function search(q){
+  q=q.toLowerCase();
+  document.querySelectorAll(".channel").forEach(c=>{
+    let name=c.querySelector("span").innerText.toLowerCase();
+    c.style.display=name.includes(q)?"flex":"none";
+  });
+}
+</script>
+</body>
+</html>

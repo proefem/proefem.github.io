@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSʏꜱᴛᴇᴍ » ☪🛡️",⭕️❫❫❫ 🇹🇷͜͜͡͡✯ ᴘʀᴏᴇғᴇᴍ Update: 07 03 2026  ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ ⫷⫸ 📺🛰️🔺⭕️ 🚨🔥📢🔄
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSʏꜱᴛᴇᴍ » ☪🛡️",⭕️❫❫❫ 🇹🇷͜͜͡͡✯ ᴘʀᴏᴇғᴇᴍ Update: 08 03 2026  ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ ⫷⫸ 📺🛰️🔺⭕️ 🚨🔥📢🔄
 http://104.238.23.182/yt1/s/Beautiful_Relaxing.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSʏꜱᴛᴇᴍ » ☪🛡️",⭕️❫❫❫ RELAXON 🎼 🎶💫
 http://iptv.prosto.tv:7000/ch317/video.m3u8
@@ -653,8 +653,6 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="kika.de" tvg-name="mytimemoviegerman" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"  group-title="ALMAN ➾ TV",mytimemoviegerman HD
 https://appletree-mytimemoviegerman-rakuten.amagi.tv/1080p/index.m3u8
 
-
-
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="ALMAN ➾ TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="ALMAN ➾ TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
@@ -686,10 +684,43 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 channel-id="DEBD4900001QV" tvg-id="DEBD4900001QV" tvg-chno="4575" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20250107T024918SQUARE.png" group-title="ALMAN ➾ TV",Reuters
 https://jmp2.uk/stvp-DEBD4900001QV
 
+
+
+#EXTINF:-1 tvg-name="Sky Sports News DE" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="ALMAN ➾ TV",Sky Sports News DE
+https://smart.freeshot.workers.dev/?ID=SkySportNewsDE
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="ALMAN ➾ TV",Sky Sport F1 DE
+https://smart.freeshot.workers.dev/?ID=SkySportF1DE
+#EXTINF:-1 tvg-name="Sky Sport Premier League DE" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png" group-title="ALMAN ➾ TV",Sky Sport Premier League DE
+https://smart.freeshot.workers.dev/?ID=SkySportPremierLeagueDE
+#EXTINF:-1 tvg-name="DAZN 1 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="ALMAN ➾ TV",DAZN 1 DE
+https://smart.freeshot.workers.dev/?ID=DAZN1DE
+#EXTINF:-1 tvg-name="DAZN 2 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="ALMAN ➾ TV",DAZN 2 DE
+https://smart.freeshot.workers.dev/?ID=DAZN2DE
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://freeshot.live/upload/source/sky-sports-bundesliga-logo.png" group-title="ALMAN ➾ TV",Sky Sport Bundesliga DE
+https://smart.freeshot.workers.dev/?ID=SkySportBundesliga
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="ALMAN ➾ TV",Sky Sport Mix DE
+https://smart.freeshot.workers.dev/?ID=SkySportMixDE
 #EXTINF:-1 tvg-id="SPORT1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-de.png" group-title="ALMAN ➾ TV",Sport1 Germany
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   
-http://tv.econet.hr/Sport1/index.m3u8
-
+https://smart.freeshot.workers.dev/?ID=Sport1DE
+#EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="ALMAN ➾ TV",EUROSPORT 1 DE
+https://smart.freeshot.workers.dev/?ID=EurosportDE1
+#EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="ALMAN ➾ TV",EUROSPORT 2 DE
+https://smart.freeshot.workers.dev/?ID=EurosportDE2
+#EXTINF:-1 tvg-name="Sky Sport Austria 1" tvg-logo="https://freeshot.live/upload/source/SkySportAustria-logo.png" group-title="ALMAN ➾ TV",Sky Sport Austria 1
+https://smart.freeshot.workers.dev/?ID=SkySportAustria
+#EXTINF:-1 tvg-name="Sky Sport Golf DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="ALMAN ➾ TV",Sky Sport Golf DE
+https://smart.freeshot.workers.dev/?ID=SkySportGolfDE
+#EXTINF:-1 tvg-name="Sky Atlantic Deutschland" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="ALMAN ➾ TV",Sky Atlantic Deutschland
+https://smart.freeshot.workers.dev/?ID=SkyAtlanticDE
+#EXTINF:-1 tvg-name="Sky Sports Tennis DE" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="ALMAN ➾ TV",Sky Sports Tennis DE
+https://smart.freeshot.workers.dev/?ID=SkySportTennisDE
+#EXTINF:-1 tvg-name="Sky Sport top event DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-top-event.png" group-title="ALMAN ➾ TV",Sky Sport top event DE
+https://smart.freeshot.workers.dev/?ID=SkySporttopeventDE
+#EXTINF:-1 tvg-name="ServusTV DE" tvg-logo="https://freeshot.live/upload/source/ServusTV-logo.png" group-title="ALMAN ➾ TV",ServusTV DE
+https://smart.freeshot.workers.dev/?ID=ServusTV
+#EXTINF:-1 tvg-name="Sportdigital DE" tvg-logo="https://freeshot.live/upload/source/Sportdigital-logo.png" group-title="ALMAN ➾ TV",Sportdigital DE
+https://smart.freeshot.workers.dev/?ID=Sportdigital
 #EXTINF:-1 channel-id="DEBD260000692" tvg-id="DEBD260000692" tvg-chno="4641" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png" group-title="ALMAN ➾ TV",Fußball Scooore
 https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 channel-id="660bfc032433010008def35a" tvg-id="660bfc032433010008def35a" tvg-chno="83" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc032433010008def35a/colorLogoPNG_1750064741845.png" group-title="ALMAN ➾ TV",FIFA+
@@ -727,7 +758,6 @@ https://jmp2.uk/stvp-DEBA2200008NL
 #EXTINF:-1 channel-id="DE2000007B5" tvg-id="DE2000007B5" tvg-chno="4606" tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20250729T044929SQUARE.png" group-title="ALMAN ➾ TV",Tennis+
 https://jmp2.uk/stvp-DE2000007B5
 
-
 #EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de"  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png" group-title="ALMAN ➾ TV",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
 
@@ -754,6 +784,210 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-logo="https://i.postimg.cc/gkcVv6rK/hse.png" group-title="ALMAN ➾ TV",HSE
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Rally TV" tvg-logo="https://freeshot.live/upload/source/RallyTV-logo.png" group-title="UK ➾ TV",Rally TV
+https://smart.freeshot.workers.dev/?ID=RallyTV
+#EXTINF:-1 tvg-name="Gold UK" tvg-logo="https://freeshot.live/upload/source/GoldUK-logo.png" group-title="UK ➾ TV",Gold UK
+https://smart.freeshot.workers.dev/?ID=GoldUK
+#EXTINF:-1 tvg-name="Film4 UK" tvg-logo="https://freeshot.live/upload/source/Film4-logo.png" group-title="UK ➾ TV",Film4 UK
+https://smart.freeshot.workers.dev/?ID=Film4UK
+#EXTINF:-1 tvg-name="S4C UK" tvg-logo="https://freeshot.live/upload/source/S4C-logo.png" group-title="UK ➾ TV",S4C UK
+https://smart.freeshot.workers.dev/?ID=S4CUK
+#EXTINF:-1 tvg-name="Sky History UK" tvg-logo="https://freeshot.live/upload/source/Sky-History-logo.png" group-title="UK ➾ TV",Sky History UK
+https://smart.freeshot.workers.dev/?ID=SkyHistoryUK
+#EXTINF:-1 tvg-name="Sky Crime UK" tvg-logo="https://freeshot.live/upload/source/Sky-Crime-logo.png" group-title="UK ➾ TV",Sky Crime UK
+https://smart.freeshot.workers.dev/?ID=SkyCrimeUK
+#EXTINF:-1 tvg-name="Sky Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Comedy-logo.png" group-title="UK ➾ TV",Sky Comedy UK
+https://smart.freeshot.workers.dev/?ID=SkyComedyUK
+#EXTINF:-1 tvg-name="Sky Arts UK" tvg-logo="https://freeshot.live/upload/source/Sky-Arts-logo.png" group-title="UK ➾ TV",Sky Arts UK
+https://smart.freeshot.workers.dev/?ID=SkyArtsUK
+#EXTINF:-1 tvg-name="Sky Showcase" tvg-logo="https://freeshot.live/upload/source/Sky-Showcase-logo.png" group-title="UK ➾ TV",Sky Showcase
+https://smart.freeshot.workers.dev/?ID=SkyShowcaseUK
+#EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://freeshot.live/upload/source/Sky_Cinema_Sci-Fi_Horror-logo.png" group-title="UK ➾ TV",Sky Cinema Sci-Fi Horror UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaSci-FiHorrorUK
+#EXTINF:-1 tvg-name="Sky Cinema Drama UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Drama-logo.png" group-title="UK ➾ TV",Sky Cinema Drama UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaDramaUK
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Thriller-logo.png" group-title="UK ➾ TV",Sky Cinema Thriller UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaThrillerUK
+#EXTINF:-1 tvg-name="Sky Cinema Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Comedy-logo.png" group-title="UK ➾ TV",Sky Cinema Comedy UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaComedyUK
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Action-logo.png" group-title="UK ➾ TV",Sky Cinema Action UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaActionUK
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Family-logo.png" group-title="UK ➾ TV",Sky Cinema Family UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaFamilyUK
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Animation-logo.png" group-title="UK ➾ TV",Sky Cinema Animation UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaAnimationUK
+#EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Hits-logo.png" group-title="UK ➾ TV",Sky Cinema Hits UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaHitsUK
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaGreats-logo.png" group-title="UK ➾ TV",Sky Cinema Greats UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaGreatsUK
+#EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaSelect-logo.png" group-title="UK ➾ TV",Sky Cinema Select UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaSelectUK
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Premiere-logo.png" group-title="UK ➾ TV",Sky Cinema Premiere UK
+https://smart.freeshot.workers.dev/?ID=SkyCinemaPremiereUK
+#EXTINF:-1 tvg-name="DAZN Club World Cup" tvg-logo="https://freeshot.live/upload/source/FIFA_Club_World_Cup_2025.png" group-title="UK ➾ TV",DAZN Club World Cup
+https://smart.freeshot.workers.dev/?ID=ClubWorldCup
+#EXTINF:-1 tvg-name="BBC News UK" tvg-logo="https://freeshot.live/upload/source/BBCNews-logo.png" group-title="UK ➾ TV",BBC News UK
+https://smart.freeshot.workers.dev/?ID=BBCNewsUK
+#EXTINF:-1 tvg-name="MTV UK" tvg-logo="https://freeshot.live/upload/source/MTV-logo.png" group-title="UK ➾ TV",MTV UK
+https://smart.freeshot.workers.dev/?ID=MTVUK
+#EXTINF:-1 tvg-name="ITV4 UK" tvg-logo="https://freeshot.live/upload/source/ITV4-logo.png" group-title="UK ➾ TV",ITV4 UK
+https://smart.freeshot.workers.dev/?ID=ITV4
+#EXTINF:-1 tvg-name="ITV3 UK" tvg-logo="https://freeshot.live/upload/source/ITV3-logo.png" group-title="UK ➾ TV",ITV3 UK
+https://smart.freeshot.workers.dev/?ID=ITV3
+#EXTINF:-1 tvg-name="ITV2 UK" tvg-logo="https://freeshot.live/upload/source/ITV2-logo.png" group-title="UK ➾ TV",ITV2 UK
+https://smart.freeshot.workers.dev/?ID=ITV2
+#EXTINF:-1 tvg-name="ITV1 UK" tvg-logo="https://freeshot.live/upload/source/ITV1-logo.png" group-title="UK ➾ TV",ITV1 UK
+https://smart.freeshot.workers.dev/?ID=ITV1
+#EXTINF:-1 tvg-name="BBC Three UK" tvg-logo="https://freeshot.live/upload/source/BBCThree-logo.png" group-title="UK ➾ TV",BBC Three UK
+https://smart.freeshot.workers.dev/?ID=BBCThreeUK
+#EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="https://freeshot.live/upload/source/BBCTwo-logo.png" group-title="UK ➾ TV",BBC Two UK
+https://smart.freeshot.workers.dev/?ID=BBCTwoUK
+#EXTINF:-1 tvg-name="BBC One UK" tvg-logo="https://freeshot.live/upload/source/BBCone-logo.png" group-title="UK ➾ TV",BBC One UK
+https://smart.freeshot.workers.dev/?ID=BBConeUK
+#EXTINF:-1 tvg-name="Sky Sports Tennis UK" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="UK ➾ TV",Sky Sports Tennis UK
+https://smart.freeshot.workers.dev/?ID=SkySportsTennisUK
+#EXTINF:-1 tvg-name="Horse and Country" tvg-logo="https://freeshot.live/upload/source/HorseandCountry-logo.png" group-title="UK ➾ TV",Horse and Country
+https://smart.freeshot.workers.dev/?ID=HorseandCountry
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://freeshot.live/upload/source/Sky_news_logo.png" group-title="UK ➾ TV",Sky News
+https://smart.freeshot.workers.dev/?ID=SkyNews
+#EXTINF:-1 tvg-name="Real Madrid TV UK" tvg-logo="https://freeshot.live/upload/source/realmadrid-tv-logo.png" group-title="UK ➾ TV",Real Madrid TV UK
+https://smart.freeshot.workers.dev/?ID=RealMadridTVUK
+#EXTINF:-1 tvg-name="LFCTV UK" tvg-logo="https://freeshot.live/upload/source/LFCTV_logo.png" group-title="UK ➾ TV",LFCTV UK
+https://smart.freeshot.workers.dev/?ID=LFCTV
+#EXTINF:-1 tvg-name="Racing TV UK" tvg-logo="https://freeshot.live/upload/source/RacingTV-logo.png" group-title="UK ➾ TV",Racing TV UK
+https://smart.freeshot.workers.dev/?ID=RacingTV
+#EXTINF:-1 tvg-name="La Liga TV UK" tvg-logo="https://freeshot.live/upload/source/LaLigaTV-logo.png" group-title="UK ➾ TV",La Liga TV UK
+https://smart.freeshot.workers.dev/?ID=LaLigaTVUK
+#EXTINF:-1 tvg-name="Premier Sports 2 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="UK ➾ TV",Premier Sports 2 UK
+https://smart.freeshot.workers.dev/?ID=PremierSports2
+#EXTINF:-1 tvg-name="Premier Sports 1 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="UK ➾ TV",Premier Sports 1 UK
+https://smart.freeshot.workers.dev/?ID=PremierSports1
+#EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://freeshot.live/upload/source/sky-sports-NFL-logo.png" group-title="UK ➾ TV",Sky Sports NFL
+https://smart.freeshot.workers.dev/?ID=SkySportsNFL
+#EXTINF:-1 tvg-name="Free Sports" tvg-logo="https://freeshot.live/upload/source/FreeSports-logo.png" group-title="UK ➾ TV",Free Sports
+https://smart.freeshot.workers.dev/?ID=FreeSports
+#EXTINF:-1 tvg-name="Motor Racing" tvg-logo="https://freeshot.live/upload/source/MotorsTV-logo.png" group-title="UK ➾ TV",Motor Racing
+https://smart.freeshot.workers.dev/?ID=MotorRacing
+#EXTINF:-1 tvg-name="U&amp;Dave UK" tvg-logo="https://freeshot.live/upload/source/Dave-UK-logo.png" group-title="UK ➾ TV",U&amp;Dave UK
+https://smart.freeshot.workers.dev/?ID=Dave
+#EXTINF:-1 tvg-name="MUTV UK" tvg-logo="https://freeshot.live/upload/source/MUTV-logo.png" group-title="UK ➾ TV",MUTV UK
+https://smart.freeshot.workers.dev/?ID=MUTV
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-racing-logo.png" group-title="UK ➾ TV",Sky Sports Racing UK
+https://smart.freeshot.workers.dev/?ID=SkySportsRacing
+#EXTINF:-1 tvg-name="EUROSPORT 2 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="UK ➾ TV",EUROSPORT 2 UK
+https://smart.freeshot.workers.dev/?ID=Eurosport2UK
+#EXTINF:-1 tvg-name="EUROSPORT 1 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="UK ➾ TV",EUROSPORT 1 UK
+https://smart.freeshot.workers.dev/?ID=Eurosport1UK
+#EXTINF:-1 tvg-name="Sky Atlantic UK" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="UK ➾ TV",Sky Atlantic UK
+https://smart.freeshot.workers.dev/?ID=SkyAtlanticUK
+#EXTINF:-1 tvg-name="Sky Sports LaLiga UK" tvg-logo="https://freeshot.live/upload/source/SkySportsLaLiga-logo.png" group-title="UK ➾ TV",Sky Sports LaLiga UK
+https://smart.freeshot.workers.dev/?ID=SkySportsLaLigaUK
+#EXTINF:-1 tvg-name="Sky Sports Mix UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="UK ➾ TV",Sky Sports Mix UK
+https://smart.freeshot.workers.dev/?ID=SkySportMix
+#EXTINF:-1 tvg-name="Sky Sports Plus UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-plus-logo.png" group-title="UK ➾ TV",Sky Sports Plus UK
+https://smart.freeshot.workers.dev/?ID=SkySportsPlus
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Action_logo.png" group-title="UK ➾ TV",Sky Sports Action UK
+https://smart.freeshot.workers.dev/?ID=SkySportAction
+#EXTINF:-1 tvg-name="Sky Sports Cricket UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-cricket-logo.png" group-title="UK ➾ TV",Sky Sports Cricket UK
+https://smart.freeshot.workers.dev/?ID=SkySportsCricket
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="UK ➾ TV",Sky Sports Golf UK
+https://smart.freeshot.workers.dev/?ID=SkySportGolf
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="UK ➾ TV",Sky Sports F1 UK
+https://smart.freeshot.workers.dev/?ID=SkySportF1
+#EXTINF:-1 tvg-name="Sky Sports Premier League UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="UK ➾ TV",Sky Sports Premier League UK
+https://smart.freeshot.workers.dev/?ID=SkySportsPremierLeague
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="UK ➾ TV",Sky Sports News UK
+https://smart.freeshot.workers.dev/?ID=SkySportsNews
+#EXTINF:-1 tvg-name="Sky Sports Main Event Live UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png" group-title="UK ➾ TV",Sky Sports Main Event Live UK
+https://smart.freeshot.workers.dev/?ID=SkySportsMainEvent
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-football-logo.png" group-title="UK ➾ TV",Sky Sports Football UK
+https://smart.freeshot.workers.dev/?ID=SkySportsFootball
+#EXTINF:-1 tvg-name="TNT SPORTS 4 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-4-logo.png" group-title="UK ➾ TV",TNT SPORTS 4 UK
+https://smart.freeshot.workers.dev/?ID=BTSPORT4UK
+#EXTINF:-1 tvg-name="TNT SPORTS 3 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-3-logo.png" group-title="UK ➾ TV",TNT SPORTS 3 UK
+https://smart.freeshot.workers.dev/?ID=BTSPORT3UK
+#EXTINF:-1 tvg-name="TNT SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-2-logo.png" group-title="UK ➾ TV",TNT SPORTS 2 UK
+https://smart.freeshot.workers.dev/?ID=BTSPORT2UK
+#EXTINF:-1 tvg-name="TNT SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-1-logo.png" group-title="UK ➾ TV",TNT SPORTS 1 UK
+https://smart.freeshot.workers.dev/?ID=BTSPORT1UK
+#EXTINF:-1 tvg-name="beIN SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="UK ➾ TV",beIN SPORTS 2 UK
+https://smart.freeshot.workers.dev/?ID=beINSPORTS2EN
+#EXTINF:-1 tvg-name="beIN SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="UK ➾ TV",beIN SPORTS 1 UK
+https://smart.freeshot.workers.dev/?ID=beINSPORTS1EN
+#EXTINF:-1 tvg-name="SYFY USA" tvg-logo="https://freeshot.live/upload/source/Syfy-logo.png" group-title="USA ➾ TV",SYFY USA
+https://smart.freeshot.workers.dev/?ID=SYFYUSA
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://freeshot.live/upload/source/Nickelodeon-logo.png" group-title="USA ➾ TV",Nickelodeon
+https://smart.freeshot.workers.dev/?ID=Nickelodeon
+#EXTINF:-1 tvg-name="HLN" tvg-logo="https://freeshot.live/upload/source/HLN-logo.png" group-title="USA ➾ TV",HLN
+https://smart.freeshot.workers.dev/?ID=HLN
+#EXTINF:-1 tvg-name="TLC USA" tvg-logo="https://freeshot.live/upload/source/TLC-logo.png" group-title="USA ➾ TV",TLC USA
+https://smart.freeshot.workers.dev/?ID=TLC
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="https://freeshot.live/upload/source/Bravo-logo.png" group-title="USA ➾ TV",Bravo
+https://smart.freeshot.workers.dev/?ID=BravoTV
+#EXTINF:-1 tvg-name="UniMás" tvg-logo="https://freeshot.live/upload/source/UniMas-logo.png" group-title="USA ➾ TV",UniMás
+https://smart.freeshot.workers.dev/?ID=UniMas
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://freeshot.live/upload/source/Telemundo-logo.png" group-title="USA ➾ TV",Telemundo
+https://smart.freeshot.workers.dev/?ID=Telemundo
+#EXTINF:-1 tvg-name="ESPNU USA" tvg-logo="https://freeshot.live/upload/source/ESPNU-logo.png" group-title="USA ➾ TV",ESPNU USA
+https://smart.freeshot.workers.dev/?ID=ESPNUUSA
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://freeshot.live/upload/source/AMC-logo.png" group-title="USA ➾ TV",AMC USA
+https://smart.freeshot.workers.dev/?ID=AMCUSA
+#EXTINF:-1 tvg-name="A&amp;E" tvg-logo="https://freeshot.live/upload/source/TV-Network-logo.png" group-title="USA ➾ TV",A&amp;E
+https://smart.freeshot.workers.dev/?ID=TV-network
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="https://freeshot.live/upload/source/Freeform-logo.png" group-title="USA ➾ TV",Freeform
+https://smart.freeshot.workers.dev/?ID=Freeform
+#EXTINF:-1 tvg-name="Animal Planet USA" tvg-logo="https://freeshot.live/upload/source/Animal-Planet-logo.png" group-title="USA ➾ TV",Animal Planet USA
+https://smart.freeshot.workers.dev/?ID=AnimalPlanet
+#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="https://freeshot.live/upload/source/HallmarkChannel-logo.png" group-title="USA ➾ TV",Hallmark Channel
+https://smart.freeshot.workers.dev/?ID=HallmarkChannel
+#EXTINF:-1 tvg-name="Game Show Network" tvg-logo="https://freeshot.live/upload/source/GameShowNetwork-logo.png" group-title="USA ➾ TV",Game Show Network
+https://smart.freeshot.workers.dev/?ID=GameShowNetwork
+#EXTINF:-1 tvg-name="Oprah Winfrey Network" tvg-logo="https://freeshot.live/upload/source/OprahWinfreyNetwork-logo.png" group-title="USA ➾ TV",Oprah Winfrey Network
+https://smart.freeshot.workers.dev/?ID=OprahWinfreyNetwork
+#EXTINF:-1 tvg-name="Lifetime Movie Network" tvg-logo="https://freeshot.live/upload/source/LMN-logo.png" group-title="USA ➾ TV",Lifetime Movie Network
+https://smart.freeshot.workers.dev/?ID=LMN
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="https://freeshot.live/upload/source/The_Weather_Channel-logo.png" group-title="USA ➾ TV",The Weather Channel
+https://smart.freeshot.workers.dev/?ID=TheWeatherChannel
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://freeshot.live/upload/source/HGTV-logo.png" group-title="USA ➾ TV",HGTV
+https://smart.freeshot.workers.dev/?ID=HGTV
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://freeshot.live/upload/source/FOXNews-logo.png" group-title="USA ➾ TV",Fox News
+https://smart.freeshot.workers.dev/?ID=FOXNews
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://freeshot.live/upload/source/cbs_sports_network-logo.png" group-title="USA ➾ TV",CBS Sports Network
+https://smart.freeshot.workers.dev/?ID=CBS-SportsNetwork
+#EXTINF:-1 tvg-name="Willow Xtra" tvg-logo="https://freeshot.live/upload/source/WillowXtra-logo.png" group-title="USA ➾ TV",Willow Xtra
+https://smart.freeshot.workers.dev/?ID=WillowExtra
+#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://freeshot.live/upload/source/FoxSoccerPlus.png" group-title="USA ➾ TV",Fox Soccer Plus
+https://smart.freeshot.workers.dev/?ID=FoxSoccerPlus
+#EXTINF:-1 tvg-name="NBC Golf" tvg-logo="https://freeshot.live/upload/source/NBCGolf-logo.png" group-title="USA ➾ TV",NBC Golf
+https://smart.freeshot.workers.dev/?ID=NBCGolf
+#EXTINF:-1 tvg-name="Tennis Channel +1" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="USA ➾ TV",Tennis Channel +1
+https://smart.freeshot.workers.dev/?ID=TennisChannel+1
+#EXTINF:-1 tvg-name="SEC ESPN USA" tvg-logo="https://freeshot.live/upload/source/SEC-ESPN-Network-logo.png" group-title="USA ➾ TV",SEC ESPN USA
+https://smart.freeshot.workers.dev/?ID=SEC-ESPN-Network
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="https://freeshot.live/upload/source/Fox-Deportes-logo.png" group-title="USA ➾ TV",FOX DEPORTES
+https://smart.freeshot.workers.dev/?ID=FoxDeportes
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="USA ➾ TV",Tennis Channel
+https://smart.freeshot.workers.dev/?ID=TennisChannel
+#EXTINF:-1 tvg-name="WWE Network USA" tvg-logo="https://freeshot.live/upload/source/WWE-channel-logo.png" group-title="USA ➾ TV",WWE Network USA
+https://smart.freeshot.workers.dev/?ID=WWETV
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://freeshot.live/upload/source/Willow_Cricket_logo.png" group-title="USA ➾ TV",Willow Cricket
+https://smart.freeshot.workers.dev/?ID=WillowCricket
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://freeshot.live/upload/source/NBA-TV-logo.png" group-title="USA ➾ TV",NBA TV
+https://smart.freeshot.workers.dev/?ID=NBATVUSA
+#EXTINF:-1 tvg-name="BeIN Sports USA" tvg-logo="https://freeshot.live/upload/source/bein-sports-USA-logo.png" group-title="USA ➾ TV",BeIN Sports USA
+https://smart.freeshot.workers.dev/?ID=BeINSportsUSA
+#EXTINF:-1 tvg-name="CNN USA" tvg-logo="https://freeshot.live/upload/source/CNN-logo.png" group-title="USA ➾ TV",CNN USA
+https://smart.freeshot.workers.dev/?ID=CNNUSA
+#EXTINF:-1 tvg-name="FOX SPORTS 2 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-logo.png" group-title="USA ➾ TV",FOX SPORTS 2 USA
+https://smart.freeshot.workers.dev/?ID=FOXSPORTS2USA
+#EXTINF:-1 tvg-name="FOX SPORTS 1 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-1.png" group-title="USA ➾ TV",FOX SPORTS 1 USA
+https://smart.freeshot.workers.dev/?ID=FOXSPORTS1USA
+#EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="https://freeshot.live/upload/source/ESPN-2-USA-logo.png" group-title="USA ➾ TV",ESPN 2 USA
+https://smart.freeshot.workers.dev/?ID=ESPN2USA
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://freeshot.live/upload/source/ESPN-USA-logo.png" group-title="USA ➾ TV",ESPN USA
+https://smart.freeshot.workers.dev/?ID=ESPNUSA
 
 
 
@@ -1502,462 +1736,116 @@ https://live.duhnet.tv/S2/HLS_LIVE/sisalsansenp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN 1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="GEMISTA ➾ SPORT",DAZN 1 DE
-https://stream.yiannisko-10f.workers.dev/sid=DAZNDE
-#https://stream.yiannisko-10f.workers.dev/fs_seg/DAZNDE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="DAZN 2 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="GEMISTA ➾ SPORT",DAZN 2 DE
-https://stream.yiannisko-10f.workers.dev/sid=DAZN2DE
-#https://stream.yiannisko-10f.workers.dev/fs_seg/DAZN2DE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-name="SportDigital DE" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportdigital-fussball.png" group-title="GEMISTA ➾ SPORT",SportDigital DE
-https://stream.yiannisko-10f.workers.dev/sid=sportdigitalfussball
-#EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-name="Sky Sport News DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport News DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsNewsDE
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Bundesliga DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsBundesliga
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-austria-1-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Austria 1
-https://stream.yiannisko-10f.workers.dev/sid=SkySportAustria
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Premier League DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportPremierLeagueDE
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Top Event DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportTopEvent
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sport Tennis DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Tennis DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsTennisDE
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="GEMISTA ➾ SPORT",Sky Sport Mix DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMixDE
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports News
-https://stream.yiannisko-10f.workers.dev/sid=skysportsnews
-#https://stream.yiannisko-10f.workers.dev/fs_seg/skysportsnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports Main Event
-https://stream.yiannisko-10f.workers.dev/sid=skysportsmainevent
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports Football
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsFootballUK
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports Premier League
-https://stream.yiannisko-10f.workers.dev/sid=skysportspremierleague
-#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports+
-https://stream.yiannisko-10f.workers.dev/sid=skysportsplus
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports Tennis
-https://stream.yiannisko-10f.workers.dev/sid=skysportstennisuk
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports F1
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsF1
-#https://stream.yiannisko-10f.workers.dev/fs_seg/SkySportsF1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports Mix
-https://stream.yiannisko-10f.workers.dev/sid=skysportsmixuk
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="GEMISTA ➾ SPORT",Sky Sports NFL
-https://stream.yiannisko-10f.workers.dev/sid=skysportsaction
-#EXTINF:-1 tvg-id="laliga-tv.uk" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/laliga-tv-uk.png" group-title="GEMISTA ➾ SPORT",LaLiga TV
-https://stream.yiannisko-10f.workers.dev/sid=ViaplayLaLigaUK
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="GEMISTA ➾ SPORT",TNT Sports 1
-https://stream.yiannisko-10f.workers.dev/sid=TNT1UK
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="GEMISTA ➾ SPORT",TNT Sports 2
-https://stream.yiannisko-10f.workers.dev/sid=tntsports2
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="GEMISTA ➾ SPORT",TNT Sports 3
-https://stream.yiannisko-10f.workers.dev/sid=tntsports3
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="GEMISTA ➾ SPORT",TNT Sports 4
-https://stream.yiannisko-10f.workers.dev/sid=tntsports4
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="GEMISTA ➾ SPORT",Premier Sports 1
-https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="GEMISTA ➾ SPORT",Premier Sports 2
-https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS2
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="GEMISTA ➾ SPORT",CBS Sports Network
-https://stream.yiannisko-10f.workers.dev/sid=CBSSPORTSNETWORK
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" group-title="GEMISTA ➾ SPORT",FS1
-https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS1
-#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" group-title="GEMISTA ➾ SPORT",FS2
-https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS2
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="GEMISTA ➾ SPORT",ESPN
-https://stream.yiannisko-10f.workers.dev/sid=ESPN
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="GEMISTA ➾ SPORT",ESPN 2
-https://stream.yiannisko-10f.workers.dev/sid=ESPN2
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="GEMISTA ➾ SPORT",beIN SPORTS USA
-https://stream.yiannisko-10f.workers.dev/sid=beINSPORTSUS
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-hz-us.png" group-title="GEMISTA ➾ SPORT",Tennis Channel
-https://stream.yiannisko-10f.workers.dev/sid=TENNISCHANNEL
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="ESPN SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-hz-us.png" group-title="GEMISTA ➾ SPORT",ESPN SEC Network
-https://stream.yiannisko-10f.workers.dev/sid=ESPNSECNETWORK
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="GEMISTA ➾ SPORT",ESPN U
-https://stream.yiannisko-10f.workers.dev/sid=ESPNU
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-name="FOX Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-us.png" group-title="GEMISTA ➾ SPORT",FOX Deportes
-https://stream.yiannisko-10f.workers.dev/sid=FOXDEPORTES
-#EXTINF:-1 tvg-id="TSN.HD.ca2" tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="GEMISTA ➾ SPORT",TSN1
-https://stream.yiannisko-10f.workers.dev/sid=TSN1
-#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="GEMISTA ➾ SPORT",TSN2
-https://stream.yiannisko-10f.workers.dev/sid=TSN2
-#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="GEMISTA ➾ SPORT",TSN3
-https://stream.yiannisko-10f.workers.dev/sid=TSN3
-#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="GEMISTA ➾ SPORT",TSN4
-https://stream.yiannisko-10f.workers.dev/sid=TSN4
-#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="GEMISTA ➾ SPORT",TSN5
-https://stream.yiannisko-10f.workers.dev/sid=TSN5
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet 360
-https://stream.yiannisko-10f.workers.dev/sid=Sportsnet360
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet One
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetOne
-#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet East
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetEast
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="Sportsnet West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet West
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetWest
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="Sportsnet Ontario" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet Ontario
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetOntario
-#EXTINF:-1 tvg-id="Sportsnet.World.ca2" tvg-name="Sportsnet World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png" group-title="GEMISTA ➾ SPORT",Sportsnet World
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetWorld
-#EXTINF:-1 tvg-id="TVA.Sports.HD.ca2" tvg-name="TVA Sports CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="GEMISTA ➾ SPORT",TVA Sports CA
-https://stream.yiannisko-10f.workers.dev/sid=TVASports
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LaLiga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="GEMISTA ➾ SPORT",DAZN LaLiga
-https://stream.yiannisko-10f.workers.dev/sid=DAZNLaLiga
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="GEMISTA ➾ SPORT",DAZN 1 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN1ES
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="GEMISTA ➾ SPORT",DAZN 2 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN2ES
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="GEMISTA ➾ SPORT",DAZN 3 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN3ES
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="GEMISTA ➾ SPORT",DAZN 4 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN4ES
-#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="GEMISTA ➾ SPORT",Movistar Deportes
-https://stream.yiannisko-10f.workers.dev/sid=MDEPORTES
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="Movistar LaLiga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="GEMISTA ➾ SPORT",Movistar LaLiga
-https://stream.yiannisko-10f.workers.dev/sid=LALIGAES
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="GEMISTA ➾ SPORT",Teledeporte
-https://stream.yiannisko-10f.workers.dev/sid=TELEDEPORTEES
-#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="Vamos!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="GEMISTA ➾ SPORT",Vamos!
-https://stream.yiannisko-10f.workers.dev/sid=VamosES
-#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="Movistar Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="GEMISTA ➾ SPORT",Movistar Liga de Campeones
-https://stream.yiannisko-10f.workers.dev/sid=MLIGADECAMPEONES
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="GEMISTA ➾ SPORT",Rai Sport
-https://stream.yiannisko-10f.workers.dev/sid=RAISportIT
-#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-name="DAZN IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dazn-channel-it.png" group-title="GEMISTA ➾ SPORT",DAZN IT
-https://stream.yiannisko-10f.workers.dev/sid=ZonaDAZN
-#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="GEMISTA ➾ SPORT",Sky Sport Uno IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportUnoIT
-#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="GEMISTA ➾ SPORT",Sky Sport Calcio IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportCalcioIT
-#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="GEMISTA ➾ SPORT",Sky Sport Max IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMaxIT
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-mix-it.png" group-title="GEMISTA ➾ SPORT",Sky Sport Mix IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMixIT
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="GEMISTA",Sky Sport Tennis IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportTennisIT
-#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="Super Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-tennis-it.png" group-title="GEMISTA ➾ SPORT",Super Tennis IT
-https://stream.yiannisko-10f.workers.dev/sid=Supertennis
-#EXTINF:-1 tvg-id="Canal+.Sport.fr" tvg-name="Canal+ Sport FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport FR
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTFR
-#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-name="Canal+ Foot FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="GEMISTA ➾ SPORT",Canal+ Foot FR
-https://stream.yiannisko-10f.workers.dev/sid=FOOTPLUSFR
-#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-360-fr.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 360 FR
-https://stream.yiannisko-10f.workers.dev/sid=CANALS360
-#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-1-fr.png" group-title="GEMISTA ➾ SPORT",RMC Sport 1 FR
-https://stream.yiannisko-10f.workers.dev/sid=RMCSPORT1FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-1-french-fr.png" group-title="GEMISTA ➾ SPORT",beIN Sports 1 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT1FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-2-french-fr.png" group-title="GEMISTA ➾ SPORT",beIN Sports 2 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT2FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-3-french-fr.png" group-title="GEMISTA ➾ SPORT",beIN Sports 3 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT3FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="beIN Sports Max 4 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 4 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX4FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="beIN Sports Max 5 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 5 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX5FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="beIN Sports Max 6 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 6 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX6FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN Sports Max 7 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 7 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX7FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="beIN Sports Max 8 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 8 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX8FR
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="beIN Sports Max 9 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="GEMISTA ➾ SPORT",beIN Sports Max 9 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX9FR
-#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena 1 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="GEMISTA ➾ SPORT",Arena 1 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT1PREMIUMRS
-#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena 2 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="GEMISTA ➾ SPORT",Arena 2 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT2PREMIUMRS
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena 3 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="GEMISTA ➾ SPORT",Arena 3 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT3PREMIUMRS
-#EXTINF:-1 tvg-id="SK.4.HD.(SR/BIH).ba" tvg-name="Sport Klub 4 RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/sportklub-4-hr.png" group-title="GEMISTA ➾ SPORT",Sport Klub 4 RS
-https://stream.yiannisko-10f.workers.dev/sid=SPORTKLUB4RS
-#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-name="Canal+ Sport PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTPL
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-name="Canal+ Sport 2 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT2PL
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.pl" tvg-name="Canal+ Sport 3 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 3 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT3PL
-#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-name="Canal+ Sport 4 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 4 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT4PL
-#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-name="Canal+ Sport 5 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 5 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT5PL
-#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.pl" tvg-name="Canal+ Extra 1 PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1gk5aa5Sm-XF0pu9nvz9cRviJaYKU0JB61ETSshMLw&s=10" group-title="GEMISTA ➾ SPORT",Canal+ Extra 1 PL
-https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra1
-#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.pl" tvg-name="Canal+ Extra 2 PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMFmXdyztuMnXIAe43ipyjqtQp_5pXzwXWg39xcHS3Q&s=10" group-title="GEMISTA ➾ SPORT",Canal+ Extra 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra2
-#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-name="Polsat Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-pl.png" group-title="GEMISTA ➾ SPORT",Polsat Sport 1
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTPL
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-name="Polsat Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-2-pl.png" group-title="GEMISTA ➾ SPORT",Polsat Sport 2
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTEXTRA
-#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-name="Polsat Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-3-pl.png" group-title="GEMISTA ➾ SPORT",Polsat Sport 3
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTNEWS
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-1-pl.png" group-title="GEMISTA ➾ SPORT",Polsat Sport Premium 1
-https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium1
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-2-pl.png" group-title="GEMISTA ➾ SPORT",Polsat Sport Premium 2
-https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium2
-#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-1-int.png" group-title="GEMISTA ➾ SPORT",Eleven Sports 1 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports1PL
-#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-2-int.png" group-title="GEMISTA ➾ SPORT",Eleven Sports 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports2PL
-#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-3-int.png" group-title="GEMISTA ➾ SPORT",Eleven Sports 3 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports3PL
-#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 4 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-4-int.png" group-title="GEMISTA ➾ SPORT",Eleven Sports 4 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports4PL
-#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-name="ESPN NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-nl.png" group-title="GEMISTA ➾ SPORT",ESPN NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN1NL
-#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="ESPN 2 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-2-nl.png" group-title="GEMISTA ➾ SPORT",ESPN 2 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN2NL
-#EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-3-nl.png" group-title="GEMISTA ➾ SPORT",ESPN 3 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN3NL
-#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-name="ESPN 4 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-4-nl.png" group-title="GEMISTA ➾ SPORT",ESPN 4 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN4NL
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport 2 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport2
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport 3 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport3
-#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport 4 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport4
-#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-name="Ziggo Sport 5 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-5-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport 5 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport5
-#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-name="Ziggo Sport 6 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-6-nl.png" group-title="GEMISTA ➾ SPORT",Ziggo Sport 6 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport6
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png" group-title="GEMISTA ➾ SPORT",DAZN 1 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN1
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png" group-title="GEMISTA ➾ SPORT",DAZN 2 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN2
-#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png" group-title="GEMISTA ➾ SPORT",DAZN 3 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN3
-#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="DAZN 4 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png" group-title="GEMISTA ➾ SPORT",DAZN 4 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN4
-#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="DAZN 5 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png" group-title="GEMISTA ➾ SPORT",DAZN 5 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN5
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 1 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT1
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 2 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT2
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 3 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT3
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 4 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT4
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 5 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT5
-#EXTINF:-1 tvg-id="SPORT.TV6.HD.pt" tvg-name="Sport TV 6 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV 6 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT6
-#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-name="Sport TV+ PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="GEMISTA ➾ SPORT",Sport TV+ PT
-https://stream.yiannisko-10f.workers.dev/sid=SPTPlus
-#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-name="Canal 11 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="GEMISTA ➾ SPORT",Canal 11 PT
-https://stream.yiannisko-10f.workers.dev/sid=Canal11
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="Max Sport 1 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png" group-title="GEMISTA ➾ SPORT",Max Sport 1 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSportBG
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="Max Sport 2 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png" group-title="GEMISTA ➾ SPORT",Max Sport 2 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport2BG
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="Max Sport 3 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png" group-title="GEMISTA ➾ SPORT",Max Sport 3 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport3BG
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="Max Sport 4 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="GEMISTA ➾ SPORT",Max Sport 4 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport4BG
-#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="Nova Sport BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png" group-title="GEMISTA ➾ SPORT",Nova Sport BG
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTBG
-#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="Diema Sport BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="GEMISTA ➾ SPORT",Diema Sport BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport
-#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="Diema Sport 2 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="GEMISTA ➾ SPORT",Diema Sport 2 BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport2
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="GEMISTA ➾ SPORT",Diema Sport 3 BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport3
-#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="Nova Sports Start GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports Start GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSST
-#EXTINF:-1 tvg-id="Novasports.Premier.League.HD.gr" tvg-name="Nova Sports Premier League GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-premier-league.png" group-title="GEMISTA ➾ SPORT",Nova Sports Premier League GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPL
-#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-name="Nova Sports Prime GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports Prime GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPR
-#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="Nova Sports 1 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 1 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS1
-#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="Nova Sports 2 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 2 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS2
-#EXTINF:-1 tvg-id="Novasports3.gr" tvg-name="Nova Sports 3 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 3 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS3
-#EXTINF:-1 tvg-id="Novasports4.gr" tvg-name="Nova Sports 4 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 4 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS4
-#EXTINF:-1 tvg-id="Novasports5.gr" tvg-name="Nova Sports 5 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 5 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS5
-#EXTINF:-1 tvg-id="Novasports6.gr" tvg-name="Nova Sports 6 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="GEMISTA ➾ SPORT",Nova Sports 6 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS6
-#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 1 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT1
-#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 2 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT2
-#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 3 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT3
-#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 4 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT4
-#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 5 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT5
-#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 6 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT6
-#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 7 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT7
-#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 8 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT8
-#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="GEMISTA ➾ SPORT",Cosmote Sport 9 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT9
-#EXTINF:-1 tvg-id="COSMOTE.Sport.Highlights.HD.gr" tvg-name="Cosmote Sport HL GR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKPmjCrzfY92JJSF3C8a_OJjKkAz7QQcR9dyKDsj8&s=10" group-title="GEMISTA ➾ SPORT",Cosmote Sport HL GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORTHG
-#EXTINF:-1 tvg-id="Cablenet.Sports.1.cy" tvg-name="Cablenet Sports 1 CY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuecmefieh3u_Hjb7Hg07v-3AbcsNnBhtCX-8SVOIlNA&s=10" group-title="GEMISTA ➾ SPORT",Cablenet Sports 1 CY
-https://stream.yiannisko-10f.workers.dev/sid=Cablenet1
-#EXTINF:-1 tvg-id="Cablenet.Sports.2.cy" tvg-name="Cablenet Sports 2 CY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuecmefieh3u_Hjb7Hg07v-3AbcsNnBhtCX-8SVOIlNA&s=10" group-title="GEMISTA ➾ SPORT",Cablenet Sports 2 CY
-https://stream.yiannisko-10f.workers.dev/sid=Cablenet2
-#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-1-ro.png" group-title="GEMISTA ➾ SPORT",Digi Sport 1 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT1
-#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-2-ro.png" group-title="GEMISTA ➾ SPORT",Digi Sport 2 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT2
-#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-name="Digi Sport 3 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-3-ro.png" group-title="GEMISTA ➾ SPORT",Digi Sport 3 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT3
-#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-name="Digi Sport 4 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-4-ro.png" group-title="GEMISTA ➾ SPORT",Digi Sport 4 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT4
-#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-name="Prima Sport 1 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png" group-title="GEMISTA ➾ SPORT",Prima Sport 1 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport1
-#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-name="Prima Sport 2 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png" group-title="GEMISTA ➾ SPORT",Prima Sport 2 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport2
-#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-name="Prima Sport 3 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png" group-title="GEMISTA ➾ SPORT",Prima Sport 3 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport3
-#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-name="Prima Sport 4 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png" group-title="GEMISTA ➾ SPORT",Prima Sport 4 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport4
-#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena Sport 1 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-G8i0BDPPWiAuEoAqwrSepyy7lOz1yZm1z6RhiLC4IA&s=10" group-title="GEMISTA ➾ SPORT",Arena Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT1SK
-#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena Sport 2 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkzBAlGUsLxGF-hrLgg9m8hyrsjkJiLhlCpI1AWYO&s" group-title="GEMISTA ➾ SPORT",Arena Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT2SK
-#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-name="Nova Sport 1 CZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-1-cz.png" group-title="GEMISTA ➾ SPORT",Nova Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT1CZ
-#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova Sport 2 CZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-2-cz.png" group-title="GEMISTA ➾ SPORT",Nova Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT2CZ
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport 1 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEydFlWDPAYzgWMnYqe6Y-a1HupGFV3bVOYp1GbHY4JwzRYl52HkAFB1U&s=10" group-title="GEMISTA ➾ SPORT",Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=SPORT1CZ
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport 2 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJMpom0xFYjHKE9ToWCG5DYYvgLrfDlfNjanTRwosFA&s=10" group-title="GEMISTA ➾ SPORT",Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=SPORT2CZ
-#EXTINF:-1 tvg-id="viju sport.ru" tvg-name="Viju+ Sport RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/viju-plus-sport-ru.png" group-title="GEMISTA ➾ SPORT",Viju+ Sport RU
-https://stream.yiannisko-10f.workers.dev/sid=VijuPLUSSport
-#EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png" group-title="GEMISTA ➾ SPORT",KHL RU
-https://stream.yiannisko-10f.workers.dev/sid=KHLTV
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png" group-title="GEMISTA ➾ SPORT",KHL Prime RU
-https://stream.yiannisko-10f.workers.dev/sid=KHLPrime
-#EXTINF:-1 tvg-id="Setanta Sports 1.ru" tvg-name="Setanta Sports 1 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/300?cb=20230804042515" group-title="GEMISTA ➾ SPORT",Setanta Sports 1 RU
-https://stream.yiannisko-10f.workers.dev/sid=Setanta1RU
-#EXTINF:-1 tvg-id="Setanta Sports 2.ru" tvg-name="Setanta Sports 2 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest?cb=20230804053337" group-title="GEMISTA ➾ SPORT",Setanta Sports 2 RU
-https://stream.yiannisko-10f.workers.dev/sid=Setanta2RU
-#EXTINF:-1 tvg-id="match futbol 1.ru" tvg-name="Match Football 1 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-1-ru.png" group-title="GEMISTA ➾ SPORT",Match Football 1 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV
-#EXTINF:-1 tvg-id="match futbol 2.ru" tvg-name="Match Football 2 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-2-ru.png" group-title="GEMISTA ➾ SPORT",Match Football 2 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV2
-#EXTINF:-1 tvg-id="match futbol 3.ru" tvg-name="Match Football 3 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-3-ru.png" group-title="GEMISTA ➾ SPORT",Match Football 3 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV3
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP1AF
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 2 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP2AF
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 3 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP3AF
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 4 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP4AF
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 5 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="GEMISTA ➾ SPORT",Canal+ Sport 5 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP5AF
-
-
-#EXTINF:-1 tvg-id="trt-belgesel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/RM/13866/Thumbnail.png?v=636947664979131552" tvg-name="TRT Belgesel" group-title="BELGESEL",TRT Belgesel
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/trtbelgesel.m3u8
-#EXTINF:-1 tvg-id="tarih-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/1/Fd/58626/Thumbnail.png?v=638288263696795101" tvg-name="Tarih Tv" group-title="BELGESEL",Tarih Tv
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/tarih-tv.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/ow/13411/Thumbnail.png?v=636927791219697765" tvg-name="TLC" group-title="BELGESEL",TLC
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/tlc.m3u8
-#EXTINF:-1 tvg-id="dmax" tvg-logo="https://dsmart-static-v2.ercdn.net/content/D/5X/11893/Thumbnail.png?v=636962985661490103" tvg-name="DMAX" group-title="BELGESEL",DMAX
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/dmax.m3u8
-#EXTINF:-1 tvg-id="docuscreen" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/wh/11899/Thumbnail.png?v=638348556015283678" tvg-name="DocuScreen" group-title="BELGESEL",DocuScreen
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/docuscreen.m3u8
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png?v=637194414598070635" tvg-name="Love Nature" group-title="BELGESEL",Love Nature
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/love-nature.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png?v=636927790293842950" tvg-name="Viasat History" group-title="BELGESEL",Viasat History
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/viasat-history.m3u8
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png?v=636996527021886315" tvg-name="BBC Earth" group-title="Belgesel",BBC Earth
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/bbc-earth.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png?v=637523447444009285" tvg-name="Discovery Channel" group-title="BELGESEL",Discovery Channel
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/discovery-channel.m3u8
-#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png?v=638396909362573214" tvg-name="Discovery ID" group-title="BELGESEL",Discovery ID
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/discovery-id.m3u8
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/zw/16198/Thumbnail.png?v=637080263252321251" tvg-name="National Geographic" group-title="BELGESEL",National Geographic
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/national-geographic.m3u8
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/GH/16199/Thumbnail.png?v=637141612229716915" tvg-name="National Geographic WILD" group-title="BELGESEL",National Geographic WILD
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/national-geographic-wild.m3u8
-#EXTINF:-1 tvg-id="cgtn-documentary" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/uY/110565/Thumbnail.png?v=639008855398399298" tvg-name="CGTN Documentary" group-title="BELGESEL",CGTN Documentary
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/cgtndocu.m3u8
-#EXTINF:-1 tvg-id="nhk-ingilizce" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/Po/13865/Thumbnail.png?v=636948477832691316" tvg-name="NHK (İngilizce)" group-title="BELGESEL",NHK (İngilizce)
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/nhkworld.m3u8
-#EXTINF:-1 tvg-id="rt-international" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/CW/106947/Thumbnail.png?v=638844484870231441" tvg-name="RT International" group-title="BELGESEL",RT International
-https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/rtrplaneta.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="TR| BELGESEL KANALLARI",##### TR BELGESEL #####
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913192&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913192&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913191.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913191&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913191&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913190.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913190&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913190&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913189.png" group-title="TR| BELGESEL KANALLARI",TR| NAT GEO WiLD 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913189&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913189&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913188.png" group-title="TR| BELGESEL KANALLARI",TR| NAT GEO WILD HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913188&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913188&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913187.png" group-title="TR| BELGESEL KANALLARI",TR| ANIMAL PLANET 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913187&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913187&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913186&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913186&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913185&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913185&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913183.png" group-title="TR| BELGESEL KANALLARI",TR| DiSCOWERY CHANNEL 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913183&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913183&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913182.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY CHANNEL HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913182&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913182&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913181.png" group-title="TR| BELGESEL KANALLARI",TR| TLC 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913181&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913181&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913180.png" group-title="TR| BELGESEL KANALLARI",TR| TLC HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913180&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913180&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913179.png" group-title="TR| BELGESEL KANALLARI",TR| TGRT BELGESEL 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913179&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913179&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913178.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913178&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913178&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913177.png" group-title="TR| BELGESEL KANALLARI",TR|YABAN TV 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913177&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913177&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913176.png" group-title="TR| BELGESEL KANALLARI",TR| YABAN HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913176&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913176&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913175.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY SCIENCE 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913175&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913175&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913174.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY SCIENCE HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913174&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913174&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY IDX 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913173&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913173&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY IDX HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913172&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913172&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913171.png" group-title="TR| BELGESEL KANALLARI",TR| BBC EARTH 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913171&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913171&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913170.png" group-title="TR| BELGESEL KANALLARI",TR| BBC EARTH HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913170&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913170&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913169.png" group-title="TR| BELGESEL KANALLARI",TR| HISTORY 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913169&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913169&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913167.png" group-title="TR| BELGESEL KANALLARI",TR| DMAX 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913167&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913167&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913166.png" group-title="TR| BELGESEL KANALLARI",TR| DMAX HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913166&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913166&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913165.png" group-title="TR| BELGESEL KANALLARI",TR| BEIN GURME 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913165&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913165&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" group-title="TR| BELGESEL KANALLARI",TR| BEIN IZ TV
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=1925951&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=1925951&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" group-title="TR| BELGESEL KANALLARI",TR| VIASAT HISTORY HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913162&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913162&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913161.png" group-title="TR| BELGESEL KANALLARI",TR| VIASAT EXPLORE HD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913161&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913161&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" group-title="TR| BELGESEL KANALLARI",TR| LOVE NATURE 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:9D:CD:2B&stream=913160&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913160&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DarkTV - BELGESEL",(DE) ⁷-²⁴ Devbox Belgesel
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=199871&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeoushd.png" group-title="DarkTV - BELGESEL",(TR) National Geo HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2902&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="DarkTV - BELGESEL",(TR) Nat Geo Wild 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="DarkTV - BELGESEL",(TR) History Channel 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2964&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverychannel.png" group-title="DarkTV - BELGESEL",(TR) Discovery Channel HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=3004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryscienceglobalhd.png" group-title="DarkTV - BELGESEL",(TR) Discovery Science HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=3003&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/viasathistory.png" group-title="DarkTV - BELGESEL",(TR) Viasat Explorer HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=170402&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/viasathistory.png" group-title="DarkTV - BELGESEL",(TR) Viasat History HD+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=147434&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt_4k_tr.png" group-title="DarkTV - BELGESEL",(TR) TRT 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=7326&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtbelgesel.png" group-title="DarkTV - BELGESEL",(TR) TRT Belgesel 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2835&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrgurmehd.png" group-title="DarkTV - BELGESEL",(TR) Bein Gurme 4K
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=31314&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrizhd.png" group-title="DarkTV - BELGESEL",(TR) Bein IZ TV 4K
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=3047&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeopeoplehd.png" group-title="DarkTV - BELGESEL",(TR) Love Nature 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/yabantvtr.png" group-title="DarkTV - BELGESEL",(TR) Yaban TV 4K
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=139079&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/turkey.png" group-title="DarkTV - BELGESEL",(TR) Tarih TV
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=170403&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="DarkTV - BELGESEL",(TR) TLC 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2840&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png" group-title="DarkTV - BELGESEL",(TR) ID HD 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=7429&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmaxhd.png" group-title="DarkTV - BELGESEL",(TR) DMAX 4K+
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=31320&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearningasia.png" group-title="DarkTV - BELGESEL",(TR) Da Vinci 4K
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=31317&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/turkey.png" group-title="DarkTV - BELGESEL",(TR) BBC Earth HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=99747&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belgeseldark.png" group-title="DarkTV - BELGESEL",(TR) TRT Avaz HD
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2836&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tgrtbelgesel.png" group-title="DarkTV - BELGESEL",(TR) TGRT Belgesel
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=2848&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belgeseldark.png" group-title="DarkTV - BELGESEL",(TR) (TR) 103 Gol
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:45:99:39&stream=24615&extension=ts
 
 
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="MÜZİK ➾ TV",TRT Müzik
@@ -10135,7 +10023,7 @@ http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", ALEM FM
 https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", ALPARSLAN FM
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", ALPARSLAN FM
 https://ssl123.ozelip.com/8022/;
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", ALTIN ŞARKILAR
@@ -11478,7 +11366,7 @@ https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", RENK FM
 http://dinle.renk-fm.com:7062/;
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", RİBAT FM
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", RİBAT FM
 http://yayin1.canliyayin.org:7010/;
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", RİSALE RADYO

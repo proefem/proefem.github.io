@@ -184,7 +184,7 @@ http://87.121.104.29:1796/businessyt/stream.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 
-https://goldvod.org/live/hpgdisco/123456/94.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="ULUSAL ➾ BELGESEL",TGRT BELGESEL 
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NjwydxKD/In-Shot-20250209-231503024.png" group-title="ULUSAL ➾ BELGESEL",DMAX 
@@ -213,3 +213,42 @@ https://goldvod.org/live/hpgdisco/123456/156.m3u8
 https://goldvod.org/live/hpgdisco/123456/444.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mDr1Q2PG/Yabantv-logo.png" group-title="ULUSAL ➾ BELGESEL",YABAN TV 
 https://goldvod.org/live/hpgdisco/123456/448.m3u8
+
+#EXTINF:1 tvg-id="DiyanetTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title="ULUSAL ➾ DİNİ",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0408f060-b0bc-4eaa-9547-55fd5a3a7da0.png" group-title="ULUSAL ➾ DİNİ",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="ULUSAL ➾ DİNİ",SEMERKAND TV 
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aile TV" tvg-logo="https://ia.tmgrup.com.tr/3c0a81/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/09/1683636826467.png" group-title="ULUSAL ➾ DİNİ",Aile TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Asr-ı Saadet TV" tvg-logo="https://ia.tmgrup.com.tr/3a4876/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530744651.png" group-title="ULUSAL ➾ DİNİ",Asr-ı Saadet TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AŞR-I ŞERİF" tvg-logo="https://i.tmgrup.com.tr/rt/2023/05/08/1683529892397.png" group-title="ULUSAL ➾ DİNİ",AŞR-I ŞERİF
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ilahi TV" tvg-logo="https://ia.tmgrup.com.tr/2644e1/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683552981723.png" group-title="ULUSAL ➾ DİNİ",ilahi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ilmihal TV" tvg-logo="https://ia.tmgrup.com.tr/11593c/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553233419.png" group-title="ULUSAL ➾ DİNİ",ilmihal TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="islam TV" tvg-logo="https://ia.tmgrup.com.tr/582d28/64/64/0/0/542/542?u=https://i.tmgrup.com.tr/rt/2023/06/02/1685720061393.png" group-title="ULUSAL ➾ DİNİ",islam TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kuran-ı Kerim Dersleri" tvg-logo="https://ia.tmgrup.com.tr/d08ed2/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530621770.png" group-title="ULUSAL ➾ DİNİ",Kuran-ı Kerim Dersleri
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kültür Sanat TV" tvg-logo="https://ia.tmgrup.com.tr/7da019/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/09/1683636877081.png" group-title="ULUSAL ➾ DİNİ",Kültür Sanat TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mukabele TV" tvg-logo="https://ia.tmgrup.com.tr/a7a1f7/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683547592840.png" group-title="ULUSAL ➾ DİNİ",Mukabele TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sağlıklı Günler TV" tvg-logo="https://ia.tmgrup.com.tr/4cd890/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683542038615.png" group-title="ULUSAL ➾ DİNİ",Sağlıklı Günler TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist.m3u8
+#EXTINF:-1 tvg-name="aaz TV" tvg-logo="https://ia.tmgrup.com.tr/1987b4/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683548143527.png" group-title="ULUSAL ➾ DİNİ",Vaaz TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="av TV" tvg-logo="https://ia.tmgrup.com.tr/babfd5/64/64/0/0/512/512?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683550851741.png" group-title="ULUSAL ➾ DİNİ",Vav TV
+https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8?st=BQjbGS5gTAY25PiaE9bTFA&e=1746698973
+#EXTINF:-1 tvg-name="Çizgi Film TV" tvg-logo="https://ia.tmgrup.com.tr/e7cdaa/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553211327.png" group-title="ULUSAL ➾ DİNİ",Çizgi Film TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Çocuklara Özel TV" tvg-logo="https://ia.tmgrup.com.tr/9c3a65/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553179916.png" group-title="ULUSAL ➾ DİNİ",Çocuklara Özel TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mescid-i Nebevi TV" tvg-logo="https://ia.tmgrup.com.tr/e54b24/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/rt/2023/09/11/1694414087181.png" group-title="ULUSAL ➾ DİNİ",Mescid-i Nebevi TV
+https://trkvz-live-clean.ercdn.net/sunnahtv/sunnahtv.m3u8
+#EXTINF:-1 tvg-name="Mescid-i Haram TV" tvg-logo="https://ia.tmgrup.com.tr/5a64fe/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/rt/2023/09/11/1694414035109.png" group-title="ULUSAL ➾ DİNİ",Mescid-i Haram TV
+https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8

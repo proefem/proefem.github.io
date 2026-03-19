@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-id="ulusal-coklu-ekran" tvg-name="Ulusal Çoklu Ekran" group-title="ULUSAL" tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/Ak/96690/Thumbnail.png",🇹🇷͜͜͡͡✯ ULUSAL Çoklu Ekran
 http://87.121.104.29:2003/izle/dWx1c2Fsb2tsdWVrcmFu.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt1.png" group-title="ULUSAL",↺TRT 1 ᵁᴴᴰ⁺⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
+https://live.tecostream.xyz/channels/trt_1.php
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD"  tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" tvg-url="" group-title="YEDEK ➾ ULUSAL",TRT 1 ᵁᴴᴰ⁺⁺™
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8776a3ubngv9&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv.png" group-title="ULUSAL",↺ATV HD+
-https://turkuaz.tecostream.xyz/proxy?url=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="YEDEK ➾ ULUSAL",ATV ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://turkuaz.tecostream.xyz/atv&e=.m3u8
+https://turkuaz.tecostream.xyz/atv&e=.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="ULUSAL",↺SHOW TV HD+
-https://turkuaz.tecostream.xyz/proxy?url=https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="YEDEK ➾ ULUSAL",SHOW TV ᵁᴴᴰ⁺™
 http://tv.glturk.workers.dev/?ID=ShowTV_HD&ext=.m3u8  
 
@@ -23,19 +23,19 @@ https://dogus-yayin-gurubu.koprulu2.workers.dev/startv.m3u8
 http://tv.glturk.workers.dev/?ID=StarTV_HD&ext=.m3u8  
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD"  tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanald.png" group-title="ULUSAL",↺KANAL D HD+
-http://129.151.196.133/Tivizon.php?ID=kanald&e=.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™
 http://162.212.179.33:80/gin-trn09/gt-kanald/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="YEDEK ➾ ULUSAL",KANAL D ᵁᴴᴰ⁺™
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=c40673c58bc0fa0057743e1050115aa3
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv8.png" group-title="ULUSAL",↺TV 8 HD+
 http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8 ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5 HD"  tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv8-5.png" group-title="ULUSAL",↺TV 8.5 HD+
 http://149.13.0.66:4002/tv85hd
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5 HD"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="YEDEK ➾ ULUSAL",TV8'5 ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="NOW" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="ULUSAL",↺NOW TV HD+
 https://dogus.tecostream.xyz/now.m3u8
@@ -45,7 +45,7 @@ http://tv.glturk.workers.dev/?ID=Now_HD&e=.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BeyazTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beyaztv.png" group-title="ULUSAL",↺BEYAZ TV HD+
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL",BEYAZ TV  HD+
-https://turkuaz.tecostream.xyz/proxy?url=https://mlatlxfaaa.turknet.ercdn.net/zqhpjaumpm/beyaztv/beyaztv.m3u8
+https://mlatlxfaaa.turknet.ercdn.net/zqhpjaumpm/beyaztv/beyaztv.m3u8
 
 #EXTINF:1 tvg-id="TYT TÜRK.tr" tvg-language="Turkish" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png"  group-title="ULUSAL",TYT TÜRK  ᵁᴴᴰ⁺
 https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
@@ -54,7 +54,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="TEVE2 HD"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360 HD.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ᵁᴴᴰ⁺™
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -63,16 +63,16 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL",TRT 2 ᵁᴴᴰ⁺⁺™
-https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5tGFB0YB/In-Shot-20260111-083605419.png" group-title="ULUSAL",TRT GENÇ ᵁᴴᴰ⁺⁺™
-https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="A2.tr" tvg-name="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="ShowMax" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ
 http://162.212.179.33:80/dvrfl05/gin-tgrteu/playlist.m3u8
@@ -81,7 +81,7 @@ http://162.212.179.33:80/dvrfl05/gin-tgrteu/playlist.m3u8
 http://162.212.179.33:80/dvrfl05/gin-tgrtbelgesel/playlist.m3u8
 
 #EXTINF:1 tvg-id="ons.tr" tvg-language="Turkish" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png"  group-title="ULUSAL",ONS TV ᴴᴰ⁺
-http://cdn-onstv.yayin.com.tr/onstv/playlist.m3u8
+#http://cdn-onstv.yayin.com.tr/onstv/playlist.m3u8
 
 #EXTINF:1 tvg-id="birtv.tr" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" group-title="ULUSAL",Bİ KANAL ᴴᴰ⁺™
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
@@ -224,7 +224,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Asr-ı Saadet TV" tvg-logo="https://ia.tmgrup.com.tr/3a4876/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530744651.png" group-title="ULUSAL ➾ DİNİ",Asr-ı Saadet TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="AŞR-I ŞERİF" tvg-logo="https://i.tmgrup.com.tr/rt/2023/05/08/1683529892397.png" group-title="ULUSAL ➾ DİNİ",AŞR-I ŞERİF
+#EXTINF:-1 tvg-name="AŞR-I ŞERİF" tvg-logo="https://i.tmgrup.com.tr/rt/2023/05/08/1683529892397.png" group-title="ULUSAL ➾ DİNİ",ASR-I ŞERİF
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ilahi TV" tvg-logo="https://ia.tmgrup.com.tr/2644e1/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683552981723.png" group-title="ULUSAL ➾ DİNİ",ilahi TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist.m3u8

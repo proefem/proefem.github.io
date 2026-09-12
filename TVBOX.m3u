@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSʏꜱᴛᴇᴍ » ☪🛡️",⭕️❫❫❫ 🇹🇷͜͜͡͡✯ ᴘʀᴏᴇғᴇᴍ Update: 🔄 02 09 2026  ⫷⫸ ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ ⫷⫸ 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="🛡️☪ » AɴᴅʀᴏɪᴅSʏꜱᴛᴇᴍ » ☪🛡️",⭕️❫❫❫ 🇹🇷͜͜͡͡✯ ᴘʀᴏᴇғᴇᴍ Update: 🔄 12 09 2026  ⫷⫸ ░U░P░D░A░T░E░ ░I░N░F░O░R░M░A░T░I░O░N░ ⫷⫸ 
 https://airvuz-dronetv-1-de.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="ulusal-coklu-ekran" tvg-name="Ulusal Çoklu Ekran" group-title="ULUSAL" tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/Ak/96690/Thumbnail.png",🇹🇷͜͜͡͡✯ ULUSAL Çoklu Ekran
 #http://87.121.104.29:2003/izle/dWx1c2Fsb2tsdWVrcmFu.m3u8
@@ -653,7 +653,6 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-name="Spor Çoklu Ekran" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png" group-title="BETCONNECT ➾ SPORT" ,Spor Çoklu Ekran 
 https://turkuaz.tecostream.xyz/proxy?url=https://dsmartgo-live.ercdn.net/spormozaik/spormozaik.m3u8
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="GOL TV" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="BETCONNECT ➾ SPORT",MAÇ KOLİK ʜᴅ
@@ -661,13 +660,22 @@ https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838619.png" group-title="BETCONNECT ➾ SPORT",TRT SPOR YILDIZ ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/trtspor2/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/trtspor2/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/trtspor2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839291.png" group-title="BETCONNECT ➾ SPORT",TRT SPOR ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/trtspor/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/trtspor/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/trtspor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838287.png" group-title="BETCONNECT ➾ SPORT",A SPOR ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/aspor/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/aspor/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/aspor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" group-title="BETCONNECT ➾ SPORT",TiviBU SPOR 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.99.165.164:6878/ace/getstream?id=0c8d675aedb4a7e37a90df8a550a7769084ecfbb&.mp4
@@ -676,111 +684,206 @@ http://88.99.165.164:6878/ace/getstream?id=0c8d675aedb4a7e37a90df8a550a7769084ec
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838378.png" group-title="BETCONNECT ➾ SPORT",HT SPOR ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/htpor/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/htspor/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/htpor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="BETCONNECT ➾ SPORT",beIN SPORTS HABER ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/beinsportshaber/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/beinsportshaber/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/beinsportshaber/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/601/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/601/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/601/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/601/mono.m3u8
+https://kokanabeeyayindaxd.varsportslive2026.store/601hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 FEED ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://vartvserver.site/feed1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/feed/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/feed/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 FEED ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://vartvserver.site/feed2/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/feed2/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/feed2/tracks-v1a1/mono.ts.m3u8
+#https://kokanabeeyayindaxd.varsportslive2026.store/sports1hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://vartvserver.site/sports1hd/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 1 ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://vartvserver.site/sportshd2/mono.m3u8
+#https://kokanabeeyayindaxd.varsportslive2026.store/sportshd2/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/602/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/602/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/602/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/603/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/603/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/603/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/604/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/604/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/604/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="BETCONNECT ➾ SPORT",beIN SPORTS 5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/605/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/605/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/605/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/The_new_logo_of_beIN_MAX_1_at_2017.png" group-title="BETCONNECT ➾ SPORT",beIN SPORTS MAX 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/801/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/801/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/801/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="BETCONNECT ➾ SPORT",beIN SPORTS MAX 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/802/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/802/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/802/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" group-title="BETCONNECT ➾ SPORT",TİVİBU SPOR 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/701/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/701/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/701/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" group-title="BETCONNECT ➾ SPORT",TİVİBU SPOR 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/702/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/702/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/702/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837598.png" group-title="BETCONNECT ➾ SPORT",TİVİBU SPOR 3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/703/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/703/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838550.png" group-title="BETCONNECT ➾ SPORT",TİVİBU SPOR 4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/704/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/704/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/704/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837959.png" group-title="BETCONNECT ➾ SPORT",S-SPORT ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/607/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/607/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/607/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://gbzottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp" group-title="BETCONNECT ➾ SPORT",S-SPORT 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/608/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/608/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/608/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837959.png" group-title="BETCONNECT ➾ SPORT",S-SPORT+1+ ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/plus1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/plus1/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/plus1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="BETCONNECT ➾ SPORT",SPOR SMART ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/609/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/609/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/609/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="BETCONNECT ➾ SPORT",SPOR SMART 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/610/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/610/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/610/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii1/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii2/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii2/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii3/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii3/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii4/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii4/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii5/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii5/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="BETCONNECT ➾ SPORT",TABİİ SPOR 6 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/tabii6/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/tabii6/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/tabii6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-name="Eurosport1.tr"  tvg-logo="http://epg.one/img2/3885.png" group-title="BETCONNECT ➾ SPORT" , EURO SPORT 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/eurosport1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/eurosport1/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/eurosport1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-name="Eurosport2.tr"  tvg-logo="http://epg.one/img2/3886.png" group-title="BETCONNECT ➾ SPORT" , EURO SPORT 2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/eurosport2/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/eurosport2/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/eurosport2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qtn_u6ISz-HvZphchyOE6qFFfA_iu9-8dC8yABZ2E4uAbYbtZci0rki5tQNLdCrfijZkOClRRw" group-title="BETCONNECT ➾ SPORT"   ,NBA ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/nbatv/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/nbatv/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/nbatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:SKY F1 HD" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="BETCONNECT ➾ SPORT",F1 Sport ʜᴅ
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/f1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/f1/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/f1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801836916.png" group-title="BETCONNECT ➾ SPORT",FB TV ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://vartvserver.site/fbtv/mono.m3u8
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/
+#EXTVLCOPT:http-origin=https://fr-1.bc4liveiframecdn.shop
+https://millioldum2026.betcolivecdn5.shop/fbtv/index.m3u8?md5=5t6IUlo8vbgfMqEfff2fsA&expires=1788743040?|referer=https://fr-1.bc4liveiframecdn.shop/
+#https://kokanabeeyayindaxd.varsportslive2026.store/fbtv/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="BETCONNECT ➾ SPORT",Tabii Spor 2ᴋ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -939,10 +1042,10 @@ https://github.com/kadirsener1/247/raw/main/cdnlive/trssport.m3u8
 https://github.com/kadirsener1/247/raw/main/cdnlive/trssport2.m3u8
 #EXTINF:-1 tvg-id="Spor Smart.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MAKRO ➾ SPORT",Smart Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://65.108.239.207/smart1/index.m3u8
+https://lord.mariuannastluisborg.autos/smart1/index.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MAKRO ➾ SPORT",Smart Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://65.108.239.207/smart2/index.m3u8
+https://lord.mariuannastluisborg.autos/smart2/index.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport1" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="MAKRO ➾ SPORT", Euro Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://deathless.pantonum1.workers.dev/eu1.m3u8
@@ -1085,7 +1188,7 @@ http://193.123.61.120:3000/kanal/beINSPORTSTürkiye
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSports1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TRGOOL ➾ SPORT", BeIN Sports 1ʜᴅ ᴠɪᴘ   
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
-https://vartvserver.site/601/index.m3u8
+#https://vartvserver.site/601/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSports1" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TRGOOL ➾ SPORT", BeIN Sports 1ʜᴅ ᴠɪᴘ   
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android   (Macintosh; Intel Mac OS X 10_14_5)
 https://deathless.pantonum1.workers.dev/patron.m3u8
@@ -1266,127 +1369,137 @@ https://turkuaz.tecostream.xyz/proxy?url=https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="ZEUS ➾ SPORT", TRT 1 ʜᴅ
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trt1-esdai.medya.trt.com.tr/master_1440p.m3u8?&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="ZEUS ➾ SPORT", TRT 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xtrt1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xtrt1/index.txt
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="ZEUS ➾ SPORT", TRT 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/trt1yedek/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/trt1yedek/index.txt
 
 #EXTINF:-1 tvg-name="Atv" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.hizliresim.com/sl35dyd.jpg" group-title="ZEUS ➾ SPORT", Atv ʜᴅ
 https://bstelevision.com/proxy.php?url=http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080.m3u8
 #EXTINF:-1 tvg-name="Atv" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.hizliresim.com/sl35dyd.jpg" group-title="ZEUS ➾ SPORT", Atv ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xatv/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xatv/index.txt
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="ZEUS ➾ SPORT",TV 8 ʜᴅ
 http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="ZEUS ➾ SPORT",TV 8 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xtv8/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xtv8/index.txt
 
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://www.tvchecklist/akisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="ZEUS ➾ SPORT", TV 8.5 ʜᴅ
 http://149.13.0.66:4002/tv85hd
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://www.tvchecklist/akisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="ZEUS ➾ SPORT", TV 8.5 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xtv85/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xtv85/index.txt
 
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="ZEUS ➾ SPORT",TRT Spor Yıldız ʜᴅ
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8?&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="ZEUS ➾ SPORT",TRT Spor Yıldız ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/trtyildiz/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/trtyildiz/index.txt
 
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="ZEUS ➾ SPORT", TRT SPOR ʜᴅ
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8?&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="ZEUS ➾ SPORT", TRT SPOR ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xtrtspor/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xtrtspor/index.txt
 
 #EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="ZEUS ➾ SPORT", A SPOR ʜᴅ
 https://bstelevision.com/proxy.php?url=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080.m3u8
 #EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="ZEUS ➾ SPORT", A SPOR ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xaspor/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xaspor/index.txt
 
 #EXTINF:-1 tvg-name="HTSpor" tvg-language="Turkish" tvg-country="TR" tvg-id="htspor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="ZEUS ➾ SPORT", HT SPOR ʜᴅ
 https://turkuaz.tecostream.xyz/proxy?url=https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="ZEUS ➾ SPORT",TV100 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tv100/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tv100/index.txt
 
 #EXTINF:-1 tvg-name="0 SPOR" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" tvg-language="Turkish" tvg-country="TR" group-title="ZEUS ➾ SPORT",SIFIR SPOR ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/sifirtv/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/sifirtv/index.txt
 
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="ZEUS ➾ SPORT",BeIN SPOR 1ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b1/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="ZEUS ➾ SPORT",BeIN Sport 1ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b1local/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b1local/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="ZEUS ➾ SPORT",BeIN Sport 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b2/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="ZEUS ➾ SPORT",BeIN Sport 3 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b3/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b3/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/cww8drm.png" group-title="ZEUS ➾ SPORT",BeIN Sport 4 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b4/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b4/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/63gjk4y.png" group-title="ZEUS ➾ SPORT",BeIN Sport 5 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b5/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b5/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport MAX 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="ZEUS ➾ SPORT",BeIN Sport MAX 1ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b1max/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b1max/index.txt
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport MAX 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011568" group-title="ZEUS ➾ SPORT",BeIN Sport MAX 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/b2max/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/b2max/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabiispor/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabiispor/index.txt
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabiiyedek/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabiiyedek/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 1 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii1/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43008.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 2 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43008.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii2/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43011.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 3 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43011.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 3 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii3/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii3/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43014.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 4 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43014.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 4 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii4/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii4/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43017.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 5 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43017.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 5 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii5/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii5/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 6 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 6 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii6/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii6/index.txt
 
 #EXTINF:-1 tvg-name="Tabii Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor7" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/51612_0-0-1919-1080.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 7 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-name="Tabii Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor7" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/51612_0-0-1919-1080.jpeg" group-title="ZEUS ➾ SPORT",Tabii Spor 7 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
-#https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tabii7/index.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tabii7/index.txt
 
 #EXTINF:-1 tvg-id="" tvg-name="tabii Spor 8" tvg-logo="https://cms-tabii-public-image.tabii.com/int/60593_0-0-1500-1500.png" group-title="ZEUS ➾ SPORT",Tabii Spor 8 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-id="" tvg-name="tabii Spor 8" tvg-logo="https://cms-tabii-public-image.tabii.com/int/60593_0-0-1500-1500.png" group-title="ZEUS ➾ SPORT",Tabii Spor 8 ʜᴅ
-https://turkuaz.tecostream.xyz/proxy?url=https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
+https://turkuaz.tecostream.xyz/proxy?url=https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8&ua=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
 
 #EXTINF:-1 tvg-id="ssport" tvg-name="S Sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/30vqcbh.png" group-title="ZEUS ➾ SPORT",S Sport 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/s1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/s1/index.txt
 
 #EXTINF:-1 tvg-id="ssport" tvg-name="S Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/lg6crba.png" group-title="ZEUS ➾ SPORT",S Sport 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/s2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/s2/index.txt
 
 #EXTINF:-1 tvg-id="ssport" tvg-name="S Sport Plus" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/qioouyh.png" group-title="ZEUS ➾ SPORT",S Sport Plus ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1394,37 +1507,37 @@ https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/s2/index.m3u8
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivessplus1.m3u8
 
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://image.milimaj.com/i/milliyet/75/869x477/61013bfb86b24419fc684867.jpg" group-title="ZEUS ➾ SPORT",Spor Smart 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/smart1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/smart1/index.txt
 
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://image.milimaj.com/i/milliyet/75/869x477/61013bfb86b24419fc684867.jpg" group-title="ZEUS ➾ SPORT",Spor Smart 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/smart2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/smart2/index.txt
 
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="ZEUS ➾ SPORT",Tivibu Spor ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tivibu/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tivibu/index.txt
 
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="ZEUS ➾ SPORT",Tivibu Spor 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tivibu1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tivibu1/index.txt
 
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="ZEUS ➾ SPORT",Tivibu Spor 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tivibu2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tivibu2/index.txt
 
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="ZEUS ➾ SPORT",Tivibu Spor 3 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tivibu3/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tivibu3/index.txt
 
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="ZEUS ➾ SPORT",Tivibu Spor 4 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/tivibu4/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/tivibu4/index.txt
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="ZEUS ➾ SPORT",Euro Sport 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/euro1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/euro1/index.txt
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="ZEUS ➾ SPORT",Euro Sport 2 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/euro2/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/euro2/index.txt
 
 #EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ZEUS ➾ SPORT",Exxen Spor  ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xexxen/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xexxen/index.txt
 
 #EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ZEUS ➾ SPORT",Exxen Spor 1 ʜᴅ
-https://bstelevision.com/proxy.php?url=https://zeus324232.cfd/xexxen1/index.m3u8
+https://bstelevision.com/proxy.php?url=https://zeus645423.cfd/xexxen1/index.txt
 
 #EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ZEUS ➾ SPORT",Exxen Spor 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1479,47 +1592,144 @@ https://turkuaz.tecostream.xyz/proxy?url=https://tjktv-live.tjk.org/tjktv2/tjktv
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="ULUSAL ➾ BELGESEL",TGRT BELGESEL 
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel TR" tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" group-title="ULUSAL ➾ BELGESEL",TGRT BELGESEL 
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL ➾ BELGESEL",BIZIM EV tv ᴴᴰ
+http://87.121.104.29:1071/bizimevyt/stream.m3u8?token=fa285a2b5ba15d7159634da5cdb25e31
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg" group-title="ULUSAL ➾ BELGESEL",beIN İZ 
+http://umperisn.mywire.org/index.php?id=594654&token=DeaTHLesS
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="ULUSAL ➾ BELGESEL",beIN GURME 
+http://umperisn.mywire.org/index.php?id=594652&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NjwydxKD/In-Shot-20250209-231503024.png" group-title="ULUSAL ➾ BELGESEL",DMAX 
-http://82.70.45.131/Uyan.php?ID=DMax
+https://lord.mariuannastluisborg.autos/dmax/index.m3u8
+#http://82.70.45.131/Uyan.php?ID=DMax
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pLDjv6w3/TLC-Logo-svg.png" group-title="ULUSAL ➾ BELGESEL",TLC 
-http://82.70.45.131/Uyan.php?ID=TLC Turkiye
+https://lord.mariuannastluisborg.autos/tlc/index.m3u8
+#http://82.70.45.131/Uyan.php?ID=TLC Turkiye
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/habitat.png" group-title="ULUSAL ➾ BELGESEL",HABITAT TV ᴴᴰ
 http://82.70.45.131/Uyan.php?ID=Habitat TV
 #EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/cHkwZ3gw/In-Shot-20251117-200852069.png" group-title="ULUSAL ➾ BELGESEL",Vizi belgesel 
 http://82.70.45.131/Uyan.php?ID=Belgesel TV
-#EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png" aspect-ratio="16:9"   group-title="ULUSAL ➾ BELGESEL",BIZIM EV tv ᴴᴰ
-http://193.123.61.120:3000/kanal/bizimevtv2000
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="ULUSAL ➾ BELGESEL",TARİH TV 
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+https://lord.mariuannastluisborg.autos/tarihtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="ULUSAL ➾ BELGESEL",ITB TV 
 https://live.itbtvlive.com/itbtvlive/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/fqonnw6w.png" group-title="ULUSAL ➾ BELGESEL",HİSTORY 
+https://lord.mariuannastluisborg.autos/history/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tT0QvZkG/In-Shot-20260102-231626031.png" group-title="ULUSAL ➾ BELGESEL",VİASAT HİSTORY 
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+https://lord.mariuannastluisborg.autos/viasathistory/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="ULUSAL ➾ BELGESEL",DISCOVERY CHANNEL 
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+https://lord.mariuannastluisborg.autos/discovery/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="ULUSAL ➾ BELGESEL",INVESTIGATION DISCOVERY 
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+https://lord.mariuannastluisborg.autos/discs/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",DocuScreen
-https://proud-river-e20b.pantonum1.workers.dev/docubox.m3u8
+https://lord.mariuannastluisborg.autos/docubox/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",LOVE NATURE 
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+https://lord.mariuannastluisborg.autos/lovenature/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="ULUSAL ➾ BELGESEL",BBC EARTH 
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL",BEIN IZ 
-#https://goldvod.org/live/hpgdisco/123456/173.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",LOVE NATURE 
-#https://goldvod.org/live/hpgdisco/123456/157.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC 
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf41V1rt/In-Shot-20260127-124426100.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC WILD 
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/VkSMNT9t/In-Shot-20260127-124525778.png" group-title="ULUSAL ➾ BELGESEL",VIASAT EXPLORE 
-#https://goldvod.org/live/hpgdisco/123456/444.m3u8
+https://lord.mariuannastluisborg.autos/bbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mDr1Q2PG/Yabantv-logo.png" group-title="ULUSAL ➾ BELGESEL",YABAN TV 
-#https://goldvod.org/live/hpgdisco/123456/448.m3u8
+http://umperisn.mywire.org/index.php?id=594646&token=DeaTHLesS
 
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth TR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="ULUSAL ➾ BELGESEL",BBC EARTH 
+http://185.246.209.113:80/BBCEarthHD/index.m3u8
+#https://tr.livev.xyz/bbce/index.m3u8
+#EXTINF:0 tvg-name="Animal Planet TR" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="ULUSAL ➾ BELGESEL",ANIMALPLANET
+http://185.246.209.113:80/ANIMALPLANETHD/index.m3u8
+#https://tr.livev.xyz/wild/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkchannelus.jpg" group-title="ULUSAL ➾ BELGESEL",Hallmark
+http://185.246.209.113:80/Hallmark/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="ULUSAL ➾ BELGESEL",BizimEv TV
+http://193.123.61.120:3000/kanal/bizimevtv2000
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="ULUSAL ➾ BELGESEL",TGRT Belgesel
+http://193.123.61.120:3000/kanal/tgrtbelgeseltv
+#EXTINF:-1 tvg-id="" tvg-name="Toprak TV" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="ULUSAL ➾ BELGESEL",Toprak TV
+http://193.123.61.120:3000/kanal/topraktvtarim.official
+#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="ULUSAL ➾ BELGESEL",Dmax Ed Stafford
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarihin Arka Odası" tvg-logo="https://i.ibb.co/CpmPkDhS/tarihhh.jpg" group-title="ULUSAL ➾ BELGESEL",Tarihin Arka Odası
+http://193.123.61.120:3000/kanal/tarihinarkaodasitv
+#EXTINF:-1 tvg-id="" tvg-name="Nhất - My Bushcraft" tvg-logo="https://i.ibb.co/LdvFhzGr/buscraft.jpg" group-title="ULUSAL ➾ BELGESEL",Nhất - My Bushcraft
+http://193.123.61.120:3000/kanal/MyBushcraft156
+#EXTINF:-1 tvg-id="" tvg-name="Building with Lam Channel" tvg-logo="https://i.ibb.co/TBvTbpq5/bwithch.jpg" group-title="ULUSAL ➾ BELGESEL",Building with Lam Channel
+http://193.123.61.120:3000/kanal/BuildingwithLamChannel
+#EXTINF:-1 tvg-id="" tvg-name="Dunya Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="ULUSAL ➾ BELGESEL",Dunya Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_1
+#EXTINF:-1 tvg-id="" tvg-name="Avrupa Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="ULUSAL ➾ BELGESEL",Avrupa Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_2
+#EXTINF:-1 tvg-id="" tvg-name="Turkiye Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="ULUSAL ➾ BELGESEL",Turkiye Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_3
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/xq1M7926/natgeooo.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic
+http://193.123.61.120:3000/kanal/NatGeo_1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic-2" tvg-logo="https://i.ibb.co/xq1M7926/natgeooo.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic-2
+http://193.123.61.120:3000/kanal/NatGeo_2
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Animals 1" tvg-logo="https://i.ibb.co/gZPRWSqR/natgeoanimals.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic Animals 1
+http://193.123.61.120:3000/kanal/NatGeoAnimals_1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Animals 2" tvg-logo="https://i.ibb.co/gZPRWSqR/natgeoanimals.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic Animals 2
+http://193.123.61.120:3000/kanal/NatGeoAnimals_2
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids-1" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic Kids-1
+http://193.123.61.120:3000/kanal/natgeokids_1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids-1" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="ULUSAL ➾ BELGESEL",National Geographic Kids-1
+http://193.123.61.120:3000/kanal/natgeokids_2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel-1" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="ULUSAL ➾ BELGESEL",Discovery Channel-1
+http://193.123.61.120:3000/kanal/discovery_1
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel-2" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="ULUSAL ➾ BELGESEL",Discovery Channel-2
+http://193.123.61.120:3000/kanal/discovery_2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel-3" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="ULUSAL ➾ BELGESEL",Discovery Channel-3
+http://193.123.61.120:3000/kanal/discovery_3
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature Predators" tvg-logo="https://i.ibb.co/bMqwwSFX/lovenatpre.jpg" group-title="ULUSAL ➾ BELGESEL",Love Nature Predators
+http://193.123.61.120:3000/kanal/LoveNaturePredators
+#EXTINF:-1 tvg-id="" tvg-name="War Stories" tvg-logo="https://i.ibb.co/GQ0qhgGG/warstories.jpg" group-title="ULUSAL ➾ BELGESEL",War Stories
+http://193.123.61.120:3000/kanal/WarStoriesChannel
+#EXTINF:-1 tvg-id="" tvg-name="Ancient Story" tvg-logo="https://i.ibb.co/ccdPWDpX/ancienthistory.jpg" group-title="ULUSAL ➾ BELGESEL",Ancient Story
+http://193.123.61.120:3000/kanal/ancienthistory
+#EXTINF:-1 tvg-id="" tvg-name="The Ancient World" tvg-logo="https://i.ibb.co/JRf6vFpB/theancientworld.jpg" group-title="ULUSAL ➾ BELGESEL",The Ancient World
+http://193.123.61.120:3000/kanal/ancientworld
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/jv5VqMzL/bbbcearth.jpg" group-title="ULUSAL ➾ BELGESEL",BBC Earth
+http://193.123.61.120:3000/kanal/bbcearth
+#EXTINF:-1 tvg-id="" tvg-name="BBC Timestamp" tvg-logo="https://i.ibb.co/4Rp6CPCb/bbcstamp.jpg" group-title="ULUSAL ➾ BELGESEL",BBC Timestamp
+http://193.123.61.120:3000/kanal/BBCTimestamp
+#EXTINF:-1 tvg-id="" tvg-name="Nature Echoes-1" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="ULUSAL ➾ BELGESEL",Nature Echoes-1
+http://193.123.61.120:3000/kanal/AnimaliaWonders2101_1
+#EXTINF:-1 tvg-id="" tvg-name="Nature Echoes-2" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="ULUSAL ➾ BELGESEL",Nature Echoes-2
+http://193.123.61.120:3000/kanal/AnimaliaWonders2101_2
+#EXTINF:-1 tvg-id="" tvg-name="Nature Echoes-3" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="ULUSAL ➾ BELGESEL",Nature Echoes-3
+http://193.123.61.120:3000/kanal/AnimaliaWonders2101_3
+#EXTINF:-1 tvg-id="" tvg-name="Nature Echoes-4" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="ULUSAL ➾ BELGESEL",Nature Echoes-4
+http://193.123.61.120:3000/kanal/AnimaliaWonders2101_4
+#EXTINF:-1 tvg-id="" tvg-name="Earth TV" tvg-logo="https://i.ibb.co/h1TXBmp1/earthtv.jpg" group-title="ULUSAL ➾ BELGESEL",Earth TV
+http://193.123.61.120:3000/kanal/earthTV_2
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Documentary" tvg-logo="https://i.ibb.co/gZws1418/aljezire.jpg" group-title="ULUSAL ➾ BELGESEL",Al Jazeera Documentary
+http://193.123.61.120:3000/kanal/aljazeeradocumentary
+#EXTINF:-1 tvg-id="" tvg-name="Criminals And Crime Fighters" tvg-logo="https://i.ibb.co/Hfx8fB6C/criminal.jpg" group-title="ULUSAL ➾ BELGESEL",Criminals And Crime Fighters
+http://193.123.61.120:3000/kanal/criminalsandcrimefighters
+#EXTINF:-1 tvg-id="" tvg-name="Odyssey - Ancient History Documentaries" tvg-logo="https://i.ibb.co/LDVBCn1S/odysey.jpg" group-title="ULUSAL ➾ BELGESEL",Odyssey - Ancient History Documentaries
+http://193.123.61.120:3000/kanal/odyssey
+#EXTINF:-1 tvg-id="" tvg-name="Absolute History" tvg-logo="https://i.ibb.co/ymfLwf59/absolute.jpg" group-title="ULUSAL ➾ BELGESEL",Absolute History
+http://193.123.61.120:3000/kanal/AbsoluteHistory
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Nature Documentaries-1" tvg-logo="https://i.ibb.co/m5JXT2fP/ultimate1.jpg" group-title="ULUSAL ➾ BELGESEL",Ultimate Nature Documentaries-1
+http://193.123.61.120:3000/kanal/UltimateNatureDocs_1
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Nature Documentaries-2" tvg-logo="https://i.ibb.co/m5JXT2fP/ultimate1.jpg" group-title="ULUSAL ➾ BELGESEL",Ultimate Nature Documentaries-2
+http://193.123.61.120:3000/kanal/UltimateNatureDocs_2
+#EXTINF:-1 tvg-id="" tvg-name="Spacedust" tvg-logo="https://i.ibb.co/ymfLwf59/absolute.jpg" group-title="ULUSAL ➾ BELGESEL",Spacedust
+http://193.123.61.120:3000/kanal/SpacedustDOC
+#EXTINF:-1 tvg-id="" tvg-name="Dream Trips-1" tvg-logo="https://i.ibb.co/6LH9HjR/dreamtrips.jpg" group-title="ULUSAL ➾ BELGESEL",Dream Trips-1
+http://193.123.61.120:3000/kanal/DreamTripspk_1
+#EXTINF:-1 tvg-id="" tvg-name="Dream Trips-2" tvg-logo="https://i.ibb.co/6LH9HjR/dreamtrips.jpg" group-title="ULUSAL ➾ BELGESEL",Dream Trips-2
+http://193.123.61.120:3000/kanal/DreamTripspk_2
+#EXTINF:-1 tvg-id="" tvg-name="Dream Trips-3" tvg-logo="https://i.ibb.co/6LH9HjR/dreamtrips.jpg" group-title="ULUSAL ➾ BELGESEL",Dream Trips-3
+http://193.123.61.120:3000/kanal/DreamTripspk_3
+#EXTINF:-1 tvg-id="" tvg-name="The Island with Bear Grylls" tvg-logo="https://i.ibb.co/tpH2R8Km/island.jpg" group-title="ULUSAL ➾ BELGESEL",The Island with Bear Grylls
+http://193.123.61.120:3000/kanal/TheIslandwithBearGrylls
+#EXTINF:-1 tvg-id="" tvg-name="WildEarth" tvg-logo="https://i.ibb.co/Nn3J7jj1/wildearth.jpg" group-title="ULUSAL ➾ BELGESEL",WildEarth
+http://193.123.61.120:3000/kanal/wildearth
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet-1" tvg-logo="https://i.ibb.co/ZRVrwVtJ/animalplanet.jpg" group-title="ULUSAL ➾ BELGESEL",Animal Planet-1
+http://193.123.61.120:3000/kanal/animalplanet_1
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet-2" tvg-logo="https://i.ibb.co/ZRVrwVtJ/animalplanet.jpg" group-title="ULUSAL ➾ BELGESEL",Animal Planet-2
+http://193.123.61.120:3000/kanal/animalplanet_2
+#EXTINF:-1 tvg-id="" tvg-name="Forces Of Nature" tvg-logo="https://i.ibb.co/JFv1cWVc/forcesnature.jpg" group-title="ULUSAL ➾ BELGESEL",Forces Of Nature
+http://193.123.61.120:3000/kanal/ForcesOfNature
 
 
 
